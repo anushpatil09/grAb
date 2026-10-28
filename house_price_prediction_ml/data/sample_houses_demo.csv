@@ -1,0 +1,2501 @@
+city,area_sqft,bedrooms,bathrooms,property_age_years,floor_number,parking_spaces,furnishing,property_type,locality_score,distance_to_city_center_km,price_inr
+Mumbai,615,2,1,42,13,1,Semi-furnished,Independent House,3.2,14.7,7440644
+Nashik,635,1,1,1,21,3,Semi-furnished,Independent House,5.5,20.5,3197549
+Kolhapur,656,1,1,29,13,1,Furnished,Apartment,2.2,13.8,1935621
+Delhi,1992,4,4,28,19,0,Semi-furnished,Apartment,7.1,1.8,17490713
+Delhi,673,1,2,5,5,1,Semi-furnished,Apartment,5.2,7.2,7665304
+Nagpur,2609,4,4,40,19,2,Furnished,Independent House,2.6,29.8,9172560
+Mumbai,2349,5,5,18,18,1,Semi-furnished,Apartment,6.3,10.7,30117536
+Kolhapur,2522,6,6,43,22,2,Unfurnished,Independent House,8.2,10.1,8583328
+Bengaluru,1744,4,5,5,1,0,Semi-furnished,Apartment,6.3,5.0,16202387
+Mumbai,2991,6,5,29,9,2,Semi-furnished,Independent House,5.8,29.6,43030547
+Chennai,467,1,1,5,2,1,Semi-furnished,Apartment,8.6,7.3,3668101
+Ahmedabad,1413,2,2,42,10,0,Furnished,Independent House,1.1,19.6,6819122
+Nashik,1208,4,4,27,18,2,Unfurnished,Independent House,6.6,1.7,5256178
+Nashik,2864,6,6,3,16,2,Semi-furnished,Apartment,4.7,2.5,11400402
+Nashik,1879,5,5,9,18,1,Unfurnished,Apartment,2.7,21.6,6429510
+Nashik,2486,5,4,16,18,1,Unfurnished,Apartment,9.8,19.2,10035751
+Chennai,801,2,2,0,24,0,Semi-furnished,Apartment,4.6,20.6,5583054
+Pune,2943,6,6,0,21,3,Semi-furnished,Independent House,4.0,7.3,27329921
+Nagpur,1671,4,4,41,14,1,Semi-furnished,Apartment,2.5,29.6,5178124
+Delhi,1658,4,3,44,21,2,Unfurnished,Independent House,10.0,17.0,16233469
+Chennai,2923,6,6,24,1,1,Unfurnished,Apartment,8.7,29.1,18259072
+Hyderabad,1359,2,3,40,18,2,Semi-furnished,Independent House,1.6,5.3,8589022
+Pune,1403,3,3,29,13,0,Semi-furnished,Apartment,6.1,12.5,9353001
+Ahmedabad,1900,3,3,1,23,1,Semi-furnished,Apartment,2.3,10.4,8170302
+Nashik,689,2,2,32,12,1,Semi-furnished,Apartment,7.4,22.8,3058168
+Kolhapur,1201,5,5,0,4,0,Furnished,Independent House,5.4,22.6,4856526
+Delhi,862,3,2,36,18,0,Semi-furnished,Apartment,2.0,14.9,6579910
+Nagpur,624,2,1,16,23,1,Semi-furnished,Independent House,6.0,1.0,2598334
+Chennai,2645,6,6,6,0,2,Semi-furnished,Apartment,9.2,5.7,21910078
+Delhi,1912,3,3,11,1,1,Semi-furnished,Villa,4.1,2.0,20980196
+Delhi,1300,2,1,30,16,0,Furnished,Independent House,1.5,25.5,10587506
+Bengaluru,1433,4,5,38,13,3,Semi-furnished,Independent House,9.5,9.0,13188630
+Mumbai,1494,3,3,25,13,0,Semi-furnished,Independent House,2.3,4.0,17385314
+Chennai,2028,4,4,7,2,1,Semi-furnished,Apartment,5.3,10.9,14435007
+Nagpur,2806,6,6,40,14,3,Semi-furnished,Independent House,5.9,2.8,10941770
+Mumbai,2822,5,5,35,14,2,Furnished,Apartment,3.1,29.4,31072705
+Nagpur,1387,2,3,18,21,2,Furnished,Independent House,2.6,9.8,5465735
+Nagpur,1223,3,3,24,9,2,Unfurnished,Apartment,2.0,28.0,3720226
+Bengaluru,1545,3,4,43,8,1,Unfurnished,Apartment,1.6,20.6,8779624
+Kolhapur,1855,4,4,16,2,1,Semi-furnished,Independent House,5.6,17.2,7638604
+Pune,1574,3,3,1,14,1,Semi-furnished,Apartment,8.6,14.5,13322796
+Nashik,2096,5,5,6,16,2,Furnished,Apartment,2.1,20.8,8637257
+Nashik,1819,4,4,27,7,2,Unfurnished,Apartment,7.3,20.7,5944804
+Hyderabad,1200,3,3,44,18,1,Furnished,Independent House,4.7,0.8,8309108
+Mumbai,1266,3,3,33,23,1,Semi-furnished,Apartment,1.3,27.3,11120057
+Ahmedabad,1353,3,2,27,4,1,Unfurnished,Apartment,5.8,11.4,5688042
+Delhi,601,1,1,14,14,1,Unfurnished,Villa,3.3,10.9,7116173
+Nagpur,790,2,2,19,17,2,Semi-furnished,Villa,6.4,12.5,3604604
+Kolhapur,2266,6,6,1,0,0,Unfurnished,Apartment,4.1,20.7,8452565
+Nashik,1381,3,4,16,4,1,Semi-furnished,Apartment,7.0,11.6,6422061
+Nashik,919,2,3,28,9,2,Semi-furnished,Apartment,9.3,11.5,4442009
+Pune,1841,3,4,40,3,1,Semi-furnished,Villa,3.2,2.4,14221184
+Hyderabad,2352,5,4,41,8,1,Unfurnished,Apartment,9.5,12.8,18103971
+Delhi,1032,3,4,36,3,1,Furnished,Apartment,2.8,4.9,9754155
+Delhi,2541,6,6,0,22,0,Semi-furnished,Apartment,1.6,25.7,22133387
+Mumbai,2808,6,6,36,14,1,Semi-furnished,Apartment,2.7,10.4,30733757
+Chennai,1933,5,5,9,8,0,Semi-furnished,Apartment,8.3,28.8,13938200
+Pune,2123,5,5,27,19,0,Semi-furnished,Independent House,7.1,20.7,17430262
+Nashik,489,2,3,42,0,0,Furnished,Apartment,9.7,22.8,2183120
+Kolhapur,2856,6,6,39,14,1,Semi-furnished,Apartment,7.4,28.5,10012894
+Ahmedabad,1390,4,5,29,17,0,Semi-furnished,Independent House,4.7,7.5,8003318
+Nashik,2798,6,6,13,20,3,Unfurnished,Apartment,9.0,17.2,11264685
+Hyderabad,1884,5,5,23,5,0,Unfurnished,Apartment,9.6,1.7,15045384
+Ahmedabad,362,1,1,31,14,1,Semi-furnished,Apartment,8.1,3.5,1834671
+Delhi,452,2,2,23,19,2,Unfurnished,Independent House,6.0,11.3,4896344
+Hyderabad,2153,5,5,18,19,0,Semi-furnished,Apartment,8.4,20.6,15323074
+Ahmedabad,1841,4,4,18,4,1,Furnished,Independent House,2.6,25.0,9556894
+Hyderabad,420,1,1,26,24,2,Semi-furnished,Apartment,9.1,8.1,3112345
+Mumbai,2320,6,6,1,6,1,Unfurnished,Apartment,10.0,22.6,28167370
+Delhi,2608,6,6,44,9,0,Semi-furnished,Apartment,7.0,7.1,27260664
+Nashik,1666,3,3,4,4,2,Unfurnished,Apartment,2.8,0.7,5921253
+Pune,1584,4,5,44,3,1,Semi-furnished,Apartment,2.3,2.1,10263851
+Delhi,365,1,1,1,6,1,Semi-furnished,Independent House,9.6,17.8,3978042
+Pune,2435,5,6,23,3,0,Semi-furnished,Apartment,8.8,15.2,17883039
+Kolhapur,1226,4,4,18,18,0,Semi-furnished,Apartment,7.7,8.5,4588253
+Delhi,2679,5,5,25,14,2,Semi-furnished,Villa,9.5,0.7,30951367
+Hyderabad,1339,3,4,19,9,1,Unfurnished,Apartment,5.5,17.3,7704862
+Bengaluru,1847,3,3,40,13,0,Unfurnished,Apartment,9.0,24.6,14825749
+Chennai,1066,2,3,0,15,1,Semi-furnished,Apartment,2.5,2.5,6173802
+Kolhapur,776,1,1,44,4,2,Furnished,Apartment,2.6,22.2,2400144
+Ahmedabad,2404,6,6,31,7,0,Unfurnished,Villa,5.6,19.2,12330051
+Delhi,1666,6,6,35,22,0,Unfurnished,Villa,4.0,14.6,12411427
+Pune,1772,4,4,6,0,1,Unfurnished,Apartment,4.9,1.9,12867208
+Nagpur,2908,5,6,2,23,1,Semi-furnished,Villa,8.2,27.7,14251875
+Kolhapur,2903,6,5,17,24,1,Unfurnished,Apartment,1.5,14.6,7601514
+Nashik,2617,5,5,14,6,2,Semi-furnished,Villa,7.5,12.3,13775457
+Mumbai,847,3,4,35,8,0,Unfurnished,Independent House,1.8,25.9,9094212
+Hyderabad,1925,4,4,40,5,1,Semi-furnished,Apartment,8.6,25.4,11990372
+Nashik,2677,5,5,19,14,1,Unfurnished,Apartment,2.8,22.0,9373284
+Nagpur,1342,3,3,34,5,1,Semi-furnished,Independent House,7.6,25.0,5707070
+Delhi,618,2,1,2,19,1,Unfurnished,Apartment,6.3,4.2,5692296
+Nagpur,2499,5,5,33,9,2,Semi-furnished,Apartment,4.5,22.9,8396658
+Nagpur,1627,3,4,4,24,1,Furnished,Independent House,3.4,10.2,7396706
+Hyderabad,1846,4,4,30,21,2,Unfurnished,Apartment,1.5,26.1,8870467
+Nagpur,2953,6,6,17,10,0,Furnished,Apartment,4.2,11.4,11695218
+Bengaluru,1959,5,4,18,14,1,Unfurnished,Apartment,2.8,2.1,13293239
+Bengaluru,1476,2,3,12,0,1,Semi-furnished,Independent House,2.2,12.7,12190545
+Kolhapur,1330,3,4,18,1,1,Semi-furnished,Apartment,7.6,22.8,5109972
+Kolhapur,1457,4,5,39,12,0,Unfurnished,Apartment,2.9,15.3,3046139
+Pune,664,2,2,36,11,3,Semi-furnished,Apartment,3.0,23.0,4186108
+Nagpur,2456,6,6,15,9,2,Unfurnished,Apartment,4.1,1.5,9098185
+Pune,2570,6,6,13,2,2,Semi-furnished,Independent House,5.2,5.7,21959466
+Nagpur,1104,3,2,22,20,2,Semi-furnished,Apartment,5.6,17.1,3956976
+Mumbai,1155,3,2,30,10,0,Furnished,Independent House,7.0,11.9,14685427
+Nashik,2667,6,6,8,11,1,Unfurnished,Apartment,6.3,20.6,11538360
+Nashik,414,2,2,32,10,1,Furnished,Independent House,5.3,28.9,1761037
+Nashik,1729,4,3,42,12,2,Unfurnished,Apartment,4.5,20.0,6294781
+Kolhapur,1579,3,3,38,16,0,Semi-furnished,Independent House,3.4,12.8,5373274
+Delhi,2179,4,4,24,19,0,Unfurnished,Apartment,7.4,16.5,19167813
+Nashik,783,2,3,14,13,1,Unfurnished,Independent House,3.9,27.4,3397799
+Bengaluru,2121,5,5,14,4,0,Unfurnished,Apartment,8.6,20.4,17796187
+Nashik,1348,4,3,33,21,2,Semi-furnished,Apartment,6.3,24.2,5935423
+Chennai,1990,4,4,20,7,1,Unfurnished,Apartment,6.7,9.4,14656432
+Delhi,456,1,2,4,0,1,Semi-furnished,Apartment,5.6,22.5,4833269
+Chennai,1574,4,4,30,0,2,Furnished,Apartment,9.4,4.6,11991196
+Chennai,1734,4,4,6,19,1,Unfurnished,Independent House,4.8,22.6,14427662
+Mumbai,918,1,2,44,9,0,Unfurnished,Independent House,4.8,26.5,10066800
+Pune,720,2,2,18,0,0,Unfurnished,Independent House,9.0,27.1,6161284
+Bengaluru,849,1,1,15,20,0,Unfurnished,Villa,6.4,3.9,8221004
+Pune,1262,2,1,2,7,0,Semi-furnished,Apartment,5.0,25.0,8844642
+Delhi,607,2,2,7,24,1,Semi-furnished,Apartment,3.4,3.7,6341731
+Kolhapur,2860,6,6,42,21,1,Unfurnished,Independent House,3.2,14.6,8258305
+Kolhapur,1423,2,2,24,1,1,Unfurnished,Apartment,8.2,20.6,5384865
+Delhi,2494,5,6,40,17,0,Semi-furnished,Apartment,3.5,14.8,22455077
+Nagpur,2932,6,6,43,15,2,Unfurnished,Apartment,1.1,10.5,8786204
+Chennai,564,3,3,2,4,0,Semi-furnished,Apartment,1.2,20.7,3295623
+Mumbai,2077,4,5,17,8,1,Furnished,Apartment,9.8,20.0,29321615
+Nashik,2659,6,6,37,12,1,Unfurnished,Apartment,6.0,17.7,7317725
+Chennai,2031,6,6,22,3,0,Semi-furnished,Apartment,5.4,16.1,13207306
+Kolhapur,1487,3,3,22,18,2,Furnished,Independent House,9.3,21.3,6717834
+Chennai,1492,4,3,25,6,0,Semi-furnished,Villa,4.2,12.4,10704485
+Chennai,445,1,2,31,23,1,Semi-furnished,Apartment,8.2,2.5,3001533
+Mumbai,1767,4,4,42,20,1,Semi-furnished,Apartment,7.5,16.4,20742727
+Chennai,2983,5,5,39,15,2,Semi-furnished,Apartment,5.3,21.8,20345016
+Nashik,2891,6,6,28,2,1,Semi-furnished,Apartment,8.0,9.3,12420715
+Hyderabad,457,2,3,25,0,2,Semi-furnished,Apartment,9.7,4.7,4046720
+Kolhapur,2220,5,5,16,3,1,Semi-furnished,Independent House,2.8,27.4,7248327
+Mumbai,1150,2,1,5,12,1,Semi-furnished,Independent House,1.2,26.0,13912700
+Hyderabad,2743,5,4,31,19,2,Semi-furnished,Apartment,8.4,18.7,18765343
+Delhi,470,1,2,0,3,1,Furnished,Independent House,4.6,23.7,5817434
+Ahmedabad,2830,6,6,31,17,1,Unfurnished,Independent House,5.9,29.1,13636320
+Bengaluru,2569,6,6,22,1,0,Unfurnished,Independent House,3.0,17.3,23934513
+Bengaluru,661,1,1,35,6,1,Unfurnished,Apartment,8.6,7.7,5343853
+Delhi,509,1,1,42,14,1,Unfurnished,Independent House,7.5,19.3,5342322
+Ahmedabad,2562,6,6,24,20,0,Semi-furnished,Independent House,9.6,27.5,14579106
+Nagpur,763,2,3,25,19,1,Unfurnished,Apartment,5.3,20.9,2821564
+Mumbai,1767,4,4,21,13,0,Semi-furnished,Independent House,9.8,1.3,23974990
+Bengaluru,2777,6,5,16,0,1,Semi-furnished,Independent House,5.6,27.6,25531546
+Nagpur,1854,4,4,3,7,2,Unfurnished,Apartment,6.6,22.7,6523879
+Mumbai,1403,3,2,1,19,1,Unfurnished,Apartment,7.1,12.4,18701020
+Nagpur,1529,3,3,32,2,1,Semi-furnished,Apartment,5.4,29.6,4569256
+Bengaluru,517,2,2,41,17,0,Semi-furnished,Independent House,6.1,21.8,4341197
+Ahmedabad,2917,6,6,2,17,0,Semi-furnished,Apartment,3.0,24.9,15114027
+Bengaluru,1173,3,3,14,18,1,Unfurnished,Apartment,4.3,28.3,9456650
+Delhi,852,2,1,27,5,2,Unfurnished,Apartment,7.3,1.7,7198903
+Kolhapur,1108,4,3,31,6,2,Unfurnished,Independent House,1.4,23.3,2697868
+Pune,2906,6,6,33,4,1,Unfurnished,Independent House,7.3,11.9,23687707
+Chennai,600,2,2,31,9,2,Furnished,Apartment,3.7,26.1,4361186
+Chennai,2648,6,5,3,13,2,Unfurnished,Apartment,3.4,26.4,14995578
+Nashik,2226,5,6,11,2,2,Unfurnished,Apartment,7.2,24.9,10932878
+Ahmedabad,2550,5,5,21,14,2,Furnished,Apartment,2.9,23.5,12024886
+Kolhapur,2936,6,6,2,5,0,Semi-furnished,Independent House,9.7,23.9,10944354
+Delhi,2582,6,6,15,14,0,Semi-furnished,Apartment,9.9,9.2,24602732
+Delhi,2850,6,5,17,7,1,Semi-furnished,Independent House,5.1,12.5,30281899
+Delhi,686,2,1,44,23,1,Furnished,Independent House,4.6,3.9,6706001
+Nagpur,2459,6,6,14,7,2,Unfurnished,Independent House,1.7,25.0,9581319
+Hyderabad,1796,3,3,43,21,1,Unfurnished,Apartment,8.0,19.6,10110286
+Pune,1790,3,4,31,4,1,Furnished,Apartment,2.5,18.6,12546778
+Hyderabad,2732,6,6,31,2,2,Semi-furnished,Apartment,9.4,7.8,20340000
+Mumbai,2925,6,5,36,4,1,Furnished,Villa,9.9,18.6,45327301
+Pune,2218,4,4,37,10,2,Unfurnished,Independent House,2.1,13.9,13983152
+Mumbai,1630,5,4,10,22,0,Furnished,Independent House,7.1,29.9,22911781
+Nashik,1559,4,3,18,4,1,Unfurnished,Independent House,5.2,26.0,6459716
+Nashik,1374,4,3,23,19,1,Semi-furnished,Apartment,5.9,16.0,5785110
+Kolhapur,1308,3,2,43,17,1,Furnished,Independent House,2.6,24.3,4404584
+Delhi,1387,3,3,1,8,0,Unfurnished,Independent House,7.5,5.4,16267907
+Nashik,588,1,1,21,8,1,Unfurnished,Apartment,2.5,3.5,1848039
+Pune,555,1,1,9,23,1,Semi-furnished,Villa,9.0,19.1,4765173
+Ahmedabad,2417,5,4,9,17,1,Furnished,Independent House,5.1,21.9,14459325
+Chennai,1532,4,4,34,5,2,Unfurnished,Villa,6.7,2.1,10630722
+Ahmedabad,2816,6,6,9,22,0,Furnished,Independent House,9.3,6.4,17215734
+Pune,1972,4,5,35,10,1,Unfurnished,Apartment,7.6,16.3,13558488
+Delhi,443,1,1,44,1,0,Semi-furnished,Apartment,5.9,2.4,3683521
+Kolhapur,767,2,1,34,20,2,Unfurnished,Apartment,4.6,13.0,2049865
+Delhi,895,4,4,7,21,2,Furnished,Independent House,5.2,14.7,9436388
+Delhi,2936,6,6,6,11,3,Unfurnished,Apartment,4.1,27.7,27446248
+Pune,930,1,1,19,17,2,Semi-furnished,Independent House,9.5,9.8,8472865
+Hyderabad,1717,4,3,24,5,1,Unfurnished,Apartment,3.3,5.5,10802956
+Bengaluru,2831,6,6,35,21,1,Furnished,Apartment,4.7,0.7,22785320
+Hyderabad,2940,5,4,19,9,1,Semi-furnished,Apartment,8.0,4.1,23324675
+Kolhapur,976,2,2,7,6,2,Unfurnished,Independent House,4.3,22.7,3332134
+Kolhapur,480,1,2,44,12,1,Unfurnished,Apartment,9.0,13.6,1331774
+Kolhapur,757,1,1,40,6,1,Semi-furnished,Apartment,3.2,6.4,2382446
+Hyderabad,518,1,1,29,15,2,Semi-furnished,Apartment,1.3,28.0,3127603
+Ahmedabad,867,2,2,31,18,2,Furnished,Apartment,6.7,23.7,4224470
+Mumbai,1857,4,5,42,10,3,Semi-furnished,Villa,5.6,3.9,27697718
+Hyderabad,2768,6,6,21,19,0,Semi-furnished,Apartment,9.4,8.4,19591451
+Pune,1774,3,3,6,10,1,Semi-furnished,Apartment,4.8,25.6,14318862
+Hyderabad,2009,5,6,27,24,1,Semi-furnished,Apartment,2.2,20.9,13868978
+Ahmedabad,885,1,1,20,6,1,Unfurnished,Apartment,4.0,28.4,3801730
+Hyderabad,2472,6,5,35,17,1,Unfurnished,Apartment,4.5,2.7,14597572
+Ahmedabad,1987,3,3,34,13,1,Unfurnished,Apartment,6.2,23.4,8724687
+Delhi,2640,5,5,21,23,2,Semi-furnished,Apartment,3.5,2.8,27159062
+Kolhapur,2864,6,5,16,5,1,Unfurnished,Apartment,6.0,10.4,10211795
+Delhi,1272,4,3,18,4,1,Semi-furnished,Apartment,9.2,22.6,15379218
+Bengaluru,590,2,3,28,21,2,Unfurnished,Independent House,4.8,21.5,4947090
+Nashik,949,3,3,28,22,1,Semi-furnished,Apartment,6.9,0.6,3836431
+Ahmedabad,1510,3,3,23,18,1,Unfurnished,Independent House,3.1,6.5,6644715
+Bengaluru,2856,6,5,23,11,0,Semi-furnished,Independent House,8.2,23.5,26967601
+Nashik,1353,3,3,44,10,0,Unfurnished,Independent House,3.4,4.2,3926249
+Bengaluru,2393,4,4,11,16,2,Unfurnished,Apartment,6.2,10.1,19559987
+Nashik,1782,3,3,7,18,1,Unfurnished,Independent House,3.7,5.9,7147082
+Nashik,834,2,2,35,6,0,Semi-furnished,Independent House,1.6,3.8,3187021
+Delhi,1200,2,2,42,0,3,Semi-furnished,Villa,3.9,25.2,13332941
+Nashik,2081,5,5,27,1,1,Unfurnished,Independent House,2.9,2.3,8025497
+Bengaluru,2133,4,5,18,8,2,Semi-furnished,Apartment,9.0,16.3,17051570
+Mumbai,1502,4,4,15,17,1,Semi-furnished,Villa,3.4,20.9,18844573
+Mumbai,956,2,1,21,11,3,Semi-furnished,Independent House,9.8,2.2,14660606
+Delhi,2263,6,6,2,15,0,Semi-furnished,Apartment,5.4,19.2,22344446
+Ahmedabad,798,2,1,23,11,0,Unfurnished,Apartment,3.0,10.4,3936190
+Pune,2832,6,6,12,6,2,Semi-furnished,Villa,4.5,25.1,26305973
+Delhi,848,1,1,11,18,2,Semi-furnished,Apartment,2.7,24.0,7999451
+Nashik,634,1,1,25,18,1,Semi-furnished,Independent House,8.5,23.9,2859569
+Bengaluru,1669,3,3,43,24,0,Unfurnished,Apartment,2.1,12.3,12023543
+Nashik,1727,4,3,9,20,1,Semi-furnished,Independent House,8.9,24.8,7867327
+Hyderabad,1697,4,4,41,9,2,Unfurnished,Apartment,1.4,19.1,9635720
+Nagpur,1507,3,4,23,17,2,Semi-furnished,Independent House,3.7,11.7,5582979
+Chennai,2986,6,5,43,8,1,Unfurnished,Apartment,2.3,2.9,13285636
+Chennai,1639,3,4,17,21,0,Unfurnished,Villa,7.2,2.5,13377081
+Pune,1617,2,2,44,15,1,Semi-furnished,Apartment,5.6,7.9,12845911
+Delhi,1468,2,2,29,20,2,Furnished,Apartment,9.5,9.3,15296037
+Nagpur,527,2,2,30,7,1,Unfurnished,Apartment,4.3,27.9,1971839
+Mumbai,1921,3,3,25,0,1,Semi-furnished,Apartment,1.4,30.0,16191647
+Nashik,954,1,1,20,3,3,Semi-furnished,Villa,7.9,4.7,4468090
+Delhi,2040,6,6,23,13,1,Furnished,Apartment,6.2,28.3,19678267
+Nashik,485,1,2,38,24,1,Semi-furnished,Apartment,8.4,21.3,1949366
+Kolhapur,2951,6,6,35,15,1,Unfurnished,Independent House,4.8,15.2,9174967
+Delhi,1593,4,4,1,20,1,Unfurnished,Apartment,7.6,28.7,15900131
+Hyderabad,2726,6,6,31,11,2,Semi-furnished,Apartment,2.5,21.6,15218321
+Kolhapur,1610,2,2,37,23,1,Unfurnished,Independent House,10.0,18.0,5930591
+Pune,510,1,1,33,23,1,Furnished,Apartment,2.6,6.7,3699094
+Chennai,2529,4,4,22,5,0,Furnished,Independent House,8.5,7.7,19300134
+Mumbai,2068,6,6,15,21,2,Furnished,Independent House,2.9,27.4,26398762
+Kolhapur,2422,4,4,30,0,0,Unfurnished,Apartment,8.0,6.8,7966886
+Kolhapur,1485,2,3,29,14,0,Semi-furnished,Apartment,8.8,1.5,5068012
+Mumbai,2041,4,5,16,10,1,Semi-furnished,Independent House,8.9,8.4,31513192
+Nashik,2619,5,4,18,7,1,Unfurnished,Apartment,5.3,14.7,11710671
+Delhi,2022,6,6,16,23,3,Unfurnished,Independent House,4.9,11.8,21299525
+Nashik,1271,5,5,2,16,2,Unfurnished,Apartment,8.5,28.1,5845661
+Mumbai,2106,4,4,1,3,2,Semi-furnished,Apartment,6.2,12.8,26864754
+Pune,2130,4,4,3,3,1,Furnished,Independent House,6.6,26.7,18823381
+Delhi,2896,5,6,19,2,1,Furnished,Apartment,3.1,18.0,28839302
+Pune,1333,3,3,22,7,3,Unfurnished,Apartment,5.0,16.0,7533540
+Hyderabad,1476,3,4,18,1,1,Semi-furnished,Apartment,4.3,5.2,9561207
+Kolhapur,2502,5,6,42,6,2,Unfurnished,Independent House,7.0,8.5,9344851
+Pune,1690,4,5,10,19,1,Unfurnished,Independent House,2.8,26.1,10961231
+Kolhapur,2302,5,6,17,21,1,Unfurnished,Apartment,4.7,23.5,7703708
+Pune,1568,4,3,11,19,1,Semi-furnished,Apartment,8.6,13.7,13831153
+Pune,921,2,1,13,12,0,Semi-furnished,Villa,5.9,27.3,7258256
+Chennai,2325,4,3,26,17,0,Furnished,Apartment,9.1,24.7,17312848
+Nashik,698,2,1,13,23,1,Furnished,Apartment,3.1,3.8,2779673
+Pune,876,2,2,14,1,0,Unfurnished,Apartment,5.0,18.4,6495114
+Bengaluru,2011,5,5,30,22,1,Semi-furnished,Apartment,5.5,24.1,17076317
+Ahmedabad,2330,6,6,37,18,2,Unfurnished,Apartment,4.6,24.3,10187042
+Ahmedabad,2721,5,4,9,9,1,Semi-furnished,Independent House,7.2,3.2,15750186
+Chennai,1072,1,1,5,11,2,Semi-furnished,Independent House,2.3,7.1,7576557
+Delhi,643,1,1,10,10,1,Unfurnished,Apartment,5.7,12.7,5329580
+Hyderabad,2884,6,6,25,3,0,Unfurnished,Apartment,2.2,7.9,16333031
+Kolhapur,759,2,1,43,5,0,Unfurnished,Apartment,6.7,3.7,2266075
+Chennai,874,2,2,7,7,2,Unfurnished,Apartment,8.5,19.0,6814552
+Bengaluru,1122,3,2,1,0,1,Furnished,Independent House,1.2,15.5,10534818
+Mumbai,1753,4,4,23,12,2,Unfurnished,Apartment,5.1,5.1,21702829
+Pune,2689,6,6,44,11,1,Semi-furnished,Independent House,5.4,17.8,22998293
+Ahmedabad,2365,6,6,24,8,2,Furnished,Apartment,7.5,2.3,12759132
+Delhi,2227,5,5,41,4,2,Semi-furnished,Apartment,1.7,11.8,16212524
+Delhi,814,2,2,28,24,3,Semi-furnished,Villa,4.7,23.9,8149336
+Delhi,1298,4,4,1,16,0,Furnished,Apartment,8.1,26.8,12557821
+Nashik,1618,4,4,19,11,3,Unfurnished,Apartment,5.8,7.7,5677587
+Mumbai,741,1,2,34,18,1,Unfurnished,Apartment,7.7,25.9,9059591
+Mumbai,1075,2,2,22,9,2,Semi-furnished,Villa,4.3,26.8,12861193
+Bengaluru,1167,3,3,8,5,1,Semi-furnished,Apartment,9.3,18.4,10394574
+Delhi,687,3,3,8,16,1,Semi-furnished,Apartment,1.7,29.5,5832233
+Kolhapur,1808,4,3,29,19,1,Unfurnished,Apartment,1.8,7.8,4972011
+Delhi,2218,6,6,20,16,2,Semi-furnished,Apartment,5.8,2.5,23113511
+Delhi,535,1,2,25,14,1,Semi-furnished,Apartment,5.2,25.4,4800216
+Ahmedabad,1625,4,4,16,0,1,Furnished,Apartment,6.7,15.0,8258235
+Pune,2423,5,4,15,15,1,Unfurnished,Independent House,3.1,10.7,19330679
+Chennai,2332,5,5,29,15,2,Unfurnished,Independent House,3.0,2.1,15578320
+Chennai,2510,6,6,0,10,1,Furnished,Apartment,7.7,2.4,18201105
+Delhi,1538,3,2,19,6,1,Semi-furnished,Apartment,3.6,3.2,14191250
+Nagpur,2524,5,4,16,24,1,Unfurnished,Apartment,7.5,5.9,9212416
+Bengaluru,988,2,2,35,9,1,Unfurnished,Apartment,6.8,29.1,7032644
+Ahmedabad,1306,1,1,32,6,1,Semi-furnished,Independent House,1.7,8.8,6893373
+Hyderabad,817,1,1,19,17,2,Semi-furnished,Apartment,7.4,24.6,5838046
+Chennai,1589,4,4,11,12,2,Semi-furnished,Independent House,8.9,1.1,12863961
+Chennai,1389,3,3,10,13,1,Furnished,Apartment,8.3,10.0,10973617
+Nagpur,988,2,1,9,16,0,Unfurnished,Independent House,1.1,27.2,3575594
+Delhi,2342,6,6,12,9,1,Unfurnished,Independent House,5.9,6.0,22172694
+Bengaluru,1182,4,4,34,3,0,Semi-furnished,Independent House,9.2,8.9,10918261
+Mumbai,1073,3,4,2,4,0,Furnished,Independent House,6.4,24.9,16380010
+Hyderabad,697,1,1,1,23,2,Unfurnished,Independent House,3.6,4.1,4326105
+Nagpur,1513,3,2,24,12,1,Semi-furnished,Apartment,2.8,2.1,5708650
+Mumbai,1153,2,3,10,10,1,Unfurnished,Apartment,7.2,29.0,12277501
+Nagpur,1329,2,2,37,7,3,Unfurnished,Apartment,7.9,12.4,4748356
+Chennai,975,1,1,33,18,1,Furnished,Independent House,9.2,19.9,6707745
+Pune,2372,5,6,34,22,0,Unfurnished,Apartment,9.2,4.2,16759969
+Hyderabad,2815,5,6,20,19,0,Unfurnished,Villa,4.1,7.0,22398343
+Chennai,1670,2,3,19,13,1,Semi-furnished,Apartment,6.4,14.1,12404295
+Hyderabad,2054,5,6,19,11,2,Semi-furnished,Independent House,1.9,20.4,14781314
+Pune,2648,6,6,8,21,2,Semi-furnished,Apartment,1.9,9.2,16586897
+Kolhapur,2997,6,5,25,21,1,Semi-furnished,Villa,1.6,26.6,9559497
+Kolhapur,1976,4,4,38,9,1,Unfurnished,Apartment,9.3,23.5,7031465
+Pune,2708,6,6,11,24,1,Semi-furnished,Apartment,2.4,16.8,20466396
+Bengaluru,2758,6,6,2,20,0,Unfurnished,Independent House,5.3,14.0,23199472
+Bengaluru,2447,5,5,25,21,1,Unfurnished,Apartment,4.9,18.8,17624024
+Kolhapur,1571,4,4,17,1,1,Semi-furnished,Apartment,3.9,22.1,4714740
+Nashik,565,2,2,35,3,0,Unfurnished,Independent House,5.8,4.5,2629217
+Nashik,392,1,1,38,7,2,Furnished,Independent House,1.0,25.7,1401479
+Ahmedabad,1615,3,2,42,19,2,Furnished,Apartment,4.4,14.9,7534978
+Nashik,1660,3,2,17,1,1,Furnished,Apartment,5.3,28.1,7045382
+Hyderabad,1430,2,3,40,2,1,Unfurnished,Apartment,8.2,28.7,9956240
+Pune,1856,3,4,5,0,1,Unfurnished,Apartment,7.3,1.4,13978262
+Kolhapur,1813,4,4,16,4,0,Furnished,Independent House,8.6,11.8,8427551
+Ahmedabad,2567,5,5,11,22,0,Semi-furnished,Apartment,4.4,16.0,11053060
+Ahmedabad,638,2,2,41,18,1,Semi-furnished,Apartment,2.3,16.4,2926658
+Bengaluru,947,3,2,27,17,2,Furnished,Apartment,4.6,24.8,6774931
+Bengaluru,2451,5,5,16,7,1,Unfurnished,Independent House,9.7,4.7,23980832
+Mumbai,2597,6,6,6,15,1,Unfurnished,Apartment,2.9,18.9,33535164
+Pune,2986,6,6,35,19,1,Semi-furnished,Apartment,2.6,28.3,20325791
+Chennai,2663,6,6,29,13,1,Semi-furnished,Villa,9.5,29.9,22234505
+Chennai,2708,5,4,38,21,0,Unfurnished,Independent House,9.5,0.8,18068300
+Hyderabad,1183,3,3,19,14,1,Semi-furnished,Apartment,2.3,29.2,6603654
+Hyderabad,1414,3,4,6,8,2,Semi-furnished,Villa,7.9,4.1,13553139
+Nagpur,1060,3,4,15,15,2,Semi-furnished,Apartment,4.9,16.3,4150330
+Delhi,1957,4,5,27,23,2,Unfurnished,Apartment,5.4,7.8,18597584
+Nagpur,2838,6,6,10,20,0,Semi-furnished,Apartment,5.5,18.4,10894309
+Ahmedabad,1263,2,1,3,12,1,Semi-furnished,Apartment,9.7,1.6,7306278
+Hyderabad,1826,4,5,37,14,1,Furnished,Independent House,2.7,7.5,13051016
+Bengaluru,1135,3,3,23,24,0,Unfurnished,Apartment,8.0,9.4,9927851
+Ahmedabad,800,2,3,17,18,0,Furnished,Independent House,1.1,27.5,3752349
+Kolhapur,867,4,5,24,12,2,Semi-furnished,Apartment,6.7,17.7,2791097
+Bengaluru,504,2,2,33,7,1,Semi-furnished,Apartment,6.9,21.4,4575721
+Kolhapur,2866,6,5,0,22,1,Unfurnished,Apartment,7.8,20.4,11179836
+Chennai,1418,3,3,19,24,1,Unfurnished,Apartment,9.3,12.1,9625020
+Ahmedabad,2560,6,6,11,1,1,Semi-furnished,Villa,7.8,0.9,17324763
+Bengaluru,2156,4,3,4,0,0,Unfurnished,Independent House,7.6,3.7,21135375
+Ahmedabad,859,3,3,1,2,0,Unfurnished,Independent House,3.3,14.0,4391244
+Ahmedabad,815,2,3,19,9,1,Furnished,Independent House,9.9,28.3,5241399
+Pune,2502,6,6,24,3,1,Unfurnished,Apartment,5.2,7.8,18945214
+Pune,1051,3,3,22,22,3,Furnished,Apartment,4.8,21.1,8419816
+Chennai,2770,6,6,35,22,1,Semi-furnished,Apartment,5.5,24.9,16890951
+Mumbai,721,2,2,20,4,0,Furnished,Independent House,4.5,27.3,10940775
+Bengaluru,2146,5,5,26,20,0,Unfurnished,Apartment,6.3,9.2,16145567
+Delhi,2508,6,6,36,3,2,Semi-furnished,Apartment,4.1,28.0,22369795
+Ahmedabad,973,3,3,29,19,0,Semi-furnished,Independent House,3.2,18.4,4552439
+Ahmedabad,1082,2,1,40,9,0,Furnished,Apartment,9.4,15.5,5983072
+Pune,2906,6,6,9,1,1,Unfurnished,Apartment,9.4,23.5,26297279
+Nagpur,1051,2,3,35,10,1,Unfurnished,Apartment,5.5,7.5,3458375
+Mumbai,1489,4,3,31,20,1,Furnished,Apartment,9.7,24.5,21494447
+Nashik,1496,2,1,26,23,1,Unfurnished,Apartment,4.7,19.7,5591284
+Nagpur,1021,1,1,0,3,0,Semi-furnished,Independent House,4.5,24.1,3896355
+Nagpur,2406,5,5,24,20,2,Unfurnished,Independent House,9.3,25.7,10892619
+Bengaluru,2395,5,5,38,7,1,Unfurnished,Apartment,6.7,18.7,19671362
+Nagpur,1353,2,2,29,11,1,Semi-furnished,Independent House,7.9,1.6,5508967
+Pune,2563,6,5,0,2,0,Semi-furnished,Independent House,4.7,9.3,23582099
+Chennai,915,2,2,12,24,1,Semi-furnished,Independent House,4.7,26.4,5970427
+Delhi,361,1,1,25,19,1,Semi-furnished,Villa,1.7,19.0,3438214
+Hyderabad,1864,3,3,36,16,1,Semi-furnished,Independent House,9.7,26.8,13621724
+Mumbai,2984,6,6,20,18,1,Furnished,Apartment,3.1,11.8,38298259
+Nashik,452,1,2,38,21,3,Unfurnished,Apartment,5.4,15.4,1584604
+Hyderabad,901,2,1,35,3,1,Unfurnished,Apartment,2.0,25.9,5125546
+Kolhapur,1725,3,3,12,6,2,Unfurnished,Apartment,6.8,23.0,6386931
+Delhi,2496,6,6,8,0,2,Semi-furnished,Villa,4.5,11.6,26768283
+Hyderabad,586,3,3,40,12,1,Unfurnished,Independent House,7.9,1.2,4848068
+Nagpur,1397,3,3,26,12,1,Semi-furnished,Apartment,5.8,26.5,4716967
+Mumbai,2330,5,6,38,0,1,Semi-furnished,Villa,2.2,23.7,24481071
+Nashik,1335,3,4,41,16,3,Semi-furnished,Independent House,1.1,13.8,5207362
+Nashik,850,2,3,19,0,1,Furnished,Apartment,2.9,16.6,2750613
+Hyderabad,868,2,1,2,19,1,Semi-furnished,Villa,7.5,6.5,8345674
+Bengaluru,1437,3,2,40,17,0,Semi-furnished,Apartment,8.5,12.7,12390278
+Mumbai,1620,2,3,26,20,2,Unfurnished,Apartment,4.1,5.3,15497301
+Ahmedabad,2634,5,6,5,2,0,Semi-furnished,Apartment,5.8,6.7,12730322
+Ahmedabad,2052,4,4,23,21,0,Unfurnished,Villa,3.2,25.5,8617142
+Bengaluru,2180,5,4,1,13,1,Furnished,Apartment,8.9,11.2,23082391
+Mumbai,2955,6,6,13,21,1,Semi-furnished,Apartment,9.7,24.5,36907950
+Pune,1441,3,3,15,17,2,Unfurnished,Independent House,7.8,14.5,12608058
+Mumbai,1419,3,4,20,16,2,Unfurnished,Independent House,1.8,2.6,15797259
+Nagpur,2797,6,6,25,0,0,Semi-furnished,Apartment,4.9,11.2,9666316
+Nagpur,1002,2,3,37,17,1,Furnished,Apartment,9.9,5.2,4436291
+Pune,2284,5,6,15,11,2,Unfurnished,Villa,3.1,21.0,19020687
+Nashik,2350,5,4,33,21,1,Unfurnished,Independent House,7.0,27.4,10520004
+Pune,609,2,1,42,17,0,Semi-furnished,Apartment,9.4,23.0,4510793
+Hyderabad,1591,4,5,33,1,1,Furnished,Apartment,8.0,23.5,11486428
+Chennai,881,3,2,11,22,1,Furnished,Apartment,6.5,25.9,6139781
+Nashik,841,2,1,30,1,3,Unfurnished,Independent House,5.6,23.4,3435396
+Nagpur,1579,4,5,12,7,1,Semi-furnished,Apartment,9.4,17.3,6343627
+Mumbai,1117,2,1,21,5,0,Semi-furnished,Independent House,4.6,21.6,13418731
+Pune,2460,6,5,28,24,2,Semi-furnished,Apartment,9.1,12.8,19747179
+Bengaluru,2755,6,5,13,3,1,Semi-furnished,Independent House,4.9,2.6,25952711
+Hyderabad,2477,5,5,0,21,2,Semi-furnished,Apartment,7.8,21.3,19008830
+Ahmedabad,1055,2,2,37,5,1,Semi-furnished,Independent House,9.2,21.8,5962655
+Nashik,1076,3,3,32,16,0,Unfurnished,Apartment,6.0,7.1,4059213
+Hyderabad,1025,3,4,5,2,1,Unfurnished,Apartment,3.8,28.6,6116032
+Ahmedabad,708,1,1,16,9,1,Semi-furnished,Apartment,1.5,2.0,3215622
+Delhi,2851,6,6,11,15,1,Unfurnished,Apartment,8.3,22.2,25878256
+Chennai,1415,3,2,43,17,1,Semi-furnished,Apartment,6.6,29.1,9216203
+Delhi,945,1,1,42,21,2,Furnished,Independent House,3.4,9.6,8516632
+Pune,2594,6,6,31,20,2,Furnished,Independent House,8.9,27.4,23394728
+Ahmedabad,1408,3,2,19,12,1,Unfurnished,Apartment,9.3,24.9,7369431
+Mumbai,443,1,2,2,7,0,Unfurnished,Apartment,9.0,22.5,6697081
+Pune,779,3,2,11,6,1,Semi-furnished,Apartment,6.4,28.6,6380879
+Bengaluru,2044,4,4,4,24,1,Semi-furnished,Independent House,9.8,19.8,21457261
+Bengaluru,2425,5,5,35,15,0,Unfurnished,Apartment,8.9,15.1,18989908
+Pune,909,1,1,3,22,2,Furnished,Apartment,1.9,20.4,7326636
+Mumbai,2781,6,6,30,10,3,Unfurnished,Apartment,9.8,12.6,35419920
+Kolhapur,2605,5,4,42,12,0,Unfurnished,Apartment,5.9,10.1,6896837
+Ahmedabad,2598,5,4,13,20,2,Semi-furnished,Apartment,9.3,2.9,14608957
+Pune,953,3,3,30,18,1,Semi-furnished,Apartment,7.8,11.7,7703094
+Bengaluru,484,2,1,39,5,1,Semi-furnished,Apartment,6.8,24.2,3672290
+Chennai,2649,6,6,19,13,1,Semi-furnished,Independent House,3.9,28.4,17506477
+Ahmedabad,1160,2,1,20,5,0,Furnished,Apartment,1.2,29.3,5026079
+Kolhapur,1990,5,5,9,19,0,Unfurnished,Independent House,3.5,6.6,6969955
+Nashik,2364,5,5,19,0,3,Semi-furnished,Apartment,7.2,17.4,11291557
+Chennai,690,1,1,39,20,1,Unfurnished,Independent House,8.8,17.5,4264750
+Delhi,2419,4,3,29,23,1,Semi-furnished,Independent House,1.0,5.7,24634346
+Pune,2837,6,6,9,0,1,Semi-furnished,Apartment,2.9,17.7,20484287
+Nagpur,2280,6,5,23,15,3,Semi-furnished,Independent House,7.1,11.2,10037013
+Nagpur,1519,5,4,31,1,1,Unfurnished,Apartment,3.6,28.3,4816371
+Mumbai,2673,6,6,3,9,2,Furnished,Apartment,2.3,8.0,28990855
+Nashik,1748,3,3,34,8,2,Semi-furnished,Independent House,1.7,25.1,5742473
+Mumbai,2324,4,4,9,12,1,Furnished,Independent House,6.7,27.0,32097395
+Nashik,2524,6,6,13,22,1,Semi-furnished,Apartment,6.4,22.2,11593333
+Nagpur,2336,4,4,18,11,1,Furnished,Apartment,8.7,6.8,9142647
+Pune,1113,3,3,22,9,2,Semi-furnished,Apartment,3.8,8.2,7536914
+Delhi,662,2,3,41,2,1,Semi-furnished,Apartment,2.2,29.1,5107593
+Pune,982,3,2,10,22,0,Semi-furnished,Villa,8.2,2.7,9912706
+Chennai,1683,4,4,11,7,0,Semi-furnished,Apartment,9.9,4.0,13599718
+Ahmedabad,1689,4,4,17,11,1,Semi-furnished,Villa,4.2,29.4,8443982
+Mumbai,1894,4,4,38,2,2,Semi-furnished,Apartment,8.8,23.4,20719165
+Hyderabad,1397,2,1,43,7,2,Semi-furnished,Independent House,7.9,22.5,10367473
+Ahmedabad,2435,6,6,20,13,1,Semi-furnished,Villa,9.2,5.2,16800118
+Hyderabad,2770,6,5,31,22,0,Semi-furnished,Independent House,4.8,14.9,18277136
+Pune,1004,3,4,41,8,0,Semi-furnished,Apartment,1.9,25.3,5362680
+Delhi,2302,3,3,38,14,2,Semi-furnished,Apartment,2.1,10.2,17372117
+Chennai,2147,6,5,30,21,1,Semi-furnished,Apartment,7.9,6.2,15576367
+Kolhapur,1736,5,5,24,9,2,Semi-furnished,Independent House,8.8,0.8,7109081
+Hyderabad,850,2,3,44,7,0,Furnished,Villa,5.1,18.9,7024132
+Ahmedabad,2457,6,6,10,1,1,Unfurnished,Apartment,1.5,9.2,11510910
+Chennai,2896,6,6,16,22,2,Unfurnished,Apartment,1.6,26.0,16359694
+Bengaluru,2263,5,6,32,2,0,Unfurnished,Apartment,6.4,8.9,14665460
+Ahmedabad,2782,6,5,0,5,0,Semi-furnished,Apartment,9.3,5.0,15452048
+Ahmedabad,2958,6,5,22,3,1,Semi-furnished,Apartment,4.6,28.8,12978032
+Delhi,1283,2,1,38,17,1,Semi-furnished,Apartment,6.9,29.0,10631786
+Mumbai,2041,5,6,7,9,3,Unfurnished,Independent House,5.9,20.7,27409532
+Chennai,1606,4,4,36,17,2,Furnished,Apartment,9.0,27.9,11832430
+Chennai,2965,6,6,18,15,2,Semi-furnished,Independent House,8.5,5.3,20609066
+Pune,599,1,1,38,0,0,Semi-furnished,Apartment,2.8,14.1,4171691
+Kolhapur,1443,3,3,28,7,1,Unfurnished,Apartment,7.1,6.5,4976727
+Nagpur,2670,6,5,7,0,2,Unfurnished,Independent House,8.6,14.6,11914240
+Pune,1103,2,3,33,1,1,Unfurnished,Independent House,9.4,23.8,9502008
+Nashik,2438,6,6,2,11,3,Semi-furnished,Apartment,6.3,25.4,10145461
+Pune,1364,4,3,10,6,1,Semi-furnished,Independent House,2.6,0.6,11938223
+Nashik,2947,6,5,39,2,0,Unfurnished,Apartment,6.0,12.0,10654577
+Delhi,2691,6,6,39,10,1,Unfurnished,Apartment,7.0,29.8,25966533
+Mumbai,1148,2,1,2,11,1,Unfurnished,Villa,3.5,17.9,14339541
+Ahmedabad,2391,5,5,17,24,0,Semi-furnished,Villa,9.8,9.2,16625605
+Pune,1243,2,3,4,16,1,Unfurnished,Apartment,3.1,12.0,8061408
+Chennai,1957,5,5,12,9,2,Unfurnished,Villa,9.2,10.0,19246245
+Pune,2095,4,4,43,11,0,Unfurnished,Independent House,4.8,13.7,13203728
+Ahmedabad,2548,6,6,8,2,1,Semi-furnished,Apartment,1.0,13.6,12504251
+Nashik,415,1,1,28,9,1,Furnished,Apartment,5.9,15.5,1705625
+Nagpur,933,1,1,36,14,2,Semi-furnished,Apartment,6.7,14.2,3632224
+Delhi,2237,4,3,39,0,1,Unfurnished,Apartment,8.8,15.7,20395196
+Delhi,1843,5,6,15,22,3,Furnished,Villa,5.9,1.3,20335025
+Kolhapur,1663,4,5,31,12,2,Furnished,Apartment,1.8,2.1,4051062
+Nashik,496,1,1,21,19,1,Semi-furnished,Apartment,9.3,11.4,2699369
+Nagpur,1273,3,4,4,6,0,Unfurnished,Apartment,6.1,26.6,4766237
+Mumbai,2643,6,5,10,20,2,Semi-furnished,Apartment,3.4,23.8,23108158
+Kolhapur,432,4,3,33,9,1,Furnished,Independent House,9.1,3.7,1932305
+Pune,1401,3,3,30,23,2,Semi-furnished,Apartment,2.1,15.1,9880389
+Bengaluru,2855,6,6,23,13,1,Semi-furnished,Apartment,1.9,18.3,19535209
+Nagpur,485,2,3,35,15,1,Semi-furnished,Apartment,5.8,14.7,1651781
+Bengaluru,2337,4,4,31,5,1,Furnished,Independent House,6.6,21.1,21628498
+Nashik,1033,2,1,15,24,1,Unfurnished,Independent House,5.6,29.9,4699651
+Delhi,2647,6,6,13,4,2,Unfurnished,Independent House,9.4,3.3,29499656
+Bengaluru,2327,5,6,42,0,0,Furnished,Apartment,3.4,15.7,20136847
+Hyderabad,2697,5,5,43,10,2,Unfurnished,Apartment,9.9,15.6,20142152
+Chennai,922,2,1,1,20,0,Semi-furnished,Independent House,1.2,17.1,5977438
+Nashik,1758,5,4,35,23,2,Unfurnished,Independent House,2.1,5.4,5434255
+Kolhapur,2415,6,6,5,21,2,Unfurnished,Apartment,2.7,19.3,7593004
+Ahmedabad,1001,2,2,38,13,1,Unfurnished,Independent House,1.7,1.8,4461003
+Nagpur,961,2,2,26,22,0,Semi-furnished,Apartment,4.9,22.4,3404096
+Nashik,422,1,1,30,12,2,Semi-furnished,Apartment,8.8,20.1,1928764
+Kolhapur,2890,6,5,31,11,2,Semi-furnished,Villa,8.4,10.2,13074318
+Bengaluru,2232,6,6,27,4,1,Unfurnished,Apartment,7.7,29.7,19040841
+Delhi,2034,5,6,11,19,1,Furnished,Villa,1.1,24.9,20235353
+Pune,2322,6,6,36,7,2,Semi-furnished,Independent House,8.8,16.4,20519310
+Hyderabad,1759,3,3,24,4,0,Furnished,Villa,4.6,29.7,15728218
+Ahmedabad,1612,3,4,24,9,1,Semi-furnished,Apartment,7.6,25.0,7131878
+Delhi,1541,4,4,14,15,1,Unfurnished,Independent House,7.5,4.6,16720876
+Pune,2047,3,3,0,6,0,Semi-furnished,Independent House,2.6,17.9,18494264
+Kolhapur,884,2,2,24,8,2,Furnished,Apartment,5.6,17.6,2924412
+Ahmedabad,2703,6,6,15,8,1,Unfurnished,Apartment,9.3,19.8,15361104
+Nagpur,2501,5,5,29,14,2,Semi-furnished,Apartment,3.4,28.3,9210251
+Bengaluru,1276,2,2,16,17,1,Semi-furnished,Apartment,7.4,15.0,10097270
+Delhi,1883,4,4,43,16,1,Unfurnished,Villa,9.6,2.8,21623632
+Chennai,724,2,3,30,3,1,Semi-furnished,Apartment,4.2,14.6,4383842
+Bengaluru,2927,6,6,20,8,1,Unfurnished,Independent House,4.5,23.7,23771485
+Bengaluru,2743,6,6,31,16,2,Unfurnished,Apartment,5.1,11.1,20389544
+Bengaluru,2793,6,6,29,5,1,Furnished,Apartment,8.3,1.3,29112726
+Ahmedabad,1230,2,1,27,1,2,Semi-furnished,Villa,5.0,9.4,6737907
+Nashik,798,1,1,26,8,1,Semi-furnished,Apartment,5.4,20.6,3001398
+Nagpur,911,2,3,41,16,1,Semi-furnished,Apartment,3.0,3.0,2844888
+Nagpur,589,2,2,14,16,0,Furnished,Apartment,9.9,11.6,2601424
+Ahmedabad,668,2,2,19,3,2,Semi-furnished,Apartment,9.0,4.4,3431909
+Pune,539,1,1,11,16,1,Semi-furnished,Apartment,6.4,14.5,4157355
+Nagpur,2973,6,6,25,4,1,Unfurnished,Independent House,9.6,4.7,12787605
+Mumbai,546,2,2,44,18,1,Semi-furnished,Apartment,7.2,3.7,6912354
+Delhi,701,2,1,27,14,1,Semi-furnished,Independent House,9.6,21.1,8289614
+Chennai,2542,5,5,9,3,1,Semi-furnished,Independent House,2.5,5.2,17784221
+Hyderabad,1888,6,5,41,8,1,Semi-furnished,Apartment,3.0,5.1,10707990
+Pune,2402,5,5,35,20,3,Unfurnished,Apartment,9.0,18.0,16821800
+Pune,2022,5,6,19,10,0,Furnished,Apartment,4.8,1.8,16519693
+Nagpur,2688,6,6,6,17,1,Furnished,Independent House,4.3,1.5,11518301
+Hyderabad,2042,4,4,18,18,0,Semi-furnished,Apartment,7.8,13.2,14702639
+Hyderabad,1734,3,4,36,0,2,Semi-furnished,Apartment,6.7,11.3,11898731
+Ahmedabad,2239,6,5,25,23,1,Semi-furnished,Apartment,4.1,16.6,10829671
+Pune,1536,4,5,8,8,1,Semi-furnished,Apartment,4.6,29.8,11826221
+Ahmedabad,1267,3,3,7,19,2,Semi-furnished,Independent House,4.7,13.3,6741595
+Ahmedabad,1589,4,5,43,11,1,Semi-furnished,Apartment,2.1,17.5,5844962
+Chennai,800,1,2,20,14,1,Unfurnished,Apartment,3.1,27.6,4235308
+Pune,2461,6,6,30,9,1,Unfurnished,Apartment,5.8,14.8,18670231
+Pune,1041,2,2,16,21,0,Semi-furnished,Independent House,8.0,23.5,8682777
+Bengaluru,757,2,2,4,2,2,Semi-furnished,Independent House,4.8,16.7,6323344
+Chennai,1003,1,1,18,22,2,Unfurnished,Apartment,4.5,19.3,6775303
+Pune,2581,4,3,31,5,2,Unfurnished,Apartment,6.9,28.0,16676770
+Delhi,1225,3,3,15,22,2,Semi-furnished,Independent House,2.4,0.5,11785578
+Pune,2168,4,4,27,0,2,Semi-furnished,Apartment,4.4,27.1,15961407
+Chennai,2619,4,4,19,0,1,Semi-furnished,Apartment,2.9,15.2,16044031
+Mumbai,556,2,2,15,2,0,Semi-furnished,Apartment,6.9,18.4,5747118
+Nashik,2377,6,6,11,13,1,Furnished,Apartment,2.0,13.8,9867622
+Mumbai,1165,4,3,11,6,2,Unfurnished,Apartment,5.0,8.2,15801749
+Pune,924,2,1,11,14,2,Furnished,Apartment,6.4,2.4,8443668
+Pune,2176,5,6,32,20,2,Unfurnished,Apartment,8.5,28.4,13222212
+Nagpur,2761,6,6,15,0,0,Semi-furnished,Apartment,7.5,18.9,12859937
+Mumbai,1132,3,4,33,13,0,Unfurnished,Apartment,9.5,26.3,12314887
+Delhi,1857,4,4,13,18,2,Unfurnished,Apartment,7.1,9.1,16406880
+Chennai,1118,3,3,14,10,0,Unfurnished,Apartment,4.1,8.7,7463892
+Chennai,1819,4,4,41,23,1,Unfurnished,Independent House,3.1,10.4,11136155
+Kolhapur,1998,5,5,39,16,1,Furnished,Independent House,1.5,7.3,6702765
+Nagpur,1967,4,4,18,0,1,Semi-furnished,Villa,3.5,15.2,7725669
+Hyderabad,2002,4,4,12,13,1,Furnished,Apartment,2.2,28.1,14525401
+Nagpur,708,3,3,32,9,3,Semi-furnished,Apartment,4.3,26.3,2457233
+Hyderabad,2188,6,6,3,3,2,Semi-furnished,Apartment,7.3,15.1,14663216
+Ahmedabad,2138,5,5,20,23,1,Unfurnished,Independent House,7.2,10.8,12403996
+Chennai,2159,6,6,26,5,1,Semi-furnished,Apartment,3.9,18.5,13614384
+Nashik,546,1,2,30,2,2,Semi-furnished,Apartment,5.6,18.6,2370067
+Nagpur,1534,5,6,4,5,1,Furnished,Independent House,3.0,20.7,6564398
+Nashik,1434,4,5,0,20,1,Furnished,Apartment,5.5,16.3,7781030
+Nagpur,580,4,4,12,14,1,Unfurnished,Apartment,5.6,1.3,2185018
+Chennai,939,1,2,5,20,1,Semi-furnished,Apartment,3.7,2.7,6329367
+Mumbai,1519,3,2,22,11,0,Semi-furnished,Independent House,3.3,29.2,19108499
+Delhi,2319,5,6,41,2,2,Semi-furnished,Independent House,9.8,22.5,23698467
+Pune,978,2,2,12,9,1,Unfurnished,Apartment,5.8,28.5,7653008
+Nagpur,2549,6,6,20,4,0,Semi-furnished,Independent House,6.1,10.5,7953791
+Bengaluru,1796,3,2,9,13,1,Semi-furnished,Apartment,1.1,16.3,13486955
+Bengaluru,2365,6,5,1,6,3,Unfurnished,Apartment,2.6,10.0,18769648
+Bengaluru,1602,4,4,31,24,1,Semi-furnished,Independent House,4.2,27.3,12950389
+Kolhapur,1673,4,4,11,9,1,Unfurnished,Independent House,9.7,9.0,6508350
+Chennai,1992,4,3,24,7,0,Furnished,Villa,2.6,21.0,15429980
+Ahmedabad,2809,6,6,30,24,3,Unfurnished,Independent House,3.7,5.7,12621893
+Delhi,1653,5,4,37,13,2,Unfurnished,Apartment,9.9,3.6,16555330
+Bengaluru,1751,4,5,8,4,1,Unfurnished,Apartment,5.3,5.1,14711666
+Mumbai,1945,4,4,26,12,1,Furnished,Apartment,3.9,16.1,24375264
+Mumbai,2304,5,5,40,6,1,Semi-furnished,Apartment,6.7,25.4,30299327
+Hyderabad,540,1,1,21,17,2,Unfurnished,Apartment,5.5,30.0,3438006
+Ahmedabad,1717,4,5,1,14,2,Unfurnished,Apartment,9.6,18.9,10194288
+Chennai,1626,4,4,11,18,3,Semi-furnished,Apartment,1.7,16.2,10221815
+Nagpur,2792,6,5,35,23,1,Semi-furnished,Independent House,8.1,23.7,10821235
+Pune,1658,3,2,35,18,1,Unfurnished,Apartment,3.5,2.4,10631196
+Mumbai,1591,3,3,14,8,1,Furnished,Apartment,8.3,24.4,21701731
+Nagpur,2900,6,6,8,5,2,Unfurnished,Independent House,8.6,22.9,12933123
+Pune,1544,3,2,13,13,1,Semi-furnished,Independent House,8.6,16.1,13974844
+Mumbai,829,2,1,10,11,1,Unfurnished,Apartment,8.8,1.2,10563144
+Delhi,925,2,2,33,7,2,Semi-furnished,Independent House,7.5,6.5,9378624
+Ahmedabad,602,1,1,37,20,1,Semi-furnished,Independent House,2.3,11.4,2320418
+Kolhapur,352,2,2,2,22,2,Semi-furnished,Independent House,1.5,28.3,1235321
+Mumbai,1495,3,2,33,9,0,Semi-furnished,Apartment,4.1,19.3,16448693
+Nagpur,2388,5,5,33,17,1,Furnished,Apartment,5.5,15.5,10342499
+Nagpur,2294,5,5,27,24,1,Furnished,Independent House,3.7,14.9,9930564
+Nagpur,435,1,1,39,0,1,Semi-furnished,Apartment,7.7,23.5,1459874
+Ahmedabad,1860,4,4,1,9,2,Semi-furnished,Independent House,7.5,10.0,11185665
+Bengaluru,759,2,2,31,18,1,Furnished,Independent House,9.7,3.3,7987301
+Ahmedabad,2844,5,5,5,12,1,Unfurnished,Independent House,4.6,20.5,14085976
+Hyderabad,794,3,2,40,19,0,Unfurnished,Villa,8.1,10.2,5966728
+Nagpur,2011,6,5,22,11,2,Unfurnished,Apartment,7.7,10.1,7495346
+Chennai,1215,2,1,4,1,3,Furnished,Villa,9.9,13.9,12653356
+Nashik,2050,5,6,33,10,2,Unfurnished,Independent House,8.0,7.7,8647750
+Kolhapur,1442,4,4,33,10,1,Unfurnished,Apartment,3.6,27.7,4331324
+Kolhapur,2363,5,4,20,21,1,Semi-furnished,Independent House,1.1,25.5,5819106
+Kolhapur,961,3,3,13,3,1,Unfurnished,Independent House,9.7,29.7,4104899
+Nashik,2750,6,6,0,3,0,Unfurnished,Villa,7.4,29.0,14615884
+Nashik,1676,3,2,40,3,0,Semi-furnished,Apartment,8.3,9.8,6338418
+Pune,2354,5,6,8,14,0,Unfurnished,Apartment,8.1,11.7,18288066
+Nagpur,2602,6,6,37,24,0,Furnished,Independent House,7.6,21.1,11158752
+Chennai,2997,6,5,26,15,2,Unfurnished,Apartment,7.8,1.0,20495066
+Hyderabad,943,2,1,30,20,1,Furnished,Independent House,9.4,29.8,7765148
+Chennai,1110,1,1,31,21,2,Semi-furnished,Apartment,9.2,0.8,7920065
+Ahmedabad,1014,1,1,38,15,2,Unfurnished,Apartment,4.4,16.2,5026725
+Nagpur,1047,3,4,1,15,1,Unfurnished,Apartment,1.3,20.2,3230617
+Nagpur,1893,6,6,44,6,1,Semi-furnished,Independent House,1.3,27.5,7625090
+Delhi,2983,6,6,1,24,2,Semi-furnished,Apartment,5.0,19.5,32191835
+Nashik,2974,6,5,44,19,0,Unfurnished,Independent House,8.5,18.1,13168934
+Hyderabad,1746,4,3,11,21,1,Furnished,Independent House,8.6,9.4,13788207
+Kolhapur,2043,4,3,38,24,1,Semi-furnished,Independent House,4.6,17.9,7533459
+Kolhapur,2629,6,6,3,8,2,Furnished,Apartment,3.7,22.6,10153937
+Bengaluru,2822,6,6,20,3,2,Unfurnished,Apartment,5.6,15.7,18372054
+Bengaluru,890,3,2,24,21,2,Unfurnished,Independent House,8.5,23.5,7284351
+Mumbai,1751,2,1,42,11,1,Semi-furnished,Apartment,6.7,2.6,21608286
+Pune,2557,6,6,5,23,1,Unfurnished,Apartment,2.3,10.4,17479673
+Delhi,1153,2,3,1,17,2,Unfurnished,Villa,4.3,28.8,11490371
+Delhi,1515,3,3,29,6,2,Unfurnished,Apartment,6.0,10.0,14708983
+Pune,2962,6,6,2,8,1,Unfurnished,Apartment,5.8,18.8,21076077
+Delhi,2960,6,6,34,15,3,Semi-furnished,Villa,8.5,15.8,32291673
+Kolhapur,2751,6,6,1,9,2,Unfurnished,Apartment,9.4,28.1,10209939
+Bengaluru,2466,5,4,43,7,1,Furnished,Apartment,1.9,5.3,19162830
+Hyderabad,1063,3,3,23,5,0,Unfurnished,Apartment,3.0,9.3,5213809
+Hyderabad,1200,2,2,42,16,1,Semi-furnished,Independent House,4.5,25.9,7309499
+Chennai,1800,3,3,5,0,2,Semi-furnished,Independent House,3.7,20.2,10928093
+Hyderabad,1836,3,3,12,2,0,Semi-furnished,Independent House,4.7,16.5,12824946
+Nashik,1690,5,5,20,1,1,Furnished,Villa,1.4,12.1,7970472
+Hyderabad,2037,5,4,1,18,1,Furnished,Apartment,1.6,12.6,14747609
+Delhi,1432,4,4,4,0,2,Unfurnished,Independent House,8.5,28.1,14577874
+Hyderabad,2335,5,6,14,10,2,Semi-furnished,Apartment,1.9,20.3,15130004
+Pune,1234,2,2,33,3,2,Furnished,Villa,8.4,27.9,11367493
+Kolhapur,1226,4,4,31,14,1,Unfurnished,Villa,3.8,29.2,4779200
+Bengaluru,687,1,1,3,0,0,Semi-furnished,Apartment,3.8,16.6,5667488
+Bengaluru,850,2,3,2,0,1,Unfurnished,Independent House,1.9,18.5,5087376
+Nashik,2604,6,6,29,10,0,Semi-furnished,Independent House,1.1,19.9,10311158
+Ahmedabad,1533,3,3,16,17,1,Semi-furnished,Apartment,4.2,25.3,6890272
+Kolhapur,954,2,2,35,2,3,Semi-furnished,Independent House,8.5,19.9,3639330
+Ahmedabad,2362,5,4,13,12,1,Furnished,Villa,9.3,3.9,16106255
+Nagpur,1818,4,5,16,20,1,Semi-furnished,Apartment,1.6,28.3,5101611
+Delhi,406,1,1,9,15,1,Furnished,Apartment,1.3,20.0,3650462
+Nashik,1188,4,4,11,18,2,Semi-furnished,Villa,2.4,26.2,5509694
+Hyderabad,819,2,3,31,7,1,Semi-furnished,Apartment,7.9,13.0,5939005
+Delhi,2088,3,2,21,23,1,Semi-furnished,Apartment,2.8,14.5,16806411
+Chennai,1079,3,3,29,3,0,Semi-furnished,Independent House,3.1,20.8,7451081
+Ahmedabad,522,1,1,3,15,1,Furnished,Independent House,9.0,23.4,3025041
+Nagpur,496,1,1,24,10,1,Unfurnished,Apartment,8.9,2.8,1857908
+Delhi,1892,4,4,20,0,1,Furnished,Apartment,7.0,12.5,19259365
+Kolhapur,408,1,2,40,23,2,Semi-furnished,Independent House,2.5,23.2,1328527
+Bengaluru,2599,6,6,19,17,0,Semi-furnished,Apartment,4.4,29.8,19939132
+Nagpur,762,2,1,4,5,1,Semi-furnished,Independent House,3.1,0.8,3373685
+Chennai,1957,4,4,31,1,0,Semi-furnished,Independent House,7.0,8.3,14410880
+Chennai,1528,3,3,6,16,1,Semi-furnished,Apartment,8.0,14.2,11492533
+Nashik,1524,6,6,40,13,0,Semi-furnished,Independent House,2.3,7.1,5884086
+Kolhapur,540,1,1,17,1,0,Unfurnished,Independent House,9.1,1.3,2292904
+Mumbai,2477,6,5,35,24,3,Semi-furnished,Villa,5.2,16.4,34211916
+Bengaluru,2717,5,4,29,17,3,Semi-furnished,Apartment,8.2,19.7,20499102
+Pune,379,1,1,20,11,2,Semi-furnished,Apartment,1.5,12.8,2837403
+Nashik,823,1,1,26,5,1,Semi-furnished,Independent House,4.2,11.4,3431967
+Mumbai,2745,6,6,8,6,2,Unfurnished,Villa,1.1,29.6,35465412
+Bengaluru,1806,5,4,3,11,2,Semi-furnished,Villa,7.5,14.6,18954798
+Chennai,748,2,3,34,1,1,Semi-furnished,Apartment,1.7,24.0,3336948
+Kolhapur,887,2,3,43,9,0,Semi-furnished,Apartment,4.0,9.0,2133494
+Chennai,2099,3,2,38,5,2,Semi-furnished,Apartment,8.0,25.0,12828924
+Nagpur,2271,6,6,13,2,3,Semi-furnished,Independent House,7.7,24.8,10219076
+Ahmedabad,1938,3,3,16,3,1,Semi-furnished,Independent House,6.8,8.4,11770430
+Pune,2876,6,6,16,8,1,Unfurnished,Independent House,7.2,19.8,24018201
+Ahmedabad,1659,5,5,31,9,1,Unfurnished,Apartment,6.9,20.6,6980253
+Kolhapur,1146,3,4,28,8,1,Semi-furnished,Villa,6.8,13.6,4429580
+Kolhapur,1615,3,3,35,17,2,Unfurnished,Apartment,4.1,23.3,5452695
+Mumbai,1303,3,3,42,13,1,Unfurnished,Apartment,1.3,9.6,10289951
+Kolhapur,945,2,2,17,4,2,Unfurnished,Apartment,5.0,14.8,3741382
+Nashik,472,1,1,29,24,2,Unfurnished,Apartment,1.4,29.7,1808038
+Chennai,1283,3,3,22,18,0,Furnished,Independent House,5.2,5.8,11081758
+Mumbai,2235,3,3,42,11,2,Unfurnished,Independent House,5.2,4.9,26947122
+Chennai,399,2,3,15,1,2,Unfurnished,Apartment,2.6,4.7,2374040
+Ahmedabad,1514,3,3,8,22,1,Furnished,Apartment,8.1,29.9,8709271
+Nashik,2057,4,3,17,18,1,Furnished,Apartment,7.3,5.2,10171498
+Pune,1968,4,4,27,11,2,Unfurnished,Independent House,6.0,6.1,14560026
+Ahmedabad,2408,6,6,42,4,1,Furnished,Apartment,9.3,21.0,11675969
+Ahmedabad,2498,5,6,37,2,0,Unfurnished,Apartment,3.6,22.9,9644643
+Pune,2236,3,3,0,7,1,Semi-furnished,Apartment,3.4,16.0,15797676
+Nagpur,622,2,3,22,5,1,Unfurnished,Independent House,2.7,29.5,2355871
+Delhi,1609,4,4,7,5,1,Semi-furnished,Apartment,5.9,1.6,15465040
+Chennai,1949,4,4,16,10,0,Unfurnished,Apartment,2.8,18.8,11376389
+Delhi,1001,1,1,42,1,1,Semi-furnished,Apartment,8.8,18.4,10235958
+Nashik,463,1,1,44,8,1,Unfurnished,Apartment,3.7,10.0,1763375
+Ahmedabad,943,1,1,6,21,2,Semi-furnished,Apartment,5.4,27.0,4819717
+Nashik,1555,3,4,6,21,1,Semi-furnished,Apartment,5.8,16.8,6890420
+Ahmedabad,1447,3,3,31,0,2,Unfurnished,Independent House,3.8,7.8,6097222
+Ahmedabad,818,2,1,18,16,2,Furnished,Apartment,7.6,3.1,4972188
+Mumbai,2535,5,6,19,24,0,Semi-furnished,Apartment,7.2,3.7,36514269
+Bengaluru,2803,6,6,39,14,1,Unfurnished,Villa,7.8,27.0,21852682
+Nashik,884,4,5,41,9,0,Unfurnished,Apartment,6.5,7.9,3894079
+Chennai,2813,6,6,40,12,2,Unfurnished,Apartment,5.1,27.3,14886729
+Mumbai,397,1,1,35,5,1,Unfurnished,Apartment,5.0,4.0,4651780
+Mumbai,2801,6,6,44,9,1,Semi-furnished,Apartment,7.4,29.5,32897089
+Chennai,2873,6,6,32,23,1,Semi-furnished,Apartment,4.4,25.1,17264801
+Kolhapur,382,1,2,39,15,1,Semi-furnished,Independent House,4.9,3.9,1326117
+Pune,2372,6,6,24,10,2,Semi-furnished,Apartment,2.5,3.0,15132132
+Pune,2921,6,6,2,3,2,Semi-furnished,Independent House,7.1,24.2,26913294
+Pune,2751,6,5,36,22,0,Unfurnished,Villa,1.7,2.8,19284646
+Chennai,2922,6,5,41,4,1,Semi-furnished,Apartment,9.9,8.2,18654506
+Mumbai,1808,5,6,14,18,1,Furnished,Independent House,2.3,24.1,20932271
+Chennai,557,1,2,19,7,1,Unfurnished,Apartment,4.4,27.3,2915222
+Delhi,2602,5,4,25,6,0,Semi-furnished,Apartment,3.1,23.1,20535466
+Delhi,1977,3,3,29,4,1,Furnished,Independent House,3.6,26.8,19385721
+Kolhapur,1979,6,5,30,9,2,Semi-furnished,Apartment,3.9,17.0,6006357
+Chennai,1456,4,4,17,16,1,Furnished,Villa,7.5,23.5,13061291
+Nashik,1865,2,2,38,10,2,Unfurnished,Apartment,2.6,10.7,6070749
+Nashik,757,1,1,36,0,1,Semi-furnished,Apartment,3.4,23.7,2587011
+Ahmedabad,2310,5,5,42,6,1,Unfurnished,Apartment,1.9,20.6,8584017
+Nashik,549,1,1,25,4,1,Unfurnished,Apartment,4.0,17.5,2241588
+Chennai,2284,4,4,3,10,1,Furnished,Apartment,9.5,29.8,16466465
+Delhi,2600,6,6,38,22,1,Unfurnished,Apartment,4.4,14.4,24255204
+Bengaluru,1602,4,3,3,24,3,Furnished,Apartment,8.0,18.8,17189913
+Chennai,1701,4,3,8,24,2,Semi-furnished,Apartment,5.2,15.5,11731788
+Pune,1177,2,2,12,2,2,Furnished,Villa,5.0,8.2,11935929
+Ahmedabad,2919,6,6,8,12,0,Furnished,Apartment,8.4,10.2,16504829
+Nagpur,2293,5,6,32,1,0,Semi-furnished,Apartment,1.2,29.4,7063996
+Pune,1328,3,4,19,12,0,Furnished,Independent House,8.8,12.1,11836505
+Nashik,813,2,2,9,14,2,Semi-furnished,Independent House,5.4,20.5,3935564
+Pune,932,1,1,0,19,2,Semi-furnished,Independent House,4.2,17.2,7299917
+Nashik,1579,5,4,9,8,1,Semi-furnished,Villa,9.2,26.7,8286159
+Mumbai,2848,6,6,31,0,3,Unfurnished,Apartment,4.1,22.9,32329806
+Delhi,2295,6,6,35,11,0,Unfurnished,Apartment,9.8,2.9,24289366
+Kolhapur,920,1,1,13,10,1,Unfurnished,Independent House,9.4,11.0,3506749
+Nashik,2628,5,4,3,15,0,Semi-furnished,Apartment,3.4,21.5,11174903
+Delhi,1352,2,3,25,2,1,Unfurnished,Independent House,4.1,5.3,11177315
+Ahmedabad,2607,6,6,35,15,2,Semi-furnished,Apartment,8.3,15.4,10944021
+Nashik,991,2,2,3,10,2,Semi-furnished,Villa,2.8,9.9,4377968
+Bengaluru,1989,4,3,35,18,0,Semi-furnished,Independent House,7.6,2.4,19480566
+Kolhapur,2806,5,6,7,24,1,Furnished,Apartment,2.2,29.9,9502949
+Nashik,1033,1,1,11,5,1,Furnished,Apartment,2.9,27.9,3912614
+Hyderabad,2186,5,4,28,18,0,Furnished,Villa,5.5,22.6,17235578
+Nashik,2966,6,6,2,3,1,Semi-furnished,Independent House,7.7,6.4,14694467
+Nagpur,749,1,1,13,24,1,Unfurnished,Independent House,7.7,29.7,3157707
+Nagpur,584,3,2,6,12,1,Furnished,Independent House,6.5,19.1,2340707
+Nashik,2137,5,6,9,18,1,Unfurnished,Apartment,3.4,29.0,7802611
+Kolhapur,1250,4,5,34,19,1,Unfurnished,Apartment,4.7,1.8,4021348
+Bengaluru,539,1,2,10,15,2,Unfurnished,Apartment,3.2,5.6,3708601
+Nashik,1610,4,4,1,9,1,Semi-furnished,Independent House,3.5,20.5,6239469
+Hyderabad,2347,5,5,9,18,1,Semi-furnished,Independent House,3.9,27.3,15992956
+Chennai,1106,1,1,3,11,1,Unfurnished,Apartment,6.4,5.7,7668124
+Hyderabad,1238,4,4,28,16,2,Semi-furnished,Villa,2.9,9.9,8987968
+Hyderabad,2591,6,6,43,15,0,Unfurnished,Apartment,1.4,17.9,12076306
+Pune,1728,4,4,7,11,0,Unfurnished,Independent House,7.2,30.0,13522522
+Ahmedabad,2583,5,6,32,2,2,Unfurnished,Apartment,1.2,24.1,9304378
+Pune,1533,3,2,16,7,2,Unfurnished,Apartment,9.7,27.7,12782608
+Mumbai,2875,6,5,3,23,1,Semi-furnished,Apartment,4.2,20.4,39294222
+Ahmedabad,2075,6,6,30,13,1,Unfurnished,Independent House,1.1,26.4,6565890
+Chennai,657,2,3,9,15,3,Unfurnished,Independent House,9.0,15.5,5382852
+Delhi,2695,6,6,23,6,0,Unfurnished,Apartment,6.4,4.2,24369455
+Nashik,1647,5,5,22,17,0,Semi-furnished,Apartment,8.4,21.4,7485050
+Hyderabad,725,3,3,26,12,1,Furnished,Independent House,4.9,18.2,5850011
+Pune,755,2,1,6,5,1,Semi-furnished,Apartment,4.2,14.8,5430694
+Nashik,2172,4,4,11,3,1,Semi-furnished,Independent House,6.9,8.6,10926534
+Pune,476,1,1,33,9,1,Furnished,Apartment,4.7,23.6,3103359
+Chennai,1109,2,2,41,14,1,Unfurnished,Independent House,6.0,24.7,7029215
+Ahmedabad,720,2,2,0,7,1,Unfurnished,Independent House,3.5,11.2,3586457
+Ahmedabad,1519,4,3,18,6,1,Semi-furnished,Apartment,4.0,27.9,7054397
+Hyderabad,1448,2,2,39,6,2,Unfurnished,Independent House,1.7,11.4,7476437
+Nashik,1733,4,4,12,7,0,Semi-furnished,Apartment,8.0,3.7,8175927
+Kolhapur,1091,1,1,20,18,1,Semi-furnished,Villa,4.1,5.4,4804843
+Delhi,435,1,1,40,12,1,Unfurnished,Independent House,9.8,15.1,4040814
+Pune,1978,3,4,43,11,1,Semi-furnished,Apartment,3.3,2.9,13348268
+Hyderabad,1340,3,2,29,4,0,Semi-furnished,Independent House,5.3,21.7,9860748
+Kolhapur,2076,5,5,31,13,1,Unfurnished,Apartment,3.7,24.0,5959733
+Ahmedabad,638,3,3,27,24,2,Furnished,Independent House,7.2,16.7,4024289
+Mumbai,387,2,2,12,18,0,Semi-furnished,Villa,8.3,26.9,5795780
+Nashik,1008,2,3,39,11,2,Unfurnished,Independent House,5.4,28.7,3793831
+Nagpur,1560,4,3,1,7,2,Unfurnished,Apartment,4.3,13.7,5273411
+Ahmedabad,1394,2,1,2,8,1,Unfurnished,Independent House,7.7,3.1,8006292
+Delhi,2497,5,5,27,0,1,Unfurnished,Apartment,2.7,7.3,19915778
+Pune,1351,3,3,37,0,2,Unfurnished,Apartment,6.4,19.9,9952841
+Bengaluru,1756,2,3,36,19,0,Unfurnished,Villa,7.6,12.5,15458100
+Nagpur,1923,4,4,30,21,2,Furnished,Apartment,3.4,20.7,6417254
+Nagpur,408,1,1,16,24,2,Furnished,Apartment,6.9,20.2,1748283
+Kolhapur,1715,4,3,16,15,0,Semi-furnished,Apartment,7.6,18.4,7122005
+Pune,1264,2,2,19,23,2,Semi-furnished,Villa,2.1,5.2,10822389
+Pune,1466,4,4,11,10,1,Semi-furnished,Villa,3.9,8.9,14576808
+Delhi,616,1,1,18,6,1,Semi-furnished,Apartment,4.7,11.6,5934349
+Chennai,2424,6,6,4,6,1,Furnished,Apartment,8.0,24.8,19530284
+Mumbai,2847,6,6,14,5,1,Semi-furnished,Independent House,6.1,20.6,40335363
+Kolhapur,409,1,1,42,18,2,Semi-furnished,Apartment,5.0,19.5,1489502
+Chennai,1944,4,3,31,0,2,Furnished,Villa,3.9,20.3,15812026
+Mumbai,2374,4,3,6,23,1,Semi-furnished,Villa,1.0,15.3,28281724
+Mumbai,1105,3,3,12,19,1,Unfurnished,Independent House,1.2,1.7,13688730
+Delhi,2437,6,6,11,9,1,Unfurnished,Apartment,3.2,6.4,21603643
+Nashik,2026,6,6,12,17,1,Semi-furnished,Independent House,2.1,4.6,8273553
+Nagpur,2812,6,6,31,3,1,Unfurnished,Villa,2.1,2.4,8743482
+Delhi,2950,6,5,40,10,1,Unfurnished,Apartment,6.4,9.9,21600347
+Bengaluru,462,1,1,31,2,2,Unfurnished,Independent House,6.4,23.7,3762530
+Ahmedabad,1529,4,3,21,2,1,Unfurnished,Apartment,1.4,3.9,5392899
+Delhi,1800,4,4,7,0,0,Furnished,Villa,6.3,3.8,21166816
+Hyderabad,739,2,2,6,19,1,Semi-furnished,Independent House,2.3,4.2,5527853
+Delhi,1241,4,5,36,18,1,Unfurnished,Apartment,4.4,8.5,9616228
+Mumbai,2967,6,6,30,22,0,Semi-furnished,Apartment,9.9,6.5,40447973
+Hyderabad,393,2,2,22,24,0,Unfurnished,Apartment,5.7,0.9,2378156
+Chennai,1549,4,4,25,24,1,Semi-furnished,Apartment,1.3,8.7,9244196
+Ahmedabad,2583,6,6,38,24,3,Semi-furnished,Villa,4.1,29.9,13735711
+Nashik,1208,2,2,36,0,1,Unfurnished,Apartment,7.0,10.4,4060706
+Nashik,1621,6,6,3,19,0,Semi-furnished,Villa,3.0,6.7,7232049
+Chennai,2942,6,6,17,18,2,Unfurnished,Apartment,9.7,15.1,19220295
+Pune,1608,4,4,1,4,1,Semi-furnished,Independent House,4.8,7.3,14311472
+Hyderabad,697,1,2,17,3,3,Furnished,Villa,1.2,17.0,5221025
+Ahmedabad,487,3,3,28,24,1,Furnished,Independent House,5.9,12.3,2701871
+Mumbai,2855,6,5,9,22,1,Unfurnished,Independent House,7.1,27.0,37473990
+Nagpur,1054,2,2,6,8,1,Semi-furnished,Villa,5.1,27.9,4702876
+Kolhapur,1686,4,4,22,1,1,Semi-furnished,Independent House,9.4,21.5,7068900
+Bengaluru,590,2,2,23,8,2,Furnished,Independent House,9.1,6.9,5976696
+Nashik,1473,3,2,32,0,0,Unfurnished,Apartment,2.3,14.5,4508722
+Nagpur,2815,6,5,0,17,2,Semi-furnished,Apartment,1.7,9.5,10163868
+Mumbai,1681,4,4,11,9,2,Unfurnished,Apartment,3.8,24.0,18662611
+Pune,2924,6,6,35,1,2,Unfurnished,Independent House,6.5,1.4,26652581
+Kolhapur,1036,2,1,30,24,2,Semi-furnished,Independent House,6.4,20.0,3721737
+Ahmedabad,1687,4,4,40,20,1,Semi-furnished,Independent House,3.4,10.0,8052077
+Mumbai,2628,6,6,36,22,1,Unfurnished,Villa,9.6,14.7,39019983
+Kolhapur,1538,3,2,37,24,2,Furnished,Apartment,3.8,10.0,5792461
+Pune,1091,2,2,22,0,1,Semi-furnished,Villa,8.2,11.3,9639811
+Kolhapur,2617,6,6,43,19,0,Furnished,Apartment,8.5,20.4,10650610
+Kolhapur,1383,2,1,18,19,1,Semi-furnished,Apartment,1.9,18.1,4243192
+Mumbai,1756,4,5,40,19,1,Furnished,Independent House,3.1,7.7,25983026
+Kolhapur,2938,6,5,17,6,2,Semi-furnished,Apartment,2.9,1.8,10222553
+Nagpur,844,3,3,19,9,1,Unfurnished,Independent House,9.3,25.8,3215918
+Nagpur,1149,2,2,30,23,1,Unfurnished,Independent House,4.2,15.0,3962713
+Mumbai,432,1,2,17,1,3,Furnished,Independent House,8.5,18.8,7117568
+Bengaluru,1388,2,2,6,16,1,Unfurnished,Apartment,5.3,14.9,11586937
+Bengaluru,880,2,2,40,19,2,Semi-furnished,Apartment,5.1,18.8,6777783
+Delhi,2152,4,5,20,19,0,Semi-furnished,Apartment,9.1,19.0,23213296
+Pune,831,1,2,41,14,0,Unfurnished,Apartment,5.0,0.9,5310343
+Nagpur,2138,3,2,17,19,0,Unfurnished,Apartment,7.7,16.2,7931591
+Nashik,1048,3,4,43,22,1,Semi-furnished,Apartment,4.8,15.3,3530405
+Nagpur,1291,2,2,27,19,1,Semi-furnished,Independent House,1.9,3.3,5311531
+Pune,1274,2,1,34,2,1,Semi-furnished,Villa,1.5,22.5,8355658
+Mumbai,2249,6,6,33,6,1,Unfurnished,Independent House,2.9,7.5,25502938
+Ahmedabad,1586,2,3,9,7,0,Semi-furnished,Apartment,7.5,2.1,8928500
+Bengaluru,1307,4,3,36,8,1,Unfurnished,Apartment,4.4,24.2,9329769
+Kolhapur,2609,5,4,42,9,0,Semi-furnished,Apartment,5.1,26.0,7106496
+Ahmedabad,1866,5,6,29,5,2,Unfurnished,Apartment,1.9,7.6,6845402
+Mumbai,917,3,3,42,17,2,Unfurnished,Apartment,6.6,20.8,10746520
+Mumbai,2735,5,4,38,2,2,Furnished,Villa,8.2,0.6,39843561
+Mumbai,1258,2,3,29,19,1,Unfurnished,Independent House,6.6,21.8,12756516
+Pune,453,1,1,21,16,1,Semi-furnished,Apartment,9.9,14.2,3995942
+Mumbai,1661,3,3,38,24,1,Unfurnished,Independent House,1.1,23.9,14921928
+Nagpur,678,1,1,8,0,2,Unfurnished,Villa,1.1,12.1,2722128
+Kolhapur,982,3,3,25,7,3,Unfurnished,Apartment,5.5,10.9,3237849
+Ahmedabad,2330,5,4,36,22,1,Furnished,Independent House,3.4,25.3,11004341
+Nagpur,696,2,2,42,12,1,Semi-furnished,Apartment,7.2,1.6,2619595
+Ahmedabad,2488,6,6,12,14,2,Unfurnished,Apartment,8.1,6.0,11977977
+Bengaluru,2833,6,5,4,0,0,Semi-furnished,Independent House,1.9,12.7,22444490
+Bengaluru,1957,4,5,15,19,1,Semi-furnished,Apartment,9.3,18.1,18122181
+Nagpur,2232,5,4,38,6,1,Semi-furnished,Independent House,1.3,0.7,6732504
+Bengaluru,2241,4,5,23,24,2,Furnished,Apartment,7.2,17.5,21727251
+Mumbai,2981,6,5,2,9,1,Semi-furnished,Independent House,4.5,11.7,39380748
+Kolhapur,1255,3,3,5,4,1,Semi-furnished,Independent House,7.0,19.1,4552838
+Nagpur,782,2,1,15,14,0,Unfurnished,Independent House,1.9,27.3,2491894
+Ahmedabad,1726,4,4,15,11,1,Furnished,Independent House,9.4,13.5,10727577
+Ahmedabad,1763,5,5,6,11,2,Semi-furnished,Independent House,9.4,16.9,10415629
+Pune,821,1,1,22,23,2,Unfurnished,Apartment,5.7,14.2,6126475
+Nashik,1975,4,4,21,9,1,Furnished,Apartment,5.6,4.0,9021728
+Nagpur,387,1,2,8,9,1,Furnished,Independent House,6.7,23.9,2011177
+Kolhapur,2808,6,6,10,15,2,Semi-furnished,Apartment,6.2,26.6,11226274
+Nagpur,1051,3,2,29,4,2,Unfurnished,Apartment,5.9,24.4,3082504
+Nagpur,455,2,2,42,20,1,Semi-furnished,Villa,6.3,28.5,1809558
+Delhi,637,2,1,44,5,1,Furnished,Apartment,8.7,14.3,6254364
+Mumbai,987,4,3,25,6,0,Semi-furnished,Apartment,6.5,19.7,12829263
+Delhi,1076,1,1,1,0,2,Unfurnished,Villa,2.8,5.5,10259290
+Bengaluru,437,1,1,40,8,1,Unfurnished,Apartment,9.2,29.3,3390032
+Pune,1090,3,2,42,14,1,Unfurnished,Independent House,2.9,17.6,6272719
+Pune,861,1,2,12,17,2,Unfurnished,Apartment,2.5,8.2,5527399
+Kolhapur,1353,3,3,18,22,1,Semi-furnished,Apartment,10.0,24.3,5105402
+Chennai,1371,2,3,1,19,2,Unfurnished,Independent House,2.9,17.8,8900889
+Chennai,1248,3,3,36,8,1,Semi-furnished,Apartment,1.9,28.5,5933298
+Nashik,1219,4,4,34,20,1,Furnished,Independent House,6.1,23.2,5811217
+Chennai,588,2,3,0,4,2,Semi-furnished,Apartment,8.4,26.4,4669582
+Kolhapur,417,1,1,31,5,3,Unfurnished,Apartment,1.5,16.6,994777
+Mumbai,886,1,1,18,8,3,Furnished,Apartment,5.4,15.8,11549565
+Nagpur,2355,6,6,24,13,2,Unfurnished,Apartment,1.6,22.8,5989256
+Delhi,2976,6,6,9,5,1,Furnished,Apartment,4.9,3.6,33454918
+Pune,2811,4,5,36,22,0,Unfurnished,Independent House,4.1,2.1,22801996
+Nagpur,1686,5,5,18,6,1,Semi-furnished,Apartment,2.2,29.5,5574905
+Nashik,1759,4,4,37,9,2,Semi-furnished,Apartment,9.4,27.5,6982320
+Mumbai,1184,2,3,6,15,1,Semi-furnished,Apartment,6.7,28.7,14529179
+Pune,2401,6,5,26,10,2,Semi-furnished,Apartment,8.6,2.3,19391087
+Mumbai,2377,5,6,13,10,2,Unfurnished,Apartment,9.2,8.4,31787868
+Bengaluru,2587,5,4,43,24,3,Semi-furnished,Independent House,9.4,27.1,26418312
+Mumbai,2723,6,6,25,10,2,Unfurnished,Independent House,7.7,3.1,39272272
+Nashik,1501,5,5,32,2,1,Semi-furnished,Independent House,3.8,13.8,6555335
+Chennai,2382,6,6,3,18,1,Semi-furnished,Apartment,8.5,10.6,18576416
+Ahmedabad,2487,6,6,30,17,3,Semi-furnished,Apartment,5.7,26.5,10590441
+Nashik,1167,3,4,4,5,0,Unfurnished,Independent House,3.4,15.8,4478917
+Kolhapur,2812,6,6,16,21,0,Semi-furnished,Apartment,4.5,9.1,9764910
+Chennai,600,1,1,10,9,3,Semi-furnished,Independent House,3.7,16.0,3813898
+Mumbai,2985,6,6,0,3,1,Unfurnished,Villa,5.2,3.8,44152137
+Mumbai,2391,5,6,26,4,1,Semi-furnished,Apartment,8.0,22.1,32592496
+Kolhapur,597,2,2,10,17,0,Unfurnished,Independent House,5.4,18.7,2277411
+Mumbai,2089,4,3,23,5,1,Unfurnished,Apartment,3.4,18.2,23355218
+Mumbai,441,1,2,34,11,2,Semi-furnished,Apartment,1.8,13.4,3737793
+Bengaluru,2391,5,5,8,18,1,Unfurnished,Apartment,8.7,9.2,24312472
+Nagpur,2468,3,3,31,21,1,Unfurnished,Independent House,4.8,2.4,7728588
+Delhi,1946,4,4,13,12,1,Semi-furnished,Apartment,5.0,28.4,17661892
+Nashik,2621,6,6,14,22,2,Semi-furnished,Independent House,7.9,12.8,13119606
+Delhi,609,2,2,25,7,2,Unfurnished,Independent House,8.6,15.1,6482375
+Pune,1081,2,2,28,21,1,Unfurnished,Apartment,5.6,11.6,6716335
+Hyderabad,1448,5,4,29,6,1,Semi-furnished,Apartment,6.7,29.6,8773832
+Mumbai,463,1,1,8,1,1,Semi-furnished,Independent House,3.2,24.0,5952158
+Nashik,1538,4,3,26,18,1,Semi-furnished,Apartment,9.4,3.3,7314352
+Pune,1053,3,3,11,18,0,Semi-furnished,Independent House,6.1,18.4,8111311
+Hyderabad,1391,3,4,12,23,1,Semi-furnished,Apartment,7.5,14.8,10557484
+Ahmedabad,1477,3,3,42,23,1,Furnished,Villa,2.0,23.9,6376420
+Chennai,2680,4,5,4,2,1,Unfurnished,Apartment,6.7,29.9,18975353
+Delhi,1066,2,3,18,15,1,Unfurnished,Apartment,4.3,22.5,8263037
+Chennai,2718,6,5,19,17,0,Unfurnished,Independent House,5.1,26.0,17885439
+Nashik,1479,3,3,11,15,0,Unfurnished,Apartment,7.1,15.3,6122314
+Bengaluru,1219,3,3,35,0,2,Semi-furnished,Apartment,8.2,11.5,11713121
+Kolhapur,1682,4,4,21,1,1,Furnished,Apartment,4.1,19.5,6021566
+Nagpur,1457,4,5,32,16,0,Unfurnished,Independent House,8.9,22.6,5496534
+Chennai,1032,2,2,17,21,3,Unfurnished,Apartment,3.0,7.2,6453114
+Delhi,1682,4,3,40,4,1,Semi-furnished,Apartment,6.1,15.3,17800665
+Pune,752,2,2,32,1,2,Furnished,Apartment,2.4,3.9,5759158
+Bengaluru,1283,4,3,14,10,1,Unfurnished,Apartment,3.6,6.9,10007773
+Ahmedabad,1849,3,3,43,7,2,Semi-furnished,Villa,9.1,26.5,9921925
+Chennai,1446,3,3,38,24,1,Furnished,Apartment,1.1,4.8,7912920
+Hyderabad,2533,6,6,26,23,0,Semi-furnished,Apartment,9.2,24.4,19355877
+Delhi,1030,4,4,0,13,2,Semi-furnished,Apartment,4.0,11.5,9343758
+Chennai,2920,6,6,26,23,2,Semi-furnished,Apartment,7.3,20.1,20018322
+Chennai,2430,5,4,31,5,1,Unfurnished,Villa,1.8,27.4,17083890
+Kolhapur,2914,6,6,16,24,2,Semi-furnished,Apartment,6.8,23.5,10782723
+Bengaluru,2571,6,6,6,11,1,Unfurnished,Independent House,9.2,24.9,23074329
+Kolhapur,727,1,1,25,11,2,Semi-furnished,Apartment,6.0,8.2,3049626
+Delhi,1745,4,4,36,1,2,Furnished,Independent House,4.3,11.2,19450641
+Ahmedabad,800,3,2,14,4,0,Unfurnished,Apartment,8.1,22.1,4249929
+Pune,2518,6,6,20,4,2,Semi-furnished,Apartment,7.4,23.4,22182031
+Pune,1898,5,5,0,12,3,Unfurnished,Apartment,2.1,23.8,12865479
+Delhi,1048,2,1,31,4,2,Unfurnished,Apartment,7.0,22.3,9890959
+Chennai,2813,6,6,38,2,0,Semi-furnished,Villa,7.0,7.3,20722639
+Kolhapur,655,2,1,34,15,2,Unfurnished,Independent House,7.8,9.0,2166776
+Delhi,1844,4,4,19,21,1,Semi-furnished,Apartment,3.8,28.3,19865074
+Ahmedabad,2261,5,5,2,1,1,Unfurnished,Apartment,4.6,16.8,9541424
+Delhi,506,1,1,22,14,2,Furnished,Independent House,9.6,22.8,5932204
+Pune,1934,5,5,42,24,1,Semi-furnished,Apartment,6.2,18.2,14187085
+Pune,2512,5,6,3,10,2,Semi-furnished,Apartment,5.6,27.8,20755461
+Ahmedabad,529,1,1,9,4,1,Semi-furnished,Independent House,9.9,26.1,3136635
+Pune,1707,4,5,37,1,1,Semi-furnished,Apartment,3.1,8.2,11336393
+Ahmedabad,1035,4,4,25,23,3,Unfurnished,Apartment,4.6,26.6,4676986
+Bengaluru,2107,4,4,7,10,1,Furnished,Apartment,7.8,9.4,21524299
+Mumbai,664,1,2,1,2,1,Unfurnished,Apartment,7.4,13.5,8704370
+Hyderabad,2833,6,6,18,21,1,Unfurnished,Independent House,9.7,25.6,21597350
+Kolhapur,2721,6,5,26,20,0,Semi-furnished,Independent House,6.9,10.1,9326367
+Delhi,843,1,1,37,17,1,Semi-furnished,Villa,3.8,9.1,9619153
+Nashik,1207,2,2,39,2,1,Semi-furnished,Apartment,4.6,20.2,4641186
+Kolhapur,1907,6,6,20,2,2,Furnished,Independent House,1.8,30.0,6781329
+Delhi,2253,5,4,19,5,3,Semi-furnished,Villa,9.3,4.4,26324897
+Kolhapur,1523,2,2,41,3,2,Unfurnished,Independent House,2.2,21.2,3999301
+Ahmedabad,764,2,1,34,13,1,Unfurnished,Villa,5.9,16.0,4279729
+Delhi,626,1,1,9,9,2,Unfurnished,Villa,4.6,12.6,6475376
+Pune,2999,6,6,30,19,0,Semi-furnished,Independent House,2.2,22.6,22030590
+Delhi,1557,5,6,32,2,2,Unfurnished,Villa,3.6,16.9,13104118
+Nagpur,2662,6,6,10,18,1,Semi-furnished,Independent House,6.7,24.0,12498370
+Bengaluru,1628,3,2,44,23,2,Semi-furnished,Apartment,1.3,22.4,11778293
+Ahmedabad,2794,6,5,13,3,1,Semi-furnished,Villa,9.7,29.6,17428972
+Chennai,583,1,1,24,16,1,Unfurnished,Independent House,9.2,24.4,4403136
+Kolhapur,652,1,2,22,12,3,Unfurnished,Apartment,1.8,2.5,2110678
+Hyderabad,2814,5,4,31,2,1,Furnished,Apartment,8.8,23.5,18704957
+Ahmedabad,2861,5,5,40,7,2,Semi-furnished,Apartment,4.0,19.7,14382565
+Mumbai,1184,2,2,17,19,2,Semi-furnished,Independent House,1.6,3.1,14915987
+Bengaluru,1291,2,2,17,21,1,Semi-furnished,Apartment,3.8,18.4,9636194
+Delhi,1549,4,4,33,9,1,Furnished,Apartment,8.3,22.6,14269406
+Delhi,1453,2,2,42,2,1,Unfurnished,Apartment,7.0,6.3,13737521
+Delhi,854,1,1,40,6,2,Furnished,Apartment,3.1,13.3,7446676
+Pune,2731,5,6,33,21,3,Unfurnished,Villa,7.5,16.5,24203117
+Bengaluru,1021,2,2,31,14,1,Furnished,Apartment,7.4,12.7,9225205
+Mumbai,2219,4,3,34,10,2,Unfurnished,Apartment,7.7,26.3,23543296
+Chennai,528,2,3,42,0,1,Unfurnished,Apartment,5.9,5.5,3357228
+Hyderabad,453,1,1,0,19,1,Unfurnished,Independent House,8.4,23.3,3500623
+Chennai,2082,5,6,26,11,2,Furnished,Independent House,6.8,23.5,15655058
+Chennai,1248,3,4,1,13,2,Furnished,Apartment,2.1,13.7,10215116
+Nashik,2087,5,5,25,21,1,Unfurnished,Apartment,8.3,16.4,9287486
+Chennai,599,1,1,17,14,1,Unfurnished,Villa,3.9,5.0,4619407
+Kolhapur,2867,6,6,13,23,1,Unfurnished,Independent House,7.3,6.3,13498119
+Chennai,2334,5,5,40,13,0,Unfurnished,Independent House,7.1,16.2,15843410
+Kolhapur,2672,6,6,31,8,1,Semi-furnished,Apartment,4.0,7.1,8821537
+Kolhapur,712,1,2,25,23,2,Unfurnished,Villa,2.5,24.3,2299755
+Hyderabad,1198,2,3,39,16,1,Furnished,Independent House,7.3,18.7,8592776
+Bengaluru,1326,4,5,4,19,1,Furnished,Apartment,8.6,2.2,11738536
+Nashik,1774,4,3,29,5,2,Unfurnished,Villa,8.5,11.1,9027941
+Hyderabad,1137,2,2,7,16,0,Semi-furnished,Independent House,6.6,25.8,7782168
+Chennai,511,1,1,10,14,1,Furnished,Independent House,3.0,8.7,3970573
+Pune,1328,3,2,8,2,2,Furnished,Independent House,3.8,21.7,11125892
+Delhi,1025,2,2,24,6,0,Semi-furnished,Apartment,7.8,3.3,10320431
+Chennai,1373,3,2,28,22,1,Unfurnished,Apartment,4.7,28.0,7965097
+Kolhapur,872,1,1,34,14,1,Unfurnished,Apartment,7.6,13.8,3290946
+Chennai,1044,2,2,19,19,1,Semi-furnished,Apartment,3.8,15.0,7323913
+Hyderabad,2011,3,3,42,4,1,Semi-furnished,Apartment,1.1,17.3,10630568
+Ahmedabad,1379,3,3,16,5,1,Semi-furnished,Apartment,6.4,11.2,6568830
+Chennai,1265,3,2,7,23,1,Semi-furnished,Villa,6.4,21.9,10901253
+Nagpur,1765,3,4,1,10,2,Semi-furnished,Apartment,6.6,0.9,6884683
+Nashik,2395,6,6,5,22,1,Unfurnished,Independent House,3.4,5.3,8730072
+Chennai,1354,4,4,20,20,1,Semi-furnished,Apartment,8.3,6.1,10340429
+Nagpur,1907,5,4,18,8,1,Furnished,Apartment,5.4,19.2,8231474
+Pune,2910,6,5,38,23,3,Unfurnished,Apartment,7.9,26.8,20231353
+Ahmedabad,1733,5,4,5,19,0,Unfurnished,Apartment,6.5,2.4,9216693
+Nagpur,2761,6,5,11,3,2,Furnished,Apartment,4.7,25.6,10448374
+Chennai,2453,3,4,44,2,1,Semi-furnished,Apartment,7.1,24.7,16410992
+Nashik,506,1,1,1,3,3,Semi-furnished,Independent House,6.2,2.8,2649257
+Chennai,1487,4,4,19,18,1,Furnished,Apartment,5.6,4.7,10456352
+Bengaluru,2201,5,6,8,3,0,Semi-furnished,Apartment,6.8,10.8,18399505
+Nashik,2965,6,6,24,7,1,Furnished,Apartment,1.8,3.9,9929099
+Bengaluru,1565,5,5,43,10,1,Furnished,Apartment,9.2,22.9,15213167
+Hyderabad,596,2,2,10,3,2,Unfurnished,Apartment,4.0,15.4,3453342
+Chennai,1839,5,5,16,8,1,Semi-furnished,Apartment,3.0,12.6,11986474
+Nagpur,685,1,1,20,16,1,Unfurnished,Independent House,7.9,21.9,2919226
+Hyderabad,2342,4,5,35,24,0,Semi-furnished,Independent House,3.1,9.1,14304718
+Delhi,1695,5,5,44,11,2,Semi-furnished,Independent House,10.0,26.2,17400528
+Mumbai,2267,5,5,4,18,1,Semi-furnished,Independent House,4.8,19.8,32787415
+Pune,2654,5,5,21,13,3,Furnished,Apartment,3.7,10.7,18997579
+Mumbai,2017,4,4,33,11,2,Semi-furnished,Apartment,1.6,16.4,18861403
+Mumbai,1973,4,3,0,13,1,Semi-furnished,Apartment,1.4,8.2,22635691
+Nagpur,2350,5,5,36,23,2,Semi-furnished,Independent House,1.9,29.6,8743263
+Nagpur,2583,5,6,10,1,1,Semi-furnished,Apartment,1.0,13.4,10038106
+Nagpur,2653,5,5,23,12,1,Unfurnished,Apartment,3.9,27.0,8534787
+Mumbai,447,1,1,44,1,1,Semi-furnished,Villa,3.8,29.4,5128939
+Mumbai,1824,4,3,28,21,1,Semi-furnished,Apartment,4.9,16.3,23323736
+Bengaluru,923,3,3,44,15,1,Unfurnished,Apartment,3.1,22.0,5019911
+Chennai,2630,6,6,27,1,0,Semi-furnished,Villa,1.6,17.4,17914439
+Hyderabad,2068,5,5,9,15,2,Semi-furnished,Apartment,1.6,3.2,13265383
+Delhi,1464,3,3,31,10,0,Unfurnished,Apartment,2.6,28.6,12379112
+Pune,848,2,2,27,1,1,Furnished,Apartment,3.8,14.0,7083768
+Nashik,1248,3,2,13,24,0,Unfurnished,Apartment,2.3,26.9,3934894
+Hyderabad,2215,5,5,3,9,1,Semi-furnished,Villa,4.3,19.8,17743735
+Mumbai,892,2,3,29,0,2,Semi-furnished,Independent House,9.3,3.6,12355345
+Nashik,598,2,3,25,15,0,Unfurnished,Apartment,3.4,12.8,2070442
+Ahmedabad,2703,6,6,34,9,1,Semi-furnished,Apartment,2.5,6.3,12340135
+Mumbai,2375,6,6,5,16,1,Unfurnished,Apartment,7.0,5.5,30127091
+Delhi,879,2,3,24,4,2,Unfurnished,Independent House,5.4,21.6,8326115
+Nagpur,1125,1,1,36,20,0,Semi-furnished,Apartment,1.4,1.4,3837428
+Nashik,2926,6,6,40,10,2,Unfurnished,Apartment,8.1,29.0,12791806
+Nagpur,2227,6,5,42,10,1,Furnished,Independent House,7.4,13.8,9429718
+Delhi,1968,5,4,9,20,1,Semi-furnished,Independent House,9.8,14.9,22939874
+Hyderabad,1165,3,3,7,13,1,Unfurnished,Villa,9.4,9.3,9336634
+Nashik,1143,2,2,25,0,1,Furnished,Independent House,6.3,3.0,5975007
+Pune,455,1,2,20,14,1,Semi-furnished,Apartment,7.2,17.9,3757631
+Bengaluru,2280,6,6,10,16,0,Semi-furnished,Independent House,4.7,10.7,20968637
+Kolhapur,464,1,2,4,7,1,Semi-furnished,Villa,9.0,18.9,2136432
+Kolhapur,363,1,1,6,4,1,Furnished,Apartment,6.0,16.9,1456481
+Pune,2283,6,6,15,1,1,Unfurnished,Apartment,3.9,6.9,17361546
+Chennai,2865,6,6,33,21,0,Unfurnished,Apartment,1.1,14.1,16070212
+Hyderabad,2355,5,6,2,0,1,Furnished,Villa,6.3,9.6,22928288
+Chennai,1600,5,4,4,14,1,Unfurnished,Villa,5.7,7.6,12828528
+Ahmedabad,1638,4,4,11,20,1,Semi-furnished,Independent House,8.3,23.2,10617183
+Mumbai,1506,3,2,39,8,2,Semi-furnished,Apartment,2.7,0.9,17930559
+Ahmedabad,1210,3,3,44,5,1,Semi-furnished,Villa,8.3,8.4,6915631
+Delhi,1733,4,4,19,17,1,Semi-furnished,Apartment,1.1,16.2,11801148
+Nashik,1493,1,1,2,15,0,Furnished,Apartment,6.3,14.5,6881073
+Delhi,1935,4,5,0,0,3,Unfurnished,Independent House,4.6,28.2,21361224
+Hyderabad,2730,6,5,38,14,1,Semi-furnished,Independent House,4.0,25.4,16225247
+Nashik,2987,6,6,20,0,1,Semi-furnished,Independent House,4.9,22.7,12738386
+Kolhapur,559,1,1,3,9,1,Unfurnished,Apartment,3.0,15.7,1846266
+Pune,1369,4,3,37,7,0,Furnished,Apartment,2.7,13.2,10287209
+Nashik,829,2,2,23,20,2,Semi-furnished,Apartment,8.2,1.6,3626789
+Nashik,1283,2,2,15,24,1,Unfurnished,Apartment,3.0,24.7,4179748
+Hyderabad,1112,3,2,20,17,1,Furnished,Independent House,7.6,13.2,9334616
+Ahmedabad,813,2,2,10,18,0,Furnished,Apartment,7.4,10.0,4317704
+Kolhapur,2375,5,6,41,0,3,Unfurnished,Apartment,1.3,18.4,5001902
+Hyderabad,1665,3,3,35,1,2,Semi-furnished,Apartment,8.9,22.7,13534240
+Mumbai,2786,6,6,8,19,2,Unfurnished,Independent House,8.1,15.9,41706555
+Kolhapur,436,1,2,33,10,2,Unfurnished,Independent House,8.2,4.9,1892183
+Bengaluru,527,1,1,8,12,2,Unfurnished,Apartment,8.3,27.7,5012780
+Nashik,1419,3,3,20,17,1,Furnished,Apartment,6.2,3.8,6673963
+Chennai,563,1,1,33,8,0,Unfurnished,Villa,9.9,29.1,4457034
+Delhi,1046,3,3,1,17,1,Unfurnished,Apartment,2.6,13.6,8976090
+Pune,2963,6,6,32,18,1,Semi-furnished,Apartment,1.7,28.4,19420230
+Nashik,904,2,2,10,6,2,Semi-furnished,Apartment,7.3,27.5,3797510
+Pune,875,2,1,31,17,0,Unfurnished,Villa,3.6,12.5,6085530
+Delhi,1870,4,3,22,4,0,Unfurnished,Independent House,6.5,24.1,17268054
+Nagpur,1670,4,4,1,7,1,Semi-furnished,Apartment,4.5,3.1,7291355
+Ahmedabad,1888,4,5,34,19,0,Semi-furnished,Apartment,4.0,2.9,7548085
+Ahmedabad,1348,3,2,11,24,0,Semi-furnished,Apartment,9.0,11.0,6830858
+Ahmedabad,2541,6,5,42,1,0,Unfurnished,Apartment,2.3,18.5,10168339
+Chennai,717,2,2,37,16,1,Semi-furnished,Apartment,2.7,0.8,4061512
+Bengaluru,1485,2,2,8,14,0,Semi-furnished,Apartment,7.0,15.7,13913483
+Nagpur,2178,4,3,27,15,0,Unfurnished,Apartment,8.0,29.3,8563089
+Nagpur,2651,4,3,16,19,1,Unfurnished,Apartment,8.5,25.8,10584688
+Ahmedabad,1329,4,3,27,1,2,Semi-furnished,Apartment,3.1,7.4,5704321
+Kolhapur,1855,4,4,25,18,0,Unfurnished,Apartment,8.9,16.1,7380602
+Pune,533,2,1,13,6,0,Unfurnished,Independent House,6.5,5.6,4670584
+Chennai,801,1,2,29,3,2,Furnished,Apartment,8.4,8.3,5983130
+Delhi,533,3,4,11,11,2,Semi-furnished,Independent House,1.6,27.7,4929172
+Nagpur,2279,5,5,40,0,0,Semi-furnished,Villa,4.2,29.9,8915474
+Hyderabad,1113,3,2,42,15,1,Unfurnished,Villa,5.7,7.7,7716695
+Hyderabad,2268,6,5,7,14,0,Semi-furnished,Apartment,6.2,6.8,14381351
+Mumbai,526,1,1,32,12,2,Semi-furnished,Apartment,1.9,11.8,5969174
+Nagpur,2636,5,5,41,0,1,Furnished,Independent House,5.8,13.7,11013171
+Nashik,2564,6,6,5,19,2,Semi-furnished,Apartment,7.0,3.1,9718633
+Mumbai,586,4,4,33,0,2,Semi-furnished,Apartment,4.3,4.9,7315073
+Delhi,413,1,1,42,6,1,Unfurnished,Apartment,5.5,13.0,3970373
+Delhi,499,2,2,10,9,0,Semi-furnished,Independent House,3.6,7.4,4517223
+Delhi,2612,6,6,26,17,2,Furnished,Independent House,8.8,25.4,28865819
+Ahmedabad,972,2,2,35,10,2,Semi-furnished,Apartment,6.4,22.7,4542370
+Pune,1803,3,2,15,20,2,Semi-furnished,Villa,6.0,16.3,18181159
+Hyderabad,1480,4,4,10,23,0,Furnished,Independent House,9.5,13.3,13731514
+Pune,2458,4,4,17,19,2,Furnished,Apartment,7.0,25.0,18974321
+Bengaluru,1646,5,5,15,0,2,Unfurnished,Apartment,3.5,5.4,13354689
+Ahmedabad,1677,4,4,32,19,3,Unfurnished,Apartment,6.8,26.7,9361702
+Ahmedabad,2971,4,4,16,5,1,Semi-furnished,Villa,9.7,1.9,18296982
+Mumbai,748,1,1,16,22,1,Furnished,Independent House,1.2,27.7,8957647
+Kolhapur,2551,6,6,42,24,1,Semi-furnished,Independent House,6.6,4.6,9744972
+Bengaluru,487,1,1,26,2,2,Unfurnished,Independent House,2.4,24.5,3446478
+Pune,1616,4,4,41,2,2,Semi-furnished,Apartment,8.3,1.0,14687138
+Bengaluru,2699,5,5,31,17,1,Unfurnished,Villa,6.8,24.5,23694014
+Pune,2113,4,3,39,3,1,Unfurnished,Villa,9.4,17.7,16521674
+Delhi,2166,5,5,8,24,0,Unfurnished,Independent House,7.0,1.1,21794518
+Ahmedabad,1048,2,1,42,13,1,Unfurnished,Apartment,1.2,23.3,4024448
+Chennai,1459,3,2,42,14,2,Semi-furnished,Apartment,5.6,3.5,8594079
+Nashik,1321,4,4,1,21,0,Unfurnished,Apartment,9.1,16.4,6182752
+Delhi,1732,3,3,16,5,1,Unfurnished,Apartment,3.1,10.3,15265142
+Mumbai,1575,4,5,18,13,2,Semi-furnished,Apartment,1.7,22.9,15193754
+Mumbai,1216,3,2,18,24,1,Unfurnished,Independent House,7.5,25.7,15191254
+Bengaluru,1160,1,2,35,0,1,Semi-furnished,Villa,5.5,14.2,10980303
+Bengaluru,1015,1,1,31,4,1,Unfurnished,Apartment,1.4,22.9,7062429
+Nagpur,1317,3,3,9,3,1,Unfurnished,Apartment,3.5,27.5,4233100
+Nagpur,747,3,3,27,8,0,Semi-furnished,Apartment,3.9,20.8,2618848
+Nagpur,2661,6,6,43,3,1,Unfurnished,Villa,7.0,10.0,10482412
+Kolhapur,1946,3,2,19,4,1,Unfurnished,Independent House,5.2,14.2,7311141
+Chennai,705,1,2,41,21,1,Unfurnished,Apartment,5.4,7.3,4344738
+Kolhapur,2189,5,4,29,11,1,Unfurnished,Apartment,8.3,14.0,7446708
+Delhi,2596,6,6,41,8,0,Unfurnished,Apartment,3.5,7.8,20965882
+Kolhapur,979,3,3,40,10,0,Unfurnished,Apartment,7.1,24.3,3000109
+Nashik,749,1,1,0,24,0,Unfurnished,Apartment,4.3,18.5,3067712
+Nashik,373,1,1,36,12,0,Unfurnished,Apartment,4.8,19.2,1374694
+Kolhapur,475,2,1,8,11,2,Furnished,Apartment,6.0,3.8,2247784
+Mumbai,2370,5,6,37,23,0,Unfurnished,Apartment,7.3,0.5,27082196
+Nashik,2966,6,6,36,0,1,Unfurnished,Apartment,9.5,23.8,11950930
+Hyderabad,469,1,2,11,11,0,Semi-furnished,Independent House,3.4,16.5,3087636
+Nashik,2332,6,6,2,18,0,Unfurnished,Apartment,1.9,28.0,7517356
+Chennai,540,1,2,18,12,0,Semi-furnished,Apartment,4.9,16.3,3368998
+Nagpur,1919,5,6,13,21,1,Unfurnished,Villa,5.9,6.8,8700923
+Hyderabad,2354,5,5,24,22,1,Semi-furnished,Apartment,3.1,21.1,15391929
+Ahmedabad,1302,2,2,3,8,2,Furnished,Independent House,9.0,21.2,8306527
+Nagpur,379,2,2,1,20,0,Unfurnished,Apartment,8.2,2.4,1565010
+Hyderabad,1927,4,5,19,6,1,Unfurnished,Independent House,5.4,21.0,12605499
+Delhi,2977,6,6,34,5,2,Semi-furnished,Apartment,5.1,6.8,24475025
+Chennai,1033,2,2,14,24,1,Furnished,Apartment,1.4,8.0,6262683
+Nashik,852,2,2,14,0,0,Semi-furnished,Apartment,5.8,1.4,3263898
+Kolhapur,678,1,1,7,8,0,Semi-furnished,Independent House,6.4,19.0,2937565
+Nagpur,1821,4,4,12,15,0,Unfurnished,Independent House,9.0,22.1,8769819
+Hyderabad,1931,4,4,13,10,2,Semi-furnished,Independent House,5.5,7.3,12378381
+Chennai,2450,6,6,11,21,1,Unfurnished,Apartment,2.4,23.9,14653925
+Delhi,2346,3,4,15,6,1,Semi-furnished,Independent House,2.6,23.0,21982160
+Ahmedabad,2715,6,5,12,13,2,Unfurnished,Apartment,2.4,12.6,12164064
+Hyderabad,2485,5,6,30,3,1,Semi-furnished,Apartment,9.4,2.5,17734265
+Chennai,1005,3,2,15,5,1,Unfurnished,Apartment,8.1,8.8,7684890
+Pune,1823,3,2,33,4,0,Semi-furnished,Apartment,8.4,5.4,15004475
+Nagpur,1138,2,1,27,18,1,Semi-furnished,Independent House,8.6,28.8,5096923
+Hyderabad,1224,2,1,28,5,0,Furnished,Apartment,1.9,24.6,6837940
+Hyderabad,2820,6,5,26,16,1,Furnished,Apartment,7.3,2.8,18862794
+Chennai,2157,4,5,41,8,1,Semi-furnished,Villa,7.3,15.6,16818168
+Delhi,2933,6,6,11,14,2,Semi-furnished,Independent House,3.0,8.4,26306515
+Nagpur,1455,3,3,44,21,1,Unfurnished,Apartment,5.4,1.4,5310725
+Chennai,1774,4,3,9,21,2,Furnished,Villa,7.0,10.0,13236611
+Chennai,1641,3,4,6,0,0,Semi-furnished,Apartment,9.1,4.3,12280517
+Pune,634,2,2,37,19,3,Semi-furnished,Independent House,2.0,7.1,4266419
+Mumbai,977,1,1,40,23,0,Semi-furnished,Apartment,9.0,10.1,12009889
+Hyderabad,1748,3,4,4,16,2,Semi-furnished,Apartment,9.3,12.6,14196559
+Ahmedabad,529,1,1,26,4,2,Furnished,Villa,9.3,14.3,3474996
+Ahmedabad,2818,5,5,23,16,1,Furnished,Apartment,1.0,15.8,13244031
+Kolhapur,678,1,2,9,15,1,Semi-furnished,Independent House,3.0,11.4,2605722
+Kolhapur,875,1,1,23,16,2,Semi-furnished,Apartment,7.2,15.2,3145616
+Hyderabad,2378,5,5,30,10,2,Furnished,Apartment,3.9,12.8,18680229
+Pune,607,1,1,25,13,0,Semi-furnished,Villa,1.5,29.0,5082703
+Mumbai,2736,5,6,23,16,2,Semi-furnished,Apartment,7.9,2.5,35558283
+Hyderabad,2273,6,6,39,11,0,Semi-furnished,Independent House,1.3,17.8,13181627
+Hyderabad,532,2,1,10,19,1,Semi-furnished,Independent House,5.0,6.2,3912053
+Pune,2183,5,5,28,17,1,Semi-furnished,Apartment,9.5,11.6,18744172
+Bengaluru,2024,4,4,14,7,2,Semi-furnished,Apartment,5.0,16.6,15724756
+Mumbai,2357,4,5,43,15,1,Furnished,Apartment,9.2,22.9,28882454
+Kolhapur,2545,5,5,11,18,1,Furnished,Apartment,4.7,29.3,7544378
+Ahmedabad,2254,5,5,39,12,1,Semi-furnished,Apartment,4.1,15.1,9504314
+Kolhapur,1903,5,6,28,17,1,Unfurnished,Apartment,2.0,8.1,6143793
+Delhi,1205,3,4,9,3,1,Semi-furnished,Independent House,4.2,23.9,11729977
+Delhi,2198,5,6,34,9,1,Semi-furnished,Apartment,4.0,7.0,18773736
+Hyderabad,2886,6,6,10,17,2,Semi-furnished,Independent House,8.6,15.5,23955716
+Pune,1907,4,4,11,22,1,Furnished,Apartment,9.3,25.5,15796501
+Chennai,2111,4,4,15,16,0,Unfurnished,Apartment,1.2,12.4,11729129
+Chennai,1508,3,3,30,16,1,Unfurnished,Apartment,1.9,16.9,8810809
+Mumbai,2354,6,6,17,8,0,Furnished,Apartment,6.8,4.0,32938138
+Delhi,2994,5,4,25,17,1,Furnished,Independent House,5.4,2.2,33594319
+Bengaluru,775,2,2,24,8,1,Semi-furnished,Apartment,3.7,29.6,6631185
+Pune,886,3,3,8,1,1,Unfurnished,Independent House,3.3,5.8,7225604
+Nashik,1780,3,3,10,6,1,Semi-furnished,Independent House,3.0,10.4,7071807
+Chennai,1626,3,3,13,15,1,Semi-furnished,Apartment,5.7,15.4,10807530
+Kolhapur,1865,4,4,10,24,2,Semi-furnished,Independent House,1.2,11.5,7518110
+Nashik,480,1,1,41,12,1,Unfurnished,Villa,7.6,3.4,2239590
+Ahmedabad,1421,2,2,17,21,1,Unfurnished,Apartment,3.7,6.3,6483612
+Nagpur,1895,5,6,18,19,0,Semi-furnished,Villa,4.8,15.1,7534221
+Kolhapur,1901,5,6,30,14,0,Semi-furnished,Apartment,5.7,13.4,6421735
+Nagpur,2092,5,6,35,20,1,Semi-furnished,Independent House,2.9,24.0,7713573
+Delhi,2259,4,4,30,10,1,Semi-furnished,Apartment,9.0,9.7,22727726
+Ahmedabad,2050,5,4,24,11,0,Unfurnished,Independent House,7.1,28.2,9858064
+Nashik,2444,5,5,43,18,0,Semi-furnished,Independent House,8.8,8.8,10667570
+Kolhapur,2006,4,3,40,15,1,Furnished,Villa,5.3,10.3,8710182
+Ahmedabad,1774,6,6,9,13,1,Semi-furnished,Villa,4.9,28.5,10580517
+Chennai,1956,4,4,7,10,3,Semi-furnished,Apartment,3.1,25.3,13210412
+Nashik,618,1,1,17,24,0,Semi-furnished,Independent House,5.9,9.9,2846415
+Bengaluru,1074,3,3,37,1,0,Furnished,Apartment,6.3,12.2,8301687
+Ahmedabad,1748,3,4,43,1,1,Semi-furnished,Apartment,4.8,25.3,7734724
+Kolhapur,2663,5,4,31,11,0,Semi-furnished,Apartment,2.3,3.0,9047843
+Nashik,2149,4,5,31,0,0,Furnished,Villa,3.5,9.2,9533054
+Delhi,590,1,1,10,8,1,Unfurnished,Independent House,1.1,16.2,5505547
+Nagpur,1920,5,5,26,14,1,Semi-furnished,Apartment,3.9,25.0,6911873
+Mumbai,938,3,3,8,10,0,Semi-furnished,Villa,6.2,17.2,14773306
+Pune,2295,6,6,24,5,1,Furnished,Independent House,9.6,14.9,21543268
+Chennai,2543,5,5,8,7,1,Semi-furnished,Apartment,2.6,28.9,17012327
+Nashik,1923,4,4,3,15,0,Unfurnished,Apartment,1.5,3.9,6076131
+Nagpur,1917,4,3,43,23,2,Furnished,Independent House,3.7,23.5,7025860
+Delhi,1247,2,1,40,19,1,Semi-furnished,Independent House,2.4,4.2,11452732
+Kolhapur,1533,3,3,30,13,3,Semi-furnished,Apartment,7.3,22.1,5606812
+Chennai,2640,6,6,28,3,2,Unfurnished,Apartment,1.1,16.5,15582398
+Ahmedabad,2267,5,5,10,6,1,Unfurnished,Apartment,9.8,8.3,12352051
+Kolhapur,1727,4,5,25,11,1,Semi-furnished,Apartment,8.7,16.5,6234100
+Delhi,1326,4,3,33,6,2,Semi-furnished,Apartment,5.4,26.4,9981077
+Ahmedabad,484,1,1,24,17,1,Furnished,Apartment,9.3,14.4,2678154
+Pune,729,3,2,12,9,0,Unfurnished,Apartment,6.7,0.7,6008702
+Ahmedabad,862,2,3,17,20,1,Semi-furnished,Independent House,9.9,2.2,5497065
+Pune,1339,2,2,37,6,1,Unfurnished,Apartment,3.5,19.2,7105290
+Bengaluru,2852,5,4,11,12,2,Semi-furnished,Apartment,10.0,20.5,30218120
+Nagpur,1689,3,3,43,17,2,Unfurnished,Apartment,2.6,12.4,4474313
+Nashik,972,1,1,33,5,2,Semi-furnished,Villa,4.2,7.7,4256305
+Ahmedabad,630,1,2,40,19,2,Unfurnished,Apartment,9.4,21.6,2905842
+Nashik,1247,3,3,22,14,1,Semi-furnished,Apartment,4.3,9.5,5122817
+Kolhapur,2512,6,6,10,16,1,Unfurnished,Apartment,2.9,2.7,8231177
+Hyderabad,1366,3,3,1,11,3,Semi-furnished,Independent House,1.5,12.6,10093155
+Mumbai,2397,5,5,24,23,3,Unfurnished,Apartment,2.3,16.4,29653040
+Pune,2477,4,4,17,19,2,Semi-furnished,Apartment,4.2,29.0,18509576
+Bengaluru,644,1,1,5,4,2,Semi-furnished,Independent House,4.8,18.0,5668495
+Mumbai,1963,4,4,41,13,1,Unfurnished,Independent House,5.9,6.6,24300746
+Chennai,2892,6,5,43,22,1,Unfurnished,Apartment,8.3,25.0,21236724
+Nashik,1416,5,6,16,6,2,Unfurnished,Apartment,1.1,9.1,5287610
+Ahmedabad,485,2,3,30,13,0,Semi-furnished,Villa,8.6,28.8,3034953
+Delhi,2797,6,6,18,18,1,Furnished,Villa,6.2,10.1,28874969
+Nagpur,2692,5,5,22,6,1,Unfurnished,Independent House,7.8,27.3,10959031
+Ahmedabad,1734,3,2,28,12,1,Semi-furnished,Independent House,7.8,26.4,9057103
+Nagpur,1813,4,5,18,13,1,Semi-furnished,Independent House,9.1,26.0,7502461
+Delhi,911,1,1,36,4,0,Semi-furnished,Villa,1.8,1.7,8480615
+Hyderabad,2522,6,6,8,4,0,Semi-furnished,Apartment,6.1,25.6,17871722
+Ahmedabad,1671,4,4,30,14,1,Furnished,Villa,9.2,21.8,9983380
+Bengaluru,440,1,2,44,4,1,Semi-furnished,Independent House,7.5,10.4,3959539
+Delhi,2160,6,6,38,23,0,Furnished,Apartment,1.9,15.0,17424840
+Mumbai,2869,6,6,2,13,1,Unfurnished,Apartment,6.5,19.4,38457486
+Nashik,2547,4,4,5,17,1,Furnished,Apartment,8.2,28.3,12245092
+Kolhapur,1085,2,2,28,9,1,Furnished,Independent House,3.5,23.5,3980524
+Mumbai,491,1,1,41,7,1,Furnished,Independent House,6.7,13.1,7043371
+Bengaluru,2842,6,6,37,12,1,Unfurnished,Apartment,8.6,19.5,24412362
+Chennai,2833,6,6,40,17,2,Furnished,Independent House,5.7,6.0,20352846
+Chennai,1761,5,6,6,9,0,Unfurnished,Apartment,2.7,13.0,8634211
+Nagpur,2052,5,6,23,7,1,Semi-furnished,Apartment,5.9,23.8,7927806
+Bengaluru,1576,2,3,32,3,1,Unfurnished,Apartment,6.3,18.4,11147403
+Ahmedabad,1462,2,2,28,13,0,Semi-furnished,Independent House,4.6,23.6,7030801
+Delhi,667,2,3,34,16,2,Semi-furnished,Apartment,7.1,15.5,6505079
+Nagpur,606,2,2,9,13,3,Unfurnished,Apartment,4.9,11.7,2512771
+Bengaluru,967,2,3,20,6,1,Unfurnished,Apartment,8.9,22.4,9714992
+Mumbai,2567,6,6,20,6,3,Unfurnished,Independent House,8.1,3.3,33109882
+Mumbai,736,2,3,42,9,1,Semi-furnished,Villa,8.2,29.4,9272968
+Hyderabad,951,3,4,9,8,1,Furnished,Independent House,5.7,28.5,7576329
+Ahmedabad,1804,3,4,14,5,0,Semi-furnished,Independent House,2.8,26.5,8830415
+Mumbai,920,3,3,0,23,0,Semi-furnished,Apartment,7.5,26.6,11359386
+Hyderabad,782,2,2,6,8,1,Furnished,Apartment,1.6,15.6,5208492
+Pune,1843,4,5,44,6,1,Semi-furnished,Independent House,5.7,15.2,14576349
+Ahmedabad,1325,2,2,38,15,1,Semi-furnished,Apartment,1.5,24.7,4492980
+Kolhapur,2009,5,4,11,20,0,Semi-furnished,Apartment,5.8,8.9,6751395
+Nashik,2767,5,6,31,11,1,Unfurnished,Apartment,7.2,25.6,10013392
+Nashik,750,2,2,26,16,0,Semi-furnished,Independent House,4.8,6.4,3124545
+Kolhapur,2771,5,5,40,2,1,Semi-furnished,Apartment,4.8,26.4,9188272
+Nashik,2742,6,6,13,13,0,Semi-furnished,Apartment,2.1,16.5,9919588
+Mumbai,2547,5,4,44,1,1,Semi-furnished,Independent House,3.7,25.4,28684265
+Nagpur,2023,4,4,16,3,1,Unfurnished,Apartment,5.0,15.0,8605270
+Nashik,1993,4,4,32,14,2,Semi-furnished,Apartment,8.8,18.4,7941954
+Nashik,2044,4,4,17,5,0,Unfurnished,Independent House,9.1,27.8,8760356
+Hyderabad,2180,6,6,30,0,1,Furnished,Villa,9.6,12.8,20072735
+Nagpur,394,2,2,15,4,3,Unfurnished,Apartment,1.9,7.0,1457484
+Hyderabad,2889,6,5,37,19,0,Semi-furnished,Apartment,3.7,3.2,18298330
+Mumbai,1902,4,4,28,14,1,Semi-furnished,Apartment,5.2,17.9,25936936
+Ahmedabad,2421,6,5,12,9,0,Unfurnished,Apartment,6.8,18.5,12239131
+Bengaluru,1350,4,5,43,24,0,Semi-furnished,Independent House,7.3,18.8,9844934
+Pune,383,1,1,31,9,1,Unfurnished,Independent House,8.1,1.6,3171597
+Kolhapur,1701,4,4,19,21,0,Semi-furnished,Apartment,5.5,1.3,5788317
+Bengaluru,1694,2,2,6,8,1,Furnished,Independent House,6.0,26.9,18152750
+Nagpur,1508,4,3,43,0,2,Unfurnished,Apartment,9.6,21.0,6066878
+Delhi,1250,4,5,33,2,0,Semi-furnished,Apartment,3.2,3.8,8975541
+Mumbai,1012,2,2,30,6,0,Furnished,Villa,8.2,2.7,17146356
+Ahmedabad,1748,2,2,37,4,2,Semi-furnished,Apartment,7.4,5.3,9395510
+Chennai,1344,3,3,27,3,1,Furnished,Apartment,2.3,24.3,7936060
+Bengaluru,2920,6,6,10,9,2,Semi-furnished,Independent House,9.3,21.8,29597103
+Kolhapur,808,1,1,10,24,1,Semi-furnished,Apartment,8.7,19.3,3497530
+Chennai,1197,3,4,3,5,1,Unfurnished,Apartment,8.0,19.4,7236615
+Mumbai,1129,3,3,2,5,2,Unfurnished,Apartment,2.1,25.8,13005070
+Nashik,1790,4,3,32,24,0,Semi-furnished,Apartment,2.3,10.3,7001389
+Delhi,1673,3,3,38,5,2,Furnished,Apartment,7.1,10.0,16324065
+Kolhapur,2056,5,6,7,20,1,Unfurnished,Apartment,2.0,13.1,6827582
+Nagpur,2868,6,5,25,15,2,Furnished,Apartment,2.0,29.7,9860004
+Kolhapur,1106,2,2,5,23,0,Semi-furnished,Apartment,4.6,16.9,3661120
+Kolhapur,2186,5,5,18,13,1,Semi-furnished,Independent House,1.0,16.6,6668320
+Bengaluru,416,1,2,35,14,0,Furnished,Independent House,7.5,24.4,4085228
+Bengaluru,1045,2,2,36,5,3,Furnished,Independent House,5.9,5.8,9219908
+Delhi,1579,2,2,42,14,0,Semi-furnished,Independent House,1.7,12.5,10918862
+Nagpur,432,2,3,13,16,0,Unfurnished,Independent House,5.9,19.4,1720625
+Chennai,1987,2,3,42,24,2,Unfurnished,Apartment,1.5,29.6,9032279
+Hyderabad,2148,4,4,35,2,1,Unfurnished,Apartment,1.6,5.1,10093077
+Nashik,2329,5,5,15,3,1,Semi-furnished,Apartment,5.4,13.8,9721493
+Nagpur,1719,4,3,14,0,1,Unfurnished,Apartment,5.5,27.2,6520418
+Ahmedabad,1950,5,6,4,19,1,Semi-furnished,Villa,4.1,21.9,11077015
+Bengaluru,1400,4,5,41,2,0,Unfurnished,Apartment,6.6,18.6,9534451
+Nashik,459,1,1,9,22,1,Semi-furnished,Independent House,4.5,8.1,2118103
+Chennai,615,2,2,12,9,1,Semi-furnished,Apartment,6.3,6.0,4758292
+Delhi,2086,5,6,18,7,1,Semi-furnished,Apartment,4.1,11.5,22672026
+Hyderabad,2988,5,4,6,24,1,Semi-furnished,Apartment,7.4,8.0,25055157
+Pune,392,2,2,36,18,0,Furnished,Apartment,6.2,24.4,2764722
+Bengaluru,1828,3,4,31,13,2,Furnished,Apartment,2.4,21.8,15173082
+Chennai,2340,6,6,7,22,0,Semi-furnished,Independent House,7.2,25.1,18127185
+Nagpur,2541,6,5,7,18,1,Unfurnished,Apartment,8.1,5.5,9387684
+Nagpur,1795,4,5,0,15,1,Furnished,Independent House,1.6,9.6,7413602
+Pune,1993,4,5,42,8,1,Furnished,Villa,6.5,23.2,19803763
+Kolhapur,2196,6,5,19,24,2,Furnished,Apartment,8.1,5.3,9715853
+Mumbai,2626,5,5,29,17,1,Semi-furnished,Villa,2.0,4.8,30534679
+Kolhapur,674,1,1,6,23,2,Unfurnished,Apartment,9.1,11.8,2629937
+Hyderabad,2804,6,6,10,24,1,Semi-furnished,Apartment,4.7,6.0,20295623
+Delhi,419,1,1,24,13,2,Semi-furnished,Apartment,7.6,2.8,3646530
+Nashik,2566,6,6,9,8,2,Unfurnished,Apartment,9.1,9.7,10129754
+Delhi,553,2,2,27,23,0,Semi-furnished,Apartment,9.9,26.3,5709045
+Nagpur,866,2,2,41,24,3,Semi-furnished,Apartment,6.3,2.2,3241872
+Chennai,360,1,1,13,3,2,Unfurnished,Independent House,7.3,17.2,2267022
+Ahmedabad,1530,3,4,27,15,1,Semi-furnished,Apartment,3.3,17.1,7033590
+Kolhapur,1236,2,3,41,15,0,Semi-furnished,Independent House,3.6,16.2,4418773
+Bengaluru,790,2,2,40,18,0,Semi-furnished,Apartment,8.7,15.4,6658318
+Nashik,1545,3,4,0,24,1,Unfurnished,Apartment,4.6,1.0,6423813
+Delhi,1416,3,3,4,6,1,Furnished,Apartment,8.4,1.9,16724177
+Chennai,2384,6,5,44,24,1,Semi-furnished,Apartment,1.5,15.6,13260140
+Pune,2717,6,6,41,16,1,Semi-furnished,Apartment,3.0,29.1,14135886
+Pune,2079,3,4,14,2,1,Semi-furnished,Independent House,2.5,12.5,14547836
+Chennai,680,1,1,23,12,0,Semi-furnished,Apartment,5.7,14.4,4311423
+Pune,1133,3,2,25,3,0,Semi-furnished,Apartment,1.7,29.5,6602461
+Ahmedabad,2770,6,5,30,23,0,Unfurnished,Independent House,4.1,23.5,14197864
+Nagpur,585,2,2,33,19,2,Furnished,Independent House,9.9,23.2,2759382
+Nashik,1428,4,3,16,22,1,Unfurnished,Villa,8.1,15.4,6446597
+Nashik,2848,5,6,40,15,2,Furnished,Apartment,7.8,27.0,11854153
+Chennai,2869,5,4,2,9,2,Semi-furnished,Independent House,2.2,17.6,21541435
+Mumbai,1440,5,4,1,10,2,Unfurnished,Apartment,4.3,19.9,16408902
+Hyderabad,2119,5,5,43,23,1,Semi-furnished,Independent House,7.1,23.7,15755479
+Delhi,1560,3,4,7,3,2,Unfurnished,Apartment,1.2,12.5,14458405
+Ahmedabad,2347,4,5,44,22,2,Furnished,Apartment,4.9,28.6,11924577
+Bengaluru,434,1,1,12,10,2,Semi-furnished,Villa,9.4,29.6,4726844
+Delhi,732,1,1,16,14,0,Semi-furnished,Independent House,1.7,17.8,7245789
+Hyderabad,1978,5,6,1,16,1,Semi-furnished,Independent House,9.2,7.1,16272097
+Pune,966,2,3,42,2,0,Furnished,Apartment,2.8,23.4,7953649
+Pune,2115,6,5,16,3,0,Semi-furnished,Independent House,2.7,10.0,16460467
+Hyderabad,1281,3,4,7,4,1,Semi-furnished,Apartment,2.8,17.5,9175268
+Mumbai,2700,5,6,21,19,2,Semi-furnished,Apartment,9.4,3.1,36652130
+Mumbai,2521,5,5,6,1,0,Unfurnished,Apartment,6.4,24.3,32250381
+Hyderabad,1656,2,2,35,15,0,Semi-furnished,Apartment,7.8,28.8,11505788
+Bengaluru,2398,5,5,3,2,2,Semi-furnished,Apartment,4.3,3.3,19538729
+Chennai,1069,2,3,22,19,0,Furnished,Independent House,8.9,22.1,7903209
+Mumbai,1660,4,5,17,24,0,Semi-furnished,Apartment,6.2,25.9,20172568
+Hyderabad,873,1,1,1,10,2,Semi-furnished,Independent House,6.4,3.7,7535272
+Delhi,2631,6,6,2,5,2,Semi-furnished,Villa,7.8,7.8,28194246
+Ahmedabad,2531,6,6,23,11,1,Semi-furnished,Apartment,8.0,12.1,12897164
+Kolhapur,2741,6,6,17,17,1,Semi-furnished,Independent House,7.1,25.2,11741764
+Nagpur,2675,6,5,5,18,1,Furnished,Apartment,2.1,15.1,8945843
+Hyderabad,2893,6,6,6,15,1,Unfurnished,Villa,8.8,4.5,26929593
+Delhi,955,1,1,36,14,2,Semi-furnished,Apartment,3.3,8.1,7094924
+Delhi,2819,6,6,32,15,2,Furnished,Apartment,10.0,14.3,28271165
+Nagpur,1864,4,3,27,5,1,Semi-furnished,Apartment,4.5,1.7,6654114
+Ahmedabad,1470,2,2,37,5,1,Unfurnished,Villa,2.1,19.1,7858271
+Ahmedabad,1835,3,2,3,23,1,Semi-furnished,Apartment,3.8,1.2,8764027
+Nashik,1258,3,4,30,14,0,Unfurnished,Independent House,6.2,23.5,4290167
+Chennai,1115,2,2,33,21,1,Unfurnished,Apartment,4.5,22.1,5492198
+Chennai,989,2,2,9,15,0,Semi-furnished,Independent House,8.5,26.0,8215500
+Ahmedabad,568,1,2,24,11,2,Furnished,Apartment,7.1,5.2,2763003
+Bengaluru,1666,2,3,34,14,1,Unfurnished,Apartment,2.9,18.3,12787899
+Hyderabad,2703,6,5,27,17,1,Furnished,Apartment,5.8,23.5,18850432
+Nagpur,2020,5,4,11,4,1,Semi-furnished,Apartment,8.1,15.7,8352899
+Hyderabad,1731,3,3,29,11,2,Furnished,Independent House,9.0,4.4,14563899
+Bengaluru,1486,3,2,34,18,3,Semi-furnished,Independent House,4.6,3.4,11947043
+Chennai,1581,4,4,0,2,1,Furnished,Apartment,9.3,18.4,13080356
+Hyderabad,905,2,2,25,1,0,Furnished,Apartment,1.3,15.2,4904371
+Nagpur,2531,6,6,22,4,2,Furnished,Apartment,7.1,27.9,11291642
+Ahmedabad,876,3,2,16,14,0,Semi-furnished,Independent House,8.0,25.1,4532025
+Hyderabad,2249,4,5,1,5,1,Unfurnished,Independent House,4.8,21.9,16531370
+Chennai,2364,5,6,3,10,0,Semi-furnished,Independent House,1.1,29.5,13756976
+Ahmedabad,1873,4,4,33,3,2,Semi-furnished,Independent House,7.2,21.0,9417882
+Nashik,2637,6,5,37,6,0,Unfurnished,Apartment,4.1,3.2,8945948
+Bengaluru,1121,2,2,18,0,1,Furnished,Apartment,2.4,2.8,11668152
+Chennai,2686,6,6,42,20,1,Unfurnished,Independent House,2.4,24.6,14878128
+Kolhapur,2283,5,5,41,11,1,Furnished,Apartment,7.9,11.1,7906301
+Kolhapur,2467,5,4,29,4,1,Semi-furnished,Apartment,2.7,27.8,7121637
+Mumbai,2111,5,6,26,13,2,Furnished,Apartment,5.4,4.0,23938640
+Bengaluru,2593,5,6,43,23,2,Furnished,Independent House,9.7,6.4,25597735
+Nagpur,2982,6,6,27,20,1,Semi-furnished,Independent House,7.8,23.3,14014124
+Bengaluru,1463,3,3,42,22,1,Semi-furnished,Villa,5.9,25.5,13550145
+Bengaluru,2507,6,6,44,10,2,Unfurnished,Apartment,5.8,26.1,19832491
+Hyderabad,2323,3,2,8,9,2,Furnished,Apartment,2.5,3.4,14877275
+Pune,1550,4,4,29,7,1,Furnished,Apartment,5.0,11.8,11731411
+Pune,2806,6,5,32,7,1,Unfurnished,Independent House,2.3,19.6,18950377
+Hyderabad,1395,4,3,36,22,0,Unfurnished,Apartment,1.8,27.6,6574163
+Nagpur,1848,4,4,15,3,0,Semi-furnished,Villa,2.0,7.6,7637965
+Mumbai,631,1,1,38,21,0,Unfurnished,Apartment,6.5,18.2,7366784
+Bengaluru,948,4,5,21,22,0,Furnished,Independent House,2.7,4.7,8808721
+Mumbai,2578,6,6,17,21,0,Unfurnished,Independent House,2.3,22.5,28489179
+Chennai,1401,4,5,7,15,2,Furnished,Apartment,8.8,4.3,12294419
+Bengaluru,1394,3,4,14,21,2,Furnished,Independent House,2.1,30.0,11691768
+Nashik,1002,3,3,43,0,2,Furnished,Apartment,7.4,3.2,4222082
+Chennai,1653,4,5,32,20,1,Semi-furnished,Independent House,4.8,20.7,12328185
+Nashik,2485,6,6,32,12,1,Unfurnished,Independent House,6.2,23.4,9038304
+Kolhapur,2722,6,6,40,23,0,Furnished,Apartment,1.2,8.1,6806139
+Delhi,536,1,1,12,2,1,Semi-furnished,Apartment,1.0,8.0,4146989
+Nagpur,1873,4,3,29,23,1,Furnished,Villa,8.4,18.1,9014792
+Delhi,1588,4,4,16,14,1,Semi-furnished,Villa,5.3,19.1,18790184
+Ahmedabad,1978,4,4,38,2,3,Unfurnished,Independent House,1.6,21.8,7610399
+Ahmedabad,1535,4,4,19,12,2,Furnished,Villa,4.1,17.6,9994668
+Chennai,1406,4,3,38,0,1,Furnished,Apartment,5.6,5.6,9494322
+Kolhapur,1600,3,3,33,2,2,Unfurnished,Apartment,2.2,27.8,4366095
+Bengaluru,1892,4,4,34,13,0,Semi-furnished,Apartment,5.9,5.4,14333297
+Nagpur,1678,3,3,41,20,0,Unfurnished,Apartment,5.8,17.2,6511422
+Kolhapur,1601,5,6,35,2,0,Semi-furnished,Apartment,6.4,27.6,5281227
+Ahmedabad,2517,6,6,14,6,0,Semi-furnished,Independent House,8.3,27.4,12741061
+Bengaluru,2326,6,6,23,9,1,Semi-furnished,Apartment,4.7,5.5,23387833
+Nashik,1255,2,1,21,13,1,Unfurnished,Apartment,9.0,7.5,5604544
+Delhi,2472,5,5,2,0,0,Unfurnished,Independent House,5.3,18.3,26026745
+Pune,2612,6,5,26,15,3,Semi-furnished,Independent House,5.1,10.4,23848011
+Pune,757,1,1,19,12,1,Unfurnished,Villa,6.9,22.1,6797342
+Chennai,1894,5,4,17,24,1,Semi-furnished,Apartment,6.6,15.9,14210572
+Hyderabad,1106,4,4,4,7,1,Semi-furnished,Independent House,1.1,8.3,7622503
+Pune,2309,4,3,22,12,1,Semi-furnished,Apartment,9.8,12.6,20808481
+Delhi,983,1,1,26,2,1,Semi-furnished,Apartment,9.5,20.9,9899954
+Kolhapur,2129,4,3,4,22,1,Unfurnished,Independent House,3.5,23.7,7417167
+Hyderabad,1026,4,4,28,20,2,Unfurnished,Apartment,6.0,11.4,6756005
+Ahmedabad,1705,5,5,7,8,1,Furnished,Independent House,7.9,3.6,10270933
+Nashik,2864,6,5,6,11,1,Furnished,Apartment,9.3,10.9,14778399
+Chennai,1360,3,2,18,21,0,Furnished,Apartment,6.3,19.1,10055851
+Ahmedabad,2671,5,6,17,7,2,Furnished,Apartment,1.2,22.9,13013150
+Delhi,2965,6,6,41,5,1,Semi-furnished,Apartment,7.1,26.4,28005331
+Pune,2668,6,6,3,6,1,Furnished,Apartment,1.8,28.9,23247997
+Mumbai,790,2,3,15,17,3,Semi-furnished,Apartment,7.0,16.1,11311930
+Ahmedabad,2522,6,5,33,5,1,Semi-furnished,Apartment,6.3,26.5,11666626
+Ahmedabad,435,1,2,11,2,0,Furnished,Independent House,6.8,8.2,2630965
+Nashik,1392,3,2,44,4,1,Semi-furnished,Apartment,2.7,17.0,5413318
+Pune,2657,6,6,33,24,1,Semi-furnished,Independent House,5.4,16.4,18941102
+Bengaluru,2175,5,4,42,21,3,Semi-furnished,Apartment,6.6,23.2,20657394
+Mumbai,1762,5,4,42,23,1,Unfurnished,Apartment,3.7,23.3,16062856
+Mumbai,1378,4,4,4,6,1,Semi-furnished,Apartment,2.6,8.9,17936144
+Bengaluru,2503,6,5,20,11,1,Furnished,Independent House,3.0,26.6,21620795
+Chennai,2230,5,5,33,12,1,Semi-furnished,Independent House,8.7,26.8,16276704
+Mumbai,1591,3,2,0,13,0,Unfurnished,Apartment,5.2,28.5,16858832
+Ahmedabad,2715,6,5,20,0,2,Semi-furnished,Independent House,6.9,14.0,15960399
+Delhi,959,2,3,30,14,0,Semi-furnished,Apartment,5.6,29.6,7409470
+Bengaluru,802,1,2,35,0,2,Semi-furnished,Apartment,8.5,23.7,6075468
+Chennai,2053,4,5,18,6,2,Semi-furnished,Apartment,5.6,19.8,15109694
+Nashik,2926,6,5,38,7,0,Semi-furnished,Apartment,1.8,13.3,11687638
+Hyderabad,1005,2,2,30,16,2,Semi-furnished,Apartment,2.8,25.4,5548378
+Mumbai,1012,3,3,2,22,2,Semi-furnished,Apartment,1.1,23.0,12593094
+Mumbai,720,2,2,12,17,1,Semi-furnished,Apartment,8.5,17.8,10457423
+Nagpur,2630,6,6,42,10,1,Semi-furnished,Apartment,7.0,29.9,9200358
+Pune,950,2,2,0,13,0,Semi-furnished,Apartment,7.8,7.9,9070175
+Kolhapur,1683,4,4,4,12,0,Unfurnished,Independent House,7.4,19.4,6503210
+Hyderabad,2976,6,6,15,3,2,Semi-furnished,Independent House,8.4,10.0,24832199
+Nashik,382,1,2,44,23,0,Semi-furnished,Apartment,9.9,14.0,1467288
+Mumbai,1825,4,5,31,22,1,Semi-furnished,Apartment,6.9,10.5,20317556
+Nagpur,1708,3,3,6,6,1,Furnished,Apartment,3.3,10.4,7262038
+Kolhapur,2490,5,4,17,2,0,Unfurnished,Independent House,1.9,11.6,8417868
+Delhi,1291,3,3,42,4,2,Furnished,Apartment,6.3,2.2,12277627
+Bengaluru,1437,4,4,9,15,2,Unfurnished,Apartment,7.9,1.7,15183237
+Ahmedabad,795,2,3,25,0,2,Semi-furnished,Villa,6.1,21.9,5121966
+Hyderabad,2313,5,5,20,2,0,Furnished,Apartment,3.7,9.7,16265991
+Delhi,2429,6,5,34,16,1,Semi-furnished,Apartment,7.5,1.1,20707915
+Hyderabad,712,1,1,33,3,2,Furnished,Independent House,5.0,2.9,5180088
+Bengaluru,1393,1,1,37,1,1,Furnished,Villa,3.6,6.3,11987431
+Delhi,2716,6,6,5,0,1,Unfurnished,Apartment,8.6,1.9,28479357
+Pune,357,2,2,20,17,1,Furnished,Apartment,6.2,28.4,2689387
+Mumbai,1142,1,2,31,9,1,Furnished,Apartment,3.6,17.3,11764796
+Bengaluru,1821,4,5,18,7,1,Semi-furnished,Apartment,4.0,12.1,11820722
+Pune,1235,4,3,30,15,1,Unfurnished,Apartment,6.1,16.2,8936864
+Delhi,1071,2,3,28,4,0,Unfurnished,Apartment,4.8,3.8,7142521
+Nagpur,1569,3,3,16,13,2,Furnished,Independent House,2.4,21.2,5916646
+Pune,831,1,1,4,12,1,Furnished,Independent House,6.5,29.1,7779018
+Mumbai,1754,5,5,43,16,0,Furnished,Villa,7.2,4.4,24346470
+Pune,2223,5,5,37,15,2,Semi-furnished,Independent House,1.0,5.0,13619257
+Chennai,1875,4,3,40,16,1,Unfurnished,Apartment,5.8,19.0,10947256
+Bengaluru,597,2,3,13,5,0,Semi-furnished,Apartment,6.2,5.0,4980909
+Delhi,2588,6,5,14,3,3,Semi-furnished,Apartment,4.0,4.2,24767698
+Mumbai,814,1,1,14,13,2,Unfurnished,Apartment,4.0,20.3,8270819
+Hyderabad,2377,5,5,1,1,1,Unfurnished,Apartment,3.9,18.8,15274730
+Delhi,1305,3,2,7,11,2,Unfurnished,Independent House,5.0,6.9,12665605
+Delhi,2424,5,4,13,15,1,Unfurnished,Apartment,8.3,24.8,23513634
+Chennai,897,1,1,44,20,1,Semi-furnished,Apartment,5.2,3.6,6339828
+Nashik,845,2,2,9,16,0,Semi-furnished,Apartment,9.9,10.3,4111793
+Delhi,1667,3,2,22,24,0,Semi-furnished,Villa,4.4,22.3,17680046
+Nagpur,437,2,3,24,13,1,Semi-furnished,Independent House,7.3,18.6,1739863
+Chennai,947,2,3,16,11,1,Furnished,Apartment,5.9,18.2,6880925
+Bengaluru,2269,4,4,41,6,2,Semi-furnished,Apartment,7.9,20.7,18497399
+Bengaluru,2569,5,5,4,16,1,Semi-furnished,Villa,9.0,19.6,28230360
+Hyderabad,564,1,2,39,20,1,Semi-furnished,Apartment,5.6,26.3,3711756
+Chennai,2688,5,5,33,8,2,Semi-furnished,Independent House,5.5,17.3,17544170
+Bengaluru,2463,6,6,13,1,3,Semi-furnished,Independent House,9.5,12.3,24808679
+Ahmedabad,2655,6,5,34,0,1,Semi-furnished,Independent House,9.4,23.1,14098668
+Delhi,2201,5,5,19,15,2,Semi-furnished,Apartment,10.0,8.1,22896746
+Nagpur,2137,5,4,43,16,2,Semi-furnished,Villa,2.4,22.9,7922391
+Kolhapur,1741,4,4,1,3,0,Semi-furnished,Apartment,1.0,8.8,5518555
+Hyderabad,2080,4,5,1,0,1,Unfurnished,Apartment,4.9,14.7,15835092
+Bengaluru,2786,6,5,24,16,0,Semi-furnished,Apartment,7.6,22.3,29497756
+Nashik,616,1,1,41,9,1,Semi-furnished,Apartment,1.7,19.0,1897518
+Hyderabad,1187,4,4,2,10,1,Semi-furnished,Apartment,4.4,3.0,8695166
+Bengaluru,542,2,2,35,6,1,Semi-furnished,Independent House,6.2,13.7,5198519
+Ahmedabad,2854,5,5,42,17,2,Unfurnished,Independent House,2.9,24.4,11609138
+Delhi,1530,3,2,21,18,1,Unfurnished,Apartment,7.6,29.9,12799953
+Mumbai,2140,4,5,39,1,1,Semi-furnished,Independent House,3.1,14.3,28301726
+Delhi,2579,6,6,34,2,2,Semi-furnished,Villa,8.6,3.0,30968006
+Delhi,2976,6,6,9,13,3,Unfurnished,Apartment,4.1,11.3,27572026
+Nagpur,779,4,5,38,15,2,Unfurnished,Independent House,6.4,15.0,3299967
+Nashik,2469,5,4,31,3,0,Unfurnished,Villa,5.9,2.7,11668621
+Pune,2702,6,6,0,3,0,Semi-furnished,Independent House,3.7,26.0,21591259
+Pune,480,2,3,25,17,0,Unfurnished,Apartment,5.0,16.4,3045710
+Kolhapur,2348,5,5,29,11,1,Semi-furnished,Independent House,8.6,12.8,8985561
+Mumbai,1290,3,2,36,2,1,Semi-furnished,Independent House,5.9,12.2,17965838
+Hyderabad,2069,4,4,34,15,2,Furnished,Apartment,1.5,1.3,13602403
+Pune,1712,4,5,21,1,1,Semi-furnished,Apartment,7.4,15.8,13487319
+Mumbai,1038,3,4,13,5,1,Unfurnished,Apartment,2.6,14.5,13287965
+Ahmedabad,708,2,3,8,17,1,Semi-furnished,Apartment,5.4,10.7,3596805
+Mumbai,660,2,2,4,5,1,Semi-furnished,Apartment,5.2,19.9,9131814
+Mumbai,624,3,4,28,1,1,Unfurnished,Apartment,5.4,12.6,7334688
+Ahmedabad,2040,5,5,43,23,2,Furnished,Independent House,1.3,17.4,10855129
+Pune,1281,3,4,3,5,0,Semi-furnished,Independent House,3.5,26.6,10738061
+Nagpur,924,1,2,31,12,2,Unfurnished,Apartment,1.5,11.2,2761019
+Mumbai,2183,4,3,26,20,0,Unfurnished,Apartment,4.7,12.2,23701116
+Pune,2170,5,6,7,24,1,Furnished,Apartment,6.6,26.0,18273432
+Pune,1779,4,4,9,20,3,Furnished,Apartment,6.9,11.1,14712862
+Nashik,2828,6,6,12,8,0,Furnished,Independent House,1.6,13.5,10498937
+Kolhapur,1371,2,3,30,21,0,Unfurnished,Apartment,2.1,24.1,3893966
+Delhi,2565,5,4,13,0,1,Semi-furnished,Villa,7.0,18.0,28024106
+Bengaluru,549,1,1,37,8,1,Unfurnished,Apartment,5.8,28.0,3823066
+Mumbai,2311,5,4,16,4,0,Semi-furnished,Apartment,8.5,14.4,30894353
+Chennai,2969,5,5,4,13,0,Semi-furnished,Independent House,2.8,14.6,20528845
+Bengaluru,2593,5,4,4,22,0,Furnished,Apartment,2.1,1.8,22208213
+Chennai,1886,4,3,18,19,1,Semi-furnished,Apartment,4.3,6.3,14224593
+Kolhapur,2011,3,4,18,24,1,Semi-furnished,Apartment,6.7,16.4,7704072
+Nagpur,1286,3,3,33,3,2,Unfurnished,Independent House,5.4,6.0,5635702
+Delhi,2151,5,5,21,18,2,Semi-furnished,Apartment,1.9,13.9,17293910
+Mumbai,2392,5,5,7,18,0,Unfurnished,Independent House,1.6,8.9,29808567
+Bengaluru,2995,6,6,9,11,1,Furnished,Independent House,7.1,1.1,30101855
+Nagpur,1655,4,4,25,2,0,Unfurnished,Independent House,3.7,14.5,5522328
+Chennai,512,1,1,15,2,1,Semi-furnished,Independent House,7.0,19.6,4450374
+Kolhapur,1929,4,5,30,22,1,Unfurnished,Independent House,3.7,10.5,5872164
+Delhi,665,2,2,41,7,2,Semi-furnished,Independent House,3.8,23.4,4682833
+Pune,999,3,4,15,15,1,Unfurnished,Apartment,2.9,4.8,6446121
+Nagpur,1221,3,4,24,23,1,Semi-furnished,Independent House,9.9,3.2,4725009
+Nashik,2287,6,6,37,12,1,Semi-furnished,Independent House,1.1,28.1,7282192
+Ahmedabad,837,1,1,9,5,2,Semi-furnished,Apartment,2.1,27.7,3457038
+Nagpur,789,3,3,22,12,1,Furnished,Independent House,8.5,12.5,3603879
+Bengaluru,469,1,1,13,5,0,Unfurnished,Apartment,2.2,12.9,2744808
+Bengaluru,2664,6,6,28,4,3,Semi-furnished,Apartment,3.5,25.6,22668285
+Bengaluru,2188,5,5,33,20,1,Furnished,Apartment,3.4,16.2,14370137
+Ahmedabad,456,1,1,6,8,1,Unfurnished,Apartment,7.3,4.0,2366056
+Chennai,425,1,1,8,17,1,Furnished,Apartment,4.7,3.9,3001862
+Delhi,1830,4,3,1,18,1,Furnished,Apartment,8.6,4.4,22180622
+Ahmedabad,1099,2,3,0,13,1,Furnished,Apartment,7.7,23.5,6467139
+Kolhapur,1931,5,4,2,13,0,Semi-furnished,Apartment,5.8,18.3,7862184
+Ahmedabad,1502,2,3,31,4,1,Semi-furnished,Apartment,3.2,9.3,6392146
+Ahmedabad,2797,6,6,40,13,1,Semi-furnished,Apartment,8.1,5.3,13541653
+Mumbai,1113,4,5,18,18,2,Semi-furnished,Villa,8.8,4.1,18155362
+Hyderabad,2150,4,4,39,4,2,Furnished,Independent House,8.5,22.4,17850693
+Nashik,493,1,2,32,5,2,Unfurnished,Apartment,1.5,26.6,1699200
+Nagpur,2883,6,6,36,17,3,Semi-furnished,Apartment,7.3,16.2,11175468
+Pune,2949,6,6,33,24,2,Semi-furnished,Apartment,7.3,23.3,22881318
+Hyderabad,2309,5,4,8,9,0,Unfurnished,Apartment,9.5,8.9,17357079
+Chennai,1583,3,4,23,20,1,Semi-furnished,Apartment,3.4,17.8,10057108
+Nashik,933,3,3,23,4,1,Semi-furnished,Independent House,8.1,13.4,5032370
+Pune,2503,5,5,28,14,1,Semi-furnished,Independent House,7.2,3.1,20721078
+Kolhapur,2301,6,5,35,23,0,Furnished,Apartment,8.9,14.9,8604285
+Bengaluru,938,3,4,5,11,1,Semi-furnished,Independent House,7.2,25.5,8860131
+Bengaluru,1546,4,4,30,12,1,Furnished,Apartment,8.7,2.0,15217507
+Chennai,1576,4,5,37,3,1,Semi-furnished,Independent House,4.2,14.6,8329645
+Delhi,2540,6,6,5,13,2,Furnished,Villa,2.4,26.3,27097139
+Kolhapur,2162,6,5,18,14,1,Unfurnished,Apartment,4.3,23.8,7446628
+Hyderabad,2054,5,5,40,24,1,Semi-furnished,Independent House,8.3,15.1,14492156
+Nagpur,2072,4,4,1,5,1,Furnished,Independent House,2.2,5.6,8642560
+Mumbai,1067,2,1,7,9,1,Unfurnished,Apartment,6.7,25.5,15582036
+Nagpur,1335,4,5,36,16,0,Semi-furnished,Apartment,9.9,5.0,5592797
+Mumbai,471,2,3,7,23,1,Semi-furnished,Independent House,9.1,8.7,6081209
+Nashik,2435,6,6,31,5,1,Semi-furnished,Apartment,7.0,4.2,9040792
+Hyderabad,1497,4,4,40,17,1,Furnished,Apartment,8.1,14.0,10600350
+Hyderabad,1511,2,2,22,21,0,Semi-furnished,Independent House,2.0,19.1,8902039
+Mumbai,1000,3,3,21,15,3,Furnished,Apartment,5.5,24.9,12985045
+Nashik,905,1,1,19,10,2,Semi-furnished,Apartment,5.8,14.1,3654394
+Pune,1908,3,3,16,5,1,Semi-furnished,Villa,8.0,29.1,19055207
+Kolhapur,966,2,3,17,7,1,Furnished,Apartment,3.5,18.1,3058234
+Nashik,520,2,3,24,1,1,Semi-furnished,Apartment,2.0,18.3,1845302
+Nagpur,2384,6,6,40,3,2,Unfurnished,Independent House,7.3,5.7,9317999
+Nashik,1348,3,4,44,10,1,Semi-furnished,Apartment,5.4,6.1,5292973
+Hyderabad,1358,3,3,38,3,2,Semi-furnished,Independent House,8.6,17.5,10252357
+Nashik,1493,3,3,5,0,2,Semi-furnished,Independent House,5.3,21.8,5508121
+Nagpur,2510,5,5,13,17,1,Semi-furnished,Apartment,8.6,6.5,10672625
+Hyderabad,1200,1,1,34,1,1,Semi-furnished,Apartment,5.6,14.8,7579455
+Pune,2359,4,5,24,3,1,Furnished,Villa,8.0,11.0,24096753
+Nagpur,2840,6,5,15,14,1,Unfurnished,Villa,7.5,13.4,13198921
+Pune,2101,4,4,14,23,1,Semi-furnished,Apartment,3.4,7.1,15787263
+Chennai,1494,4,4,5,18,2,Semi-furnished,Apartment,3.8,4.7,10490557
+Bengaluru,2332,6,6,14,0,0,Unfurnished,Apartment,9.1,10.0,23475641
+Pune,1563,3,3,18,4,0,Semi-furnished,Villa,3.1,26.1,13754803
+Nashik,1448,4,4,18,18,1,Semi-furnished,Independent House,7.3,24.3,6749750
+Pune,1742,3,2,24,18,2,Furnished,Apartment,2.3,3.5,15195855
+Kolhapur,1192,1,1,12,9,1,Semi-furnished,Independent House,7.8,3.1,4686655
+Kolhapur,626,1,2,9,23,1,Unfurnished,Apartment,3.0,15.0,1768113
+Mumbai,1449,3,3,39,22,1,Semi-furnished,Apartment,6.3,8.7,17226532
+Pune,678,1,2,18,18,1,Furnished,Independent House,6.1,24.8,5612636
+Nashik,1438,5,4,11,18,2,Semi-furnished,Apartment,2.8,14.8,4442652
+Chennai,1826,3,3,28,19,3,Unfurnished,Independent House,5.4,25.7,11224075
+Pune,2816,6,6,24,3,2,Furnished,Apartment,8.9,3.7,25552080
+Ahmedabad,446,1,2,25,17,2,Unfurnished,Independent House,7.1,29.1,2246466
+Bengaluru,1997,5,6,9,23,0,Unfurnished,Villa,9.9,23.1,19954503
+Mumbai,1563,4,4,32,5,1,Semi-furnished,Apartment,8.1,22.1,19737453
+Ahmedabad,404,1,2,8,0,1,Semi-furnished,Apartment,6.8,28.2,2119855
+Mumbai,1011,1,1,37,9,1,Furnished,Independent House,6.1,14.4,14045168
+Chennai,664,1,2,19,6,0,Unfurnished,Apartment,9.4,4.9,4513010
+Ahmedabad,925,3,4,18,23,2,Semi-furnished,Independent House,5.7,15.2,5314772
+Chennai,1078,4,4,17,11,0,Semi-furnished,Apartment,4.6,24.5,6300452
+Chennai,1413,4,4,19,16,1,Furnished,Apartment,8.5,25.9,10232425
+Hyderabad,1752,3,4,29,24,1,Furnished,Independent House,9.5,14.9,16024343
+Pune,353,1,1,22,19,2,Semi-furnished,Apartment,5.3,22.1,2409060
+Chennai,779,4,4,5,18,2,Unfurnished,Apartment,2.2,7.8,4590655
+Nagpur,598,1,1,25,24,1,Unfurnished,Apartment,6.5,7.3,1929104
+Mumbai,1807,5,6,12,17,2,Furnished,Independent House,7.7,17.8,25428249
+Nagpur,1222,2,1,4,5,2,Semi-furnished,Villa,4.4,12.9,5450087
+Delhi,1803,4,5,37,18,1,Semi-furnished,Apartment,7.7,5.3,18296587
+Chennai,938,3,3,14,8,2,Furnished,Apartment,5.8,23.0,6737162
+Pune,414,1,1,26,8,0,Furnished,Apartment,3.7,16.2,2961136
+Kolhapur,2845,6,6,7,16,1,Semi-furnished,Independent House,6.7,15.9,10363115
+Pune,637,1,1,15,7,0,Furnished,Apartment,4.5,6.1,4741680
+Bengaluru,686,2,2,17,0,1,Unfurnished,Apartment,8.1,7.6,5316272
+Nashik,738,3,3,6,24,1,Semi-furnished,Apartment,1.0,20.9,2955667
+Mumbai,2950,6,5,43,14,0,Furnished,Apartment,8.4,25.6,39844454
+Delhi,1987,6,6,14,16,1,Unfurnished,Independent House,3.8,5.7,18633736
+Chennai,1967,4,3,26,20,1,Unfurnished,Apartment,9.6,24.5,14045904
+Pune,2965,6,6,25,15,1,Semi-furnished,Apartment,7.8,23.7,25024405
+Bengaluru,584,2,2,19,15,0,Semi-furnished,Apartment,3.2,24.5,4555338
+Hyderabad,2932,6,6,26,19,0,Unfurnished,Apartment,9.8,17.7,23123041
+Kolhapur,891,1,1,25,7,1,Unfurnished,Apartment,5.5,10.9,2633463
+Ahmedabad,2001,4,4,3,20,2,Unfurnished,Apartment,5.7,23.2,9566969
+Nagpur,1463,4,4,30,18,2,Unfurnished,Apartment,9.2,14.7,5446012
+Pune,1367,3,3,5,4,1,Furnished,Apartment,9.3,7.0,13332582
+Mumbai,2818,6,6,19,3,2,Semi-furnished,Apartment,7.3,12.4,32648396
+Mumbai,745,3,2,16,21,1,Semi-furnished,Independent House,9.8,14.0,12329970
+Chennai,2992,6,6,20,22,3,Unfurnished,Apartment,4.0,15.4,19169129
+Pune,1355,4,4,3,24,0,Semi-furnished,Apartment,3.1,27.0,11457461
+Bengaluru,2069,3,2,31,2,1,Unfurnished,Independent House,1.3,12.6,14755278
+Nagpur,2915,6,6,18,22,1,Furnished,Apartment,4.1,8.9,10668708
+Nagpur,503,2,3,2,21,1,Furnished,Apartment,6.4,28.9,2228605
+Nagpur,2796,5,5,0,19,0,Semi-furnished,Independent House,3.7,7.6,12287030
+Bengaluru,1855,4,4,24,12,0,Furnished,Apartment,6.2,0.8,15836651
+Kolhapur,2217,4,3,29,12,1,Unfurnished,Villa,1.4,25.6,5891298
+Kolhapur,745,2,2,24,10,1,Unfurnished,Apartment,4.2,28.7,1877571
+Pune,1763,5,5,32,0,2,Semi-furnished,Independent House,7.7,20.6,14968432
+Chennai,2135,6,6,34,12,0,Semi-furnished,Independent House,1.9,12.5,14887108
+Chennai,1559,3,3,39,5,2,Furnished,Apartment,7.4,16.5,9707420
+Hyderabad,761,2,2,44,5,1,Unfurnished,Apartment,7.9,25.0,4639536
+Nashik,997,3,3,39,1,3,Semi-furnished,Independent House,6.1,26.6,4041372
+Kolhapur,2614,6,6,35,11,0,Unfurnished,Apartment,9.0,3.5,10802233
+Chennai,441,1,1,19,1,2,Unfurnished,Apartment,9.6,26.1,3688819
+Nashik,2228,5,5,22,21,2,Semi-furnished,Villa,1.3,18.7,9645333
+Nashik,2998,6,5,27,22,2,Furnished,Independent House,7.1,1.5,15317864
+Chennai,370,2,2,7,20,2,Semi-furnished,Villa,3.1,3.7,3080347
+Bengaluru,777,1,1,30,7,1,Semi-furnished,Independent House,4.7,1.8,5986876
+Nashik,2136,5,6,26,4,2,Unfurnished,Independent House,6.6,28.5,9381689
+Nashik,509,2,3,23,12,1,Unfurnished,Independent House,7.4,13.1,2064179
+Ahmedabad,1913,5,5,37,16,1,Unfurnished,Independent House,8.6,21.6,9643085
+Pune,2163,6,6,30,0,3,Furnished,Independent House,7.3,0.6,21036677
+Delhi,1909,4,5,41,21,1,Unfurnished,Independent House,8.0,23.9,18035309
+Ahmedabad,1318,3,2,43,10,1,Unfurnished,Apartment,6.4,14.7,6414246
+Chennai,2198,5,5,37,20,2,Semi-furnished,Apartment,2.1,27.7,13687568
+Ahmedabad,1925,3,3,13,1,1,Semi-furnished,Apartment,1.2,15.9,6975671
+Mumbai,900,2,3,8,10,0,Semi-furnished,Villa,5.8,23.8,10984212
+Mumbai,1842,4,5,13,11,1,Unfurnished,Independent House,7.4,19.1,26919550
+Nashik,2687,5,6,32,1,2,Semi-furnished,Apartment,2.0,15.9,10539699
+Hyderabad,2117,6,6,38,17,2,Semi-furnished,Apartment,4.9,28.5,13329831
+Chennai,1600,4,3,39,23,0,Unfurnished,Apartment,3.3,15.1,9016735
+Delhi,1202,3,2,30,13,1,Semi-furnished,Apartment,6.1,26.8,11705123
+Delhi,578,1,1,30,9,1,Unfurnished,Independent House,4.5,1.6,5660523
+Ahmedabad,998,2,3,42,15,1,Furnished,Independent House,2.8,19.9,4544902
+Mumbai,380,2,2,30,9,1,Furnished,Apartment,1.0,27.4,4497871
+Nashik,2965,6,6,6,8,3,Unfurnished,Apartment,3.9,27.0,11039218
+Nagpur,940,2,2,22,18,1,Semi-furnished,Apartment,5.6,14.8,3577563
+Kolhapur,2509,6,5,16,14,1,Semi-furnished,Apartment,9.4,14.4,10101087
+Hyderabad,797,1,1,28,6,1,Furnished,Independent House,3.0,24.4,4982832
+Pune,1102,2,2,28,10,1,Semi-furnished,Independent House,5.6,10.4,8250449
+Kolhapur,1458,3,4,13,20,1,Semi-furnished,Independent House,6.1,28.1,6530494
+Delhi,1210,3,2,13,13,0,Unfurnished,Apartment,6.8,7.9,10670869
+Pune,2466,5,6,3,1,0,Unfurnished,Apartment,4.0,2.7,18823263
+Hyderabad,2888,6,5,13,21,2,Semi-furnished,Villa,1.9,23.3,21748613
+Ahmedabad,2670,6,6,37,18,0,Semi-furnished,Villa,9.3,12.4,15754598
+Bengaluru,757,1,1,29,6,1,Furnished,Apartment,9.6,11.0,7646062
+Pune,2408,6,6,42,24,2,Furnished,Independent House,4.9,10.0,19626685
+Kolhapur,742,3,3,41,23,0,Semi-furnished,Apartment,6.2,29.4,2226790
+Pune,2770,6,5,38,24,1,Semi-furnished,Apartment,1.3,17.4,17940626
+Ahmedabad,1722,5,5,8,9,1,Furnished,Villa,1.4,29.8,8932796
+Nagpur,1241,3,3,15,23,1,Furnished,Villa,1.7,10.6,5874537
+Ahmedabad,766,3,3,2,20,1,Furnished,Villa,7.6,12.7,5200684
+Ahmedabad,381,1,1,4,21,1,Furnished,Apartment,3.0,6.7,1849938
+Bengaluru,1007,2,1,10,13,1,Semi-furnished,Apartment,2.7,13.2,8300455
+Bengaluru,2772,6,6,12,6,0,Semi-furnished,Independent House,1.1,2.3,20952286
+Hyderabad,2463,5,5,0,5,0,Semi-furnished,Independent House,1.2,0.5,17473874
+Delhi,2920,6,6,37,24,1,Unfurnished,Apartment,4.6,13.9,23099142
+Nagpur,617,2,1,23,12,1,Semi-furnished,Apartment,5.9,22.5,2132072
+Nashik,1919,4,4,29,23,2,Semi-furnished,Apartment,6.2,13.4,7276307
+Kolhapur,1031,2,1,29,13,0,Semi-furnished,Independent House,5.1,15.8,4425130
+Nagpur,1789,4,4,43,13,1,Unfurnished,Independent House,5.1,13.6,6271500
+Kolhapur,1199,3,4,6,1,1,Semi-furnished,Apartment,7.8,16.0,4535821
+Hyderabad,1101,3,3,15,10,1,Semi-furnished,Apartment,3.6,23.4,6697175
+Delhi,1871,4,3,13,13,1,Semi-furnished,Apartment,3.1,24.2,17088629
+Chennai,836,1,1,24,2,0,Unfurnished,Apartment,8.7,25.2,5257857
+Mumbai,1593,4,4,23,4,1,Semi-furnished,Apartment,7.2,6.8,18820839
+Nashik,2075,6,5,35,14,1,Unfurnished,Apartment,5.3,14.0,7589975
+Kolhapur,690,2,3,25,6,2,Unfurnished,Independent House,3.5,25.0,2249913
+Nashik,2816,5,6,10,17,0,Semi-furnished,Apartment,2.2,28.3,9993525
+Chennai,1690,4,5,25,11,2,Furnished,Independent House,1.3,16.5,10206716
+Nashik,2522,5,6,43,10,1,Semi-furnished,Apartment,8.7,15.0,10117255
+Ahmedabad,2083,4,4,26,2,1,Semi-furnished,Apartment,6.3,23.1,9695234
+Chennai,2232,6,6,26,10,0,Furnished,Apartment,1.4,29.8,12297412
+Delhi,2248,4,4,7,13,1,Semi-furnished,Independent House,2.4,13.1,21953247
+Pune,2669,5,5,0,14,2,Furnished,Apartment,3.5,5.4,25778683
+Nashik,1976,4,5,9,6,1,Unfurnished,Apartment,3.4,25.1,8223223
+Ahmedabad,1087,3,3,1,0,1,Semi-furnished,Apartment,5.9,21.5,6597456
+Kolhapur,614,2,2,20,23,0,Unfurnished,Apartment,4.6,4.8,1916702
+Nagpur,1957,5,5,39,23,1,Semi-furnished,Apartment,8.9,10.0,8721766
+Nagpur,526,2,2,20,22,2,Furnished,Apartment,7.5,16.8,2250640
+Nashik,989,1,1,29,7,1,Semi-furnished,Apartment,9.2,22.1,4626120
+Chennai,511,2,1,38,15,2,Semi-furnished,Apartment,8.8,23.5,3672365
+Mumbai,1805,4,3,34,3,2,Unfurnished,Independent House,9.3,5.1,23850678
+Mumbai,775,2,1,29,22,1,Furnished,Apartment,9.8,6.9,11673327
+Bengaluru,1968,3,3,35,0,1,Semi-furnished,Villa,3.8,22.5,17810753
+Delhi,2446,5,6,12,11,1,Unfurnished,Independent House,2.9,3.9,19034446
+Nashik,2528,6,6,18,21,1,Furnished,Apartment,2.5,15.2,9902739
+Delhi,1170,4,4,17,18,0,Semi-furnished,Independent House,6.7,16.6,12975068
+Mumbai,1805,3,3,35,21,2,Semi-furnished,Apartment,7.1,10.5,22847640
+Bengaluru,1842,4,4,18,12,3,Unfurnished,Villa,1.8,24.0,16060826
+Ahmedabad,1603,3,2,42,2,1,Unfurnished,Villa,8.4,2.1,8410348
+Ahmedabad,2086,5,5,8,0,2,Furnished,Independent House,8.0,23.4,12822833
+Hyderabad,907,3,3,7,3,3,Semi-furnished,Apartment,6.7,19.6,6663497
+Nagpur,2945,6,6,32,1,1,Furnished,Villa,4.9,15.5,12413722
+Nashik,610,1,1,34,11,2,Unfurnished,Independent House,2.4,26.2,1998619
+Ahmedabad,2547,6,6,30,1,1,Semi-furnished,Independent House,5.6,6.5,14116941
+Nagpur,1924,5,5,13,4,1,Semi-furnished,Apartment,2.4,24.1,6823148
+Kolhapur,999,1,1,0,10,0,Semi-furnished,Villa,6.4,6.0,4453399
+Hyderabad,2326,6,6,14,18,1,Semi-furnished,Independent House,3.8,29.7,18764587
+Kolhapur,574,2,1,20,16,2,Semi-furnished,Apartment,3.2,1.5,2034066
+Hyderabad,2402,5,5,18,1,1,Semi-furnished,Villa,5.0,16.8,20242545
+Hyderabad,1913,3,3,41,22,2,Furnished,Independent House,6.2,5.5,14411267
+Kolhapur,643,2,3,38,13,1,Unfurnished,Villa,4.3,12.5,2220757
+Chennai,561,1,1,34,8,1,Semi-furnished,Apartment,9.7,4.9,3738600
+Chennai,2340,5,6,0,9,1,Semi-furnished,Apartment,1.1,6.2,15120692
+Hyderabad,1126,2,2,5,21,1,Unfurnished,Independent House,9.2,2.3,7404713
+Delhi,2707,6,5,19,11,0,Unfurnished,Apartment,1.0,0.7,21714943
+Mumbai,2369,5,5,27,6,1,Furnished,Independent House,3.0,21.7,30054610
+Kolhapur,2200,4,5,30,10,0,Unfurnished,Independent House,10.0,13.9,8407642
+Chennai,1088,2,2,13,1,0,Unfurnished,Apartment,7.6,1.8,7529545
+Ahmedabad,2229,6,6,4,3,0,Semi-furnished,Independent House,6.8,28.2,11253213
+Chennai,2863,6,6,14,7,1,Unfurnished,Apartment,7.5,20.1,21717038
+Delhi,593,1,1,35,5,1,Unfurnished,Independent House,4.7,8.3,5098789
+Mumbai,1214,3,2,44,8,1,Unfurnished,Independent House,8.1,13.4,13890446
+Pune,972,1,1,42,1,2,Unfurnished,Apartment,2.4,14.9,6094427
+Hyderabad,1392,4,4,26,15,1,Semi-furnished,Apartment,8.1,17.3,10080006
+Hyderabad,2317,4,4,4,2,2,Furnished,Apartment,9.5,25.8,18509505
+Hyderabad,1607,3,4,43,5,1,Unfurnished,Apartment,8.7,17.9,10009379
+Hyderabad,1862,4,3,6,24,0,Semi-furnished,Independent House,7.7,29.4,14491663
+Nashik,1183,3,3,12,0,2,Semi-furnished,Apartment,6.9,21.9,5710458
+Pune,724,2,3,43,6,2,Unfurnished,Apartment,5.7,29.7,4954833
+Hyderabad,1057,3,4,22,12,1,Semi-furnished,Apartment,4.6,16.7,6898556
+Pune,2628,6,6,8,7,1,Semi-furnished,Independent House,8.8,20.5,25386595
+Hyderabad,1946,3,4,22,8,1,Unfurnished,Independent House,6.8,22.3,13651380
+Kolhapur,1352,4,4,3,3,1,Semi-furnished,Apartment,4.9,22.8,5054942
+Mumbai,2443,5,5,14,10,2,Unfurnished,Apartment,8.1,1.2,32609575
+Hyderabad,521,2,2,42,18,1,Furnished,Apartment,1.5,4.3,3303462
+Mumbai,1023,2,1,13,14,0,Furnished,Apartment,8.3,7.2,14134985
+Ahmedabad,960,1,1,40,23,0,Furnished,Apartment,8.3,8.5,4547096
+Nashik,2961,6,6,24,17,0,Unfurnished,Independent House,3.1,27.2,11850306
+Bengaluru,2221,6,5,29,19,1,Semi-furnished,Apartment,1.3,21.8,18027482
+Pune,1987,5,5,31,10,1,Semi-furnished,Apartment,7.4,4.7,14275594
+Mumbai,363,1,1,24,15,2,Unfurnished,Independent House,2.8,13.1,4237520
+Delhi,838,1,1,1,14,1,Furnished,Independent House,10.0,7.7,10069825
+Nashik,2034,6,6,41,20,1,Semi-furnished,Apartment,1.1,25.0,7146531
+Chennai,1356,2,3,21,12,1,Unfurnished,Apartment,3.1,27.6,7827349
+Nagpur,2799,6,6,29,10,1,Furnished,Independent House,1.4,5.3,13251162
+Hyderabad,2377,6,6,24,1,1,Unfurnished,Apartment,8.0,12.8,15965008
+Bengaluru,1536,2,2,29,21,1,Semi-furnished,Independent House,6.2,28.6,14998682
+Delhi,2336,6,6,15,10,3,Unfurnished,Independent House,8.6,19.9,27854457
+Bengaluru,2935,6,6,37,19,3,Unfurnished,Independent House,9.7,26.1,27719258
+Ahmedabad,1572,4,4,10,16,2,Furnished,Apartment,6.5,11.1,8749149
+Pune,2053,5,6,29,0,2,Semi-furnished,Apartment,3.1,6.7,14460065
+Delhi,2784,6,6,26,16,1,Unfurnished,Independent House,1.8,20.9,22821217
+Chennai,1009,1,1,22,12,1,Semi-furnished,Apartment,8.8,4.6,8051950
+Mumbai,2699,6,6,0,5,1,Furnished,Apartment,3.2,25.3,31745262
+Delhi,608,1,1,17,6,2,Furnished,Apartment,9.0,22.8,6498218
+Delhi,2068,5,6,2,15,0,Furnished,Apartment,8.9,9.5,23092030
+Bengaluru,2425,6,6,22,2,0,Furnished,Independent House,6.7,15.2,20279970
+Pune,1979,6,6,30,15,0,Semi-furnished,Villa,6.4,24.1,18102191
+Mumbai,1663,4,4,23,21,1,Unfurnished,Independent House,9.6,28.1,24444090
+Mumbai,1986,5,4,34,2,1,Furnished,Apartment,7.8,10.9,25025402
+Delhi,752,1,1,16,0,0,Unfurnished,Villa,7.1,23.8,8616571
+Mumbai,921,2,2,13,1,1,Unfurnished,Independent House,4.9,6.2,10200361
+Ahmedabad,1065,3,2,20,18,1,Semi-furnished,Apartment,5.4,27.2,5126422
+Bengaluru,1934,4,4,10,21,2,Unfurnished,Independent House,4.5,20.7,16374751
+Kolhapur,1521,4,3,36,24,0,Semi-furnished,Apartment,9.5,5.0,5789960
+Kolhapur,998,1,1,36,0,0,Furnished,Apartment,6.7,22.3,3543783
+Delhi,2689,5,5,18,12,1,Semi-furnished,Independent House,8.0,21.9,28401570
+Nagpur,1341,3,4,35,1,1,Semi-furnished,Apartment,1.3,22.4,3900882
+Pune,1532,4,3,1,9,2,Semi-furnished,Apartment,8.7,10.7,13584541
+Bengaluru,1436,2,2,6,7,1,Semi-furnished,Independent House,4.8,22.3,14406352
+Bengaluru,832,2,2,12,15,2,Unfurnished,Apartment,7.6,24.9,6869771
+Pune,2289,5,5,17,22,1,Unfurnished,Apartment,1.4,10.7,17990134
+Bengaluru,1538,3,2,10,20,1,Semi-furnished,Apartment,9.0,6.6,14211734
+Hyderabad,393,2,2,23,1,3,Semi-furnished,Independent House,6.9,26.7,3022906
+Nashik,2905,6,5,35,6,0,Semi-furnished,Independent House,5.1,18.8,12354892
+Hyderabad,2512,6,5,20,6,2,Unfurnished,Apartment,3.7,14.1,14983240
+Nagpur,2267,6,6,20,6,0,Unfurnished,Independent House,3.8,26.5,8991665
+Nashik,2653,5,6,2,8,1,Semi-furnished,Apartment,3.7,4.5,11617502
+Ahmedabad,2753,5,4,12,15,0,Semi-furnished,Apartment,2.2,24.4,11949809
+Pune,1244,2,3,36,18,1,Semi-furnished,Apartment,5.2,15.0,9906399
+Ahmedabad,1969,4,5,36,23,2,Furnished,Apartment,5.1,1.8,8940001
+Kolhapur,1963,2,3,4,17,0,Semi-furnished,Apartment,4.7,29.2,6489550
+Ahmedabad,1058,2,2,0,7,0,Unfurnished,Independent House,7.3,23.5,6047511
+Hyderabad,938,2,1,37,4,1,Semi-furnished,Independent House,4.8,6.8,6804718
+Ahmedabad,652,2,1,7,9,1,Unfurnished,Villa,1.8,27.7,3352733
+Chennai,2097,5,6,25,19,1,Unfurnished,Villa,8.7,28.1,16035640
+Mumbai,2419,5,4,37,24,3,Semi-furnished,Apartment,4.8,24.1,26620471
+Delhi,2367,6,6,35,9,0,Unfurnished,Apartment,6.9,4.3,23221801
+Pune,1188,3,3,24,4,1,Unfurnished,Apartment,9.4,6.0,9823638
+Ahmedabad,894,1,2,16,0,1,Furnished,Apartment,7.9,22.7,4569488
+Hyderabad,1552,3,3,34,1,1,Semi-furnished,Independent House,5.8,27.5,9760262
+Bengaluru,1799,2,2,31,15,1,Furnished,Apartment,5.9,6.8,17580005
+Chennai,2786,5,6,37,14,2,Furnished,Apartment,8.6,14.1,19133970
+Delhi,2668,5,6,23,16,1,Unfurnished,Apartment,8.4,5.1,26521562
+Mumbai,2778,6,6,42,0,2,Semi-furnished,Independent House,2.6,14.6,35074043
+Nagpur,2603,5,5,34,10,1,Semi-furnished,Apartment,6.6,19.5,9954007
+Nagpur,2906,6,6,2,4,1,Semi-furnished,Independent House,8.8,1.0,12892030
+Nashik,1584,3,4,13,8,2,Unfurnished,Apartment,8.2,19.5,6246376
+Kolhapur,476,1,1,35,15,2,Unfurnished,Apartment,2.1,19.4,1592700
+Delhi,571,2,2,5,6,2,Unfurnished,Apartment,4.9,13.9,4861733
+Chennai,1384,3,4,31,16,1,Semi-furnished,Independent House,5.7,26.9,8917727
+Chennai,1033,2,3,15,7,3,Unfurnished,Independent House,3.3,4.5,7089242
+Pune,800,1,1,9,12,2,Semi-furnished,Apartment,7.1,2.0,6620261
+Mumbai,2876,6,5,24,11,2,Furnished,Apartment,5.3,15.1,38316058
+Bengaluru,868,2,2,41,9,1,Semi-furnished,Apartment,3.7,16.2,5449165
+Delhi,2892,6,6,40,3,3,Semi-furnished,Apartment,4.0,8.4,24152486
+Pune,2366,5,5,18,14,1,Unfurnished,Apartment,8.7,28.9,19497335
+Pune,2049,6,6,0,24,2,Furnished,Apartment,8.8,8.0,20236347
+Nagpur,2141,5,6,39,16,1,Semi-furnished,Independent House,8.3,8.5,8409138
+Hyderabad,1228,2,1,40,18,2,Semi-furnished,Independent House,9.2,24.4,8410691
+Chennai,2063,5,5,27,20,2,Furnished,Independent House,9.6,27.7,16795411
+Chennai,845,2,2,28,0,0,Unfurnished,Independent House,5.4,16.3,4879029
+Nashik,2835,6,6,23,19,1,Semi-furnished,Villa,1.9,1.1,13541193
+Nashik,1150,3,2,0,6,1,Unfurnished,Villa,8.2,11.0,5995890
+Bengaluru,1026,2,3,7,16,2,Unfurnished,Apartment,6.7,7.1,8526543
+Nagpur,2235,4,3,6,24,2,Semi-furnished,Apartment,4.4,15.6,7756919
+Hyderabad,2090,5,4,41,22,2,Semi-furnished,Apartment,9.8,20.6,14168852
+Nagpur,1546,4,5,2,10,2,Unfurnished,Independent House,4.0,12.1,5293690
+Delhi,2026,4,5,25,20,1,Semi-furnished,Apartment,9.2,16.4,21418435
+Pune,773,2,3,16,15,0,Furnished,Apartment,6.3,22.9,5889951
+Nashik,2134,4,4,0,3,1,Furnished,Apartment,1.3,7.8,9067232
+Mumbai,1067,3,3,41,5,2,Unfurnished,Independent House,8.7,6.3,14583495
+Nashik,1073,2,2,0,23,1,Semi-furnished,Apartment,7.9,24.3,5280517
+Mumbai,780,2,2,38,22,2,Unfurnished,Independent House,6.8,1.6,10023714
+Bengaluru,1231,3,3,34,22,3,Semi-furnished,Apartment,6.5,4.9,11510900
+Kolhapur,1228,2,2,35,9,1,Semi-furnished,Independent House,3.0,0.9,4648635
+Ahmedabad,1554,3,4,7,8,2,Semi-furnished,Apartment,2.9,16.9,7558432
+Delhi,855,1,1,39,20,1,Unfurnished,Independent House,1.3,18.2,6709996
+Pune,861,2,2,26,0,1,Semi-furnished,Apartment,2.4,16.2,5473702
+Bengaluru,1786,3,3,18,22,1,Unfurnished,Apartment,4.0,12.7,12424882
+Nagpur,692,2,2,30,15,1,Unfurnished,Villa,5.9,16.1,3083429
+Nashik,2176,5,5,15,15,0,Semi-furnished,Villa,2.2,6.2,10073829
+Pune,2851,6,5,12,10,1,Unfurnished,Independent House,6.0,24.9,23839033
+Hyderabad,1481,2,2,12,24,0,Semi-furnished,Villa,3.4,29.4,10331921
+Bengaluru,2738,6,6,25,18,1,Semi-furnished,Apartment,3.3,16.4,24248205
+Pune,611,3,3,27,1,1,Semi-furnished,Apartment,9.5,11.5,5111058
+Nagpur,464,2,3,10,13,1,Semi-furnished,Apartment,9.9,23.9,1903769
+Kolhapur,2262,6,6,11,21,2,Semi-furnished,Independent House,8.3,6.2,9188683
+Pune,2367,6,6,42,1,1,Furnished,Independent House,1.5,10.0,19225810
+Kolhapur,2584,5,5,23,18,0,Unfurnished,Villa,7.6,28.2,9305774
+Delhi,501,2,1,38,6,3,Semi-furnished,Independent House,2.6,6.0,4200531
+Mumbai,2409,5,6,14,12,2,Semi-furnished,Independent House,6.1,3.8,40803702
+Delhi,1348,3,4,12,22,1,Unfurnished,Apartment,9.0,16.6,14614400
+Pune,1154,2,2,12,12,2,Unfurnished,Apartment,4.4,17.8,7708502
+Bengaluru,809,2,3,23,0,0,Unfurnished,Apartment,9.4,18.1,6471271
+Nagpur,2989,6,6,35,0,2,Semi-furnished,Independent House,7.4,5.4,10638183
+Nashik,519,1,1,22,18,0,Semi-furnished,Apartment,3.7,21.8,1967990
+Pune,2542,6,5,13,23,1,Semi-furnished,Villa,1.9,7.6,22096028
+Nagpur,2045,4,3,43,7,0,Semi-furnished,Independent House,8.3,28.5,8968063
+Chennai,2298,4,5,25,23,2,Semi-furnished,Apartment,5.1,7.2,12644944
+Nagpur,2236,6,6,17,11,1,Unfurnished,Independent House,1.7,1.0,6903379
+Nashik,2625,6,5,0,1,1,Semi-furnished,Apartment,1.9,17.3,10173423
+Hyderabad,837,2,1,25,13,0,Semi-furnished,Independent House,9.7,6.5,8080519
+Chennai,352,1,2,27,24,2,Unfurnished,Apartment,3.2,19.0,2192548
+Chennai,1936,4,4,41,6,1,Unfurnished,Apartment,9.7,7.3,13493418
+Nashik,1288,3,3,10,24,1,Unfurnished,Apartment,7.1,13.1,4902222
+Bengaluru,678,3,3,7,16,1,Furnished,Apartment,3.7,5.8,5084006
+Hyderabad,843,1,1,44,9,2,Unfurnished,Independent House,4.5,13.1,5197184
+Bengaluru,1229,3,4,24,17,1,Unfurnished,Villa,8.0,4.5,12143239
+Bengaluru,536,1,1,1,10,2,Unfurnished,Independent House,4.9,10.5,4752064
+Pune,501,2,2,4,2,1,Unfurnished,Apartment,1.7,6.4,3359739
+Mumbai,2777,6,6,21,21,0,Semi-furnished,Villa,3.1,24.6,33727371
+Ahmedabad,1177,1,2,27,9,1,Semi-furnished,Apartment,8.7,22.0,5591032
+Mumbai,2953,6,6,10,14,0,Semi-furnished,Apartment,7.3,5.4,43987618
+Nagpur,2906,6,6,16,18,1,Furnished,Independent House,5.5,2.9,11705772
+Mumbai,728,2,2,33,2,1,Unfurnished,Villa,3.2,1.3,8868381
+Nashik,2245,5,4,43,18,2,Semi-furnished,Villa,5.3,7.2,9963561
+Hyderabad,1942,4,5,22,9,1,Semi-furnished,Independent House,8.1,14.7,15783265
+Chennai,2180,4,3,18,13,1,Semi-furnished,Apartment,1.7,12.3,11948703
+Bengaluru,605,2,3,16,11,1,Furnished,Apartment,10.0,29.2,6439416
+Delhi,850,2,2,6,19,0,Unfurnished,Apartment,8.7,23.9,8125589
+Delhi,553,2,1,2,4,0,Semi-furnished,Apartment,3.9,2.8,5283537
+Chennai,1951,6,6,37,2,1,Semi-furnished,Apartment,8.8,5.2,15655358
+Hyderabad,2964,6,5,1,10,0,Unfurnished,Apartment,7.1,1.3,19983778
+Chennai,2131,4,4,36,2,0,Furnished,Apartment,7.0,4.6,15776780
+Nagpur,2234,5,5,11,6,2,Unfurnished,Apartment,2.3,16.1,8129180
+Delhi,2959,6,6,31,16,1,Unfurnished,Independent House,9.2,2.8,31390037
+Hyderabad,2147,5,5,42,20,2,Semi-furnished,Apartment,5.1,2.3,13538504
+Pune,456,1,1,33,17,1,Semi-furnished,Apartment,8.2,4.0,4286417
+Hyderabad,2648,5,5,32,7,2,Furnished,Independent House,3.7,20.2,18285339
+Pune,1316,3,3,11,20,1,Furnished,Independent House,3.8,1.1,11398409
+Pune,362,1,1,26,10,0,Unfurnished,Apartment,9.7,29.1,2741518
+Ahmedabad,1694,5,5,28,4,2,Semi-furnished,Apartment,5.5,11.7,8329314
+Mumbai,2833,6,5,19,18,0,Furnished,Villa,1.5,10.4,40763470
+Delhi,1032,3,2,1,12,1,Unfurnished,Independent House,8.5,14.5,11137005
+Nagpur,1653,4,4,41,9,2,Semi-furnished,Apartment,3.0,15.8,4208032
+Ahmedabad,811,2,1,8,16,1,Furnished,Apartment,8.9,12.9,4949591
+Pune,503,1,2,43,18,1,Unfurnished,Apartment,9.2,14.8,3393926
+Pune,563,1,1,41,5,1,Furnished,Apartment,1.7,10.5,3986199
+Hyderabad,2277,5,4,0,2,0,Semi-furnished,Apartment,6.2,10.0,16850318
+Chennai,2640,6,6,33,12,3,Furnished,Villa,9.8,1.3,24769929
+Ahmedabad,730,3,2,28,1,0,Semi-furnished,Apartment,9.4,20.3,3598398
+Bengaluru,1114,3,4,10,15,1,Semi-furnished,Apartment,5.7,18.7,9296544
+Pune,867,2,2,36,10,1,Semi-furnished,Independent House,7.1,20.2,6747642
+Bengaluru,421,1,2,5,5,2,Unfurnished,Apartment,6.4,28.3,3139094
+Nagpur,1817,3,4,11,14,2,Semi-furnished,Independent House,2.8,14.5,7596301
+Mumbai,2205,5,4,42,9,1,Furnished,Apartment,6.9,26.5,23228164
+Hyderabad,2067,5,5,33,9,3,Furnished,Apartment,4.0,13.6,15031665
+Pune,1378,3,3,5,5,0,Furnished,Apartment,4.0,14.6,11394543
+Pune,1821,4,5,6,16,2,Semi-furnished,Villa,4.8,19.2,16081520
+Ahmedabad,599,2,1,11,22,0,Semi-furnished,Independent House,8.7,6.9,3640162
+Mumbai,759,1,1,3,15,1,Semi-furnished,Independent House,3.1,6.9,10157673
+Hyderabad,2819,6,6,8,5,0,Semi-furnished,Apartment,3.3,15.5,17787445
+Ahmedabad,2368,6,5,25,20,3,Semi-furnished,Independent House,1.1,2.5,11401132
+Kolhapur,2795,6,6,0,3,2,Unfurnished,Apartment,2.4,7.5,9853685
+Mumbai,2779,6,5,12,7,1,Unfurnished,Independent House,9.8,23.9,36715888
+Delhi,2071,5,6,14,0,0,Semi-furnished,Apartment,4.9,14.2,19902187
+Ahmedabad,2810,6,6,43,21,1,Unfurnished,Independent House,2.8,1.3,9020924
+Delhi,1454,3,2,43,1,1,Unfurnished,Apartment,9.7,2.3,11563979
+Chennai,360,1,1,38,13,1,Unfurnished,Apartment,1.2,27.6,1893925
+Chennai,516,3,3,15,4,0,Furnished,Independent House,5.4,28.7,3749426
+Kolhapur,640,2,2,23,5,1,Furnished,Apartment,8.2,19.4,2352539
+Pune,603,2,3,22,15,1,Semi-furnished,Apartment,8.0,6.0,4968984
+Nagpur,1282,1,1,38,20,2,Furnished,Villa,2.7,11.4,4933265
+Ahmedabad,2208,5,5,33,0,1,Furnished,Apartment,7.4,9.5,10703463
+Pune,2445,6,5,40,3,1,Unfurnished,Apartment,6.6,23.7,14103381
+Nagpur,1914,5,4,24,7,1,Unfurnished,Independent House,7.1,16.3,6315322
+Nagpur,738,1,1,41,23,0,Unfurnished,Independent House,3.4,23.5,2532917
+Nashik,2332,6,6,33,1,1,Unfurnished,Apartment,8.3,11.1,9161392
+Hyderabad,1290,4,4,33,4,2,Semi-furnished,Apartment,6.0,26.2,9162605
+Delhi,384,1,1,29,10,0,Unfurnished,Apartment,7.5,13.2,3375045
+Nagpur,1094,4,3,15,8,1,Furnished,Apartment,9.5,12.8,5034459
+Pune,1226,1,1,27,1,2,Semi-furnished,Independent House,8.7,14.9,10492062
+Nagpur,1077,3,4,16,13,1,Semi-furnished,Villa,8.0,18.0,5018815
+Ahmedabad,2501,6,6,29,15,1,Furnished,Apartment,3.6,26.9,11690994
+Kolhapur,2364,3,2,11,4,2,Furnished,Apartment,1.5,14.0,7670780
+Hyderabad,2193,5,6,35,17,1,Semi-furnished,Independent House,6.2,27.9,13525971
+Chennai,718,3,4,25,1,0,Semi-furnished,Apartment,1.3,12.1,4467828
+Mumbai,2491,6,6,31,18,2,Furnished,Independent House,7.4,10.1,39506419
+Ahmedabad,2145,5,5,9,6,2,Semi-furnished,Apartment,7.6,9.2,13272606
+Hyderabad,866,2,2,35,5,0,Furnished,Apartment,6.1,1.1,5792383
+Mumbai,2067,3,4,36,4,0,Unfurnished,Independent House,2.5,25.5,19775411
+Nashik,1631,4,4,6,21,2,Semi-furnished,Villa,8.9,2.8,8570565
+Kolhapur,1514,5,4,15,12,1,Semi-furnished,Apartment,6.4,10.4,5535908
+Kolhapur,647,2,1,30,17,1,Unfurnished,Independent House,5.6,7.9,2268830
+Mumbai,1724,2,3,39,5,1,Unfurnished,Apartment,6.1,22.5,16841332
+Nashik,615,1,2,33,1,2,Unfurnished,Apartment,1.7,28.0,1623246
+Kolhapur,785,1,2,21,0,1,Unfurnished,Apartment,7.7,24.6,2727648
+Nashik,701,1,1,13,11,0,Unfurnished,Apartment,1.5,9.9,1571800
+Nagpur,2878,6,5,40,8,0,Semi-furnished,Independent House,6.2,13.9,10829708
+Bengaluru,1105,3,3,39,19,1,Furnished,Apartment,2.5,7.8,7733117
+Bengaluru,1291,2,1,40,19,2,Semi-furnished,Apartment,2.9,27.8,9772232
+Ahmedabad,1204,3,3,13,7,1,Semi-furnished,Apartment,3.1,4.0,6276329
+Chennai,2730,6,6,19,10,1,Unfurnished,Independent House,1.1,28.6,17413505
+Delhi,1842,4,4,10,9,2,Furnished,Villa,9.0,24.5,22481996
+Bengaluru,2786,6,5,42,16,1,Unfurnished,Apartment,8.2,21.5,19839865
+Kolhapur,1145,1,1,39,15,1,Unfurnished,Apartment,1.3,23.3,2664589
+Nashik,654,1,1,7,16,0,Semi-furnished,Villa,1.5,10.5,2941188
+Mumbai,1824,4,4,11,1,2,Furnished,Apartment,8.0,9.2,23137652
+Chennai,1266,3,3,24,8,2,Furnished,Independent House,1.1,11.8,9322980
+Ahmedabad,2475,6,6,18,24,2,Semi-furnished,Apartment,5.2,5.9,12072238
+Bengaluru,2680,6,6,20,8,1,Semi-furnished,Independent House,2.0,22.5,22377401
+Bengaluru,1602,3,2,16,4,1,Semi-furnished,Apartment,6.3,14.5,11917056
+Nagpur,2924,6,6,30,4,0,Semi-furnished,Apartment,10.0,26.6,10854188
+Mumbai,1815,5,6,40,0,3,Unfurnished,Apartment,2.5,26.4,13946906
+Hyderabad,1068,2,1,41,19,0,Unfurnished,Apartment,9.6,5.1,7924250
+Delhi,1646,4,5,20,0,1,Furnished,Apartment,8.8,7.0,17712752
+Nashik,449,1,1,37,14,2,Furnished,Villa,9.9,12.6,2456670
+Pune,2481,5,5,31,9,0,Unfurnished,Apartment,7.9,4.0,18816453
+Delhi,619,2,2,8,2,1,Unfurnished,Apartment,8.7,20.8,6496887
+Pune,1168,2,2,35,22,0,Unfurnished,Apartment,6.4,22.3,7726641
+Nashik,1848,4,3,15,18,1,Semi-furnished,Apartment,8.8,21.8,8211749
+Kolhapur,464,1,1,28,20,3,Unfurnished,Apartment,2.0,14.4,1338341
+Delhi,560,1,1,32,23,1,Semi-furnished,Apartment,7.7,25.4,5432987
+Hyderabad,2195,5,4,42,22,3,Unfurnished,Independent House,6.7,18.4,15197480
+Pune,540,1,1,42,17,0,Unfurnished,Independent House,1.5,29.8,4219677
+Ahmedabad,1614,2,2,36,13,1,Unfurnished,Apartment,3.6,24.6,7590992
+Kolhapur,1248,3,4,22,17,2,Semi-furnished,Independent House,2.9,21.8,3627244
+Hyderabad,954,2,3,18,11,2,Unfurnished,Apartment,4.6,4.1,6091037
+Delhi,850,3,4,19,4,1,Semi-furnished,Apartment,2.8,25.1,6983625
+Nashik,2373,5,5,42,9,1,Semi-furnished,Villa,3.5,9.5,11024820
+Nashik,2872,6,6,9,11,2,Semi-furnished,Independent House,3.7,12.9,12139517
+Delhi,721,1,1,23,1,2,Unfurnished,Apartment,6.4,14.2,6789871
+Hyderabad,2893,6,5,30,21,1,Semi-furnished,Apartment,2.2,10.3,13219206
+Kolhapur,1926,3,4,1,22,0,Unfurnished,Apartment,3.2,3.7,5550636
+Kolhapur,2050,3,3,28,10,0,Semi-furnished,Apartment,3.9,6.4,7940116
+Chennai,2231,6,6,11,12,1,Semi-furnished,Independent House,5.0,24.2,16005128
+Mumbai,2216,6,5,12,21,1,Furnished,Apartment,1.3,19.7,23485059
+Delhi,2522,6,6,27,11,1,Furnished,Villa,10.0,28.3,30999285
+Kolhapur,1631,3,3,0,17,1,Semi-furnished,Independent House,3.7,24.7,5566225
+Ahmedabad,1763,5,5,7,12,1,Furnished,Apartment,3.6,12.4,8849488
+Chennai,1208,2,2,20,6,1,Unfurnished,Independent House,6.0,23.7,7149878
+Hyderabad,629,1,1,26,19,1,Semi-furnished,Independent House,8.7,17.5,4548785
+Chennai,2111,6,5,4,4,1,Unfurnished,Apartment,5.1,8.9,13646376
+Pune,439,2,3,16,5,0,Unfurnished,Apartment,3.2,29.3,3251194
+Mumbai,1080,4,4,13,17,2,Semi-furnished,Independent House,6.1,27.9,15167296
+Kolhapur,600,2,2,24,17,1,Semi-furnished,Villa,5.3,3.8,2559647
+Ahmedabad,855,2,2,13,23,0,Semi-furnished,Apartment,4.8,25.3,4100486
+Nagpur,2043,4,4,0,17,1,Furnished,Independent House,9.9,2.8,10756233
+Chennai,2015,3,3,23,0,1,Semi-furnished,Independent House,10.0,27.9,14626586
+Mumbai,1466,3,3,38,21,1,Furnished,Villa,6.1,18.9,19599707
+Ahmedabad,589,2,3,26,10,1,Furnished,Apartment,1.6,5.4,2813989
+Delhi,1498,4,5,16,0,1,Furnished,Apartment,6.1,24.6,14642143
+Bengaluru,1285,3,2,21,14,1,Unfurnished,Independent House,9.6,15.7,12257883
+Nagpur,2259,4,4,6,4,0,Semi-furnished,Apartment,9.3,2.3,9801036
+Nashik,1884,4,5,10,10,1,Semi-furnished,Apartment,2.9,24.1,8078347
+Nashik,1653,4,4,19,11,0,Furnished,Apartment,2.7,23.8,7181482
+Bengaluru,1641,4,3,26,1,1,Unfurnished,Apartment,2.4,14.7,10803852
+Ahmedabad,2911,6,5,21,21,1,Unfurnished,Independent House,8.4,22.1,13370558
+Delhi,2354,5,5,43,12,2,Unfurnished,Apartment,5.4,1.7,18377043
+Chennai,1667,4,5,28,24,0,Unfurnished,Independent House,4.0,9.9,9684494
+Nashik,1620,1,1,1,11,1,Furnished,Apartment,3.9,20.4,7420370
+Kolhapur,420,1,1,23,14,1,Unfurnished,Independent House,3.5,7.3,1529951
+Pune,2848,6,6,26,20,1,Semi-furnished,Apartment,8.9,13.8,21533112
+Hyderabad,1196,1,1,1,5,2,Semi-furnished,Apartment,4.7,28.0,7708885
+Hyderabad,1028,2,2,17,22,0,Semi-furnished,Villa,3.2,24.9,6569076
+Ahmedabad,2998,6,6,39,4,1,Unfurnished,Independent House,7.4,17.0,14937469
+Nashik,2255,5,4,16,24,1,Semi-furnished,Apartment,6.7,17.5,9608240
+Hyderabad,476,2,1,20,15,2,Semi-furnished,Apartment,7.4,26.7,3631922
+Nashik,514,2,2,9,12,0,Furnished,Apartment,8.4,26.0,2530900
+Nashik,418,1,1,3,5,2,Semi-furnished,Villa,1.9,3.1,2026018
+Hyderabad,1939,5,5,14,14,3,Furnished,Apartment,1.0,14.2,10814193
+Delhi,540,1,1,34,13,2,Unfurnished,Villa,1.5,6.1,4539673
+Nagpur,2823,6,5,44,24,1,Semi-furnished,Apartment,7.4,3.0,11342794
+Chennai,2833,6,6,29,20,1,Semi-furnished,Independent House,9.4,9.1,21092658
+Pune,1797,4,4,37,12,0,Semi-furnished,Apartment,4.0,18.5,10154105
+Nashik,1984,3,3,29,9,2,Semi-furnished,Apartment,8.0,23.9,8930706
+Chennai,1124,2,2,29,9,1,Unfurnished,Villa,7.6,27.4,7933959
+Chennai,520,2,2,19,9,0,Unfurnished,Apartment,9.8,13.0,4084890
+Nashik,2304,4,4,2,0,1,Furnished,Villa,5.2,13.0,11849485
+Ahmedabad,620,1,1,18,0,2,Furnished,Apartment,2.5,5.0,2933282
+Hyderabad,577,1,1,38,18,2,Unfurnished,Apartment,7.9,6.2,4276072
+Delhi,1175,4,3,24,6,1,Semi-furnished,Villa,8.4,3.5,12547583
+Pune,383,1,1,34,10,1,Semi-furnished,Independent House,7.4,29.3,3424385
+Kolhapur,1500,3,2,2,17,2,Semi-furnished,Apartment,8.8,4.3,5932973
+Delhi,2225,3,3,9,15,2,Unfurnished,Apartment,4.3,22.8,19816813
+Hyderabad,2474,6,6,13,9,2,Furnished,Apartment,7.2,9.9,19418556
+Kolhapur,1951,5,5,16,18,1,Semi-furnished,Independent House,3.4,16.3,6714626
+Delhi,2594,4,4,44,3,1,Semi-furnished,Apartment,5.0,26.2,19740623
+Delhi,1427,4,3,20,11,2,Semi-furnished,Apartment,3.2,28.1,11833753
+Delhi,2599,6,6,29,2,0,Semi-furnished,Apartment,2.4,7.6,19326515
+Bengaluru,1692,5,6,29,13,1,Unfurnished,Independent House,1.3,27.4,14416617
+Pune,941,3,3,18,2,0,Furnished,Villa,7.0,7.9,8783412
+Nagpur,2852,6,6,43,23,1,Unfurnished,Independent House,8.9,24.2,11964282
+Mumbai,1079,3,3,10,16,2,Furnished,Apartment,3.8,0.9,15329974
+Hyderabad,419,2,2,1,6,0,Furnished,Apartment,4.9,16.3,3227572
+Kolhapur,993,1,1,33,15,1,Semi-furnished,Apartment,1.0,21.9,2748970
+Pune,1322,2,1,29,8,0,Semi-furnished,Independent House,4.7,25.2,10054093
+Kolhapur,1281,2,2,11,12,2,Unfurnished,Apartment,3.5,25.3,4283781
+Nashik,1740,4,4,39,4,2,Semi-furnished,Independent House,6.2,9.3,7464376
+Kolhapur,2690,6,6,7,12,1,Semi-furnished,Apartment,9.2,25.7,9450100
+Hyderabad,1125,3,3,11,2,2,Unfurnished,Villa,5.6,10.0,7607139
+Mumbai,1730,5,5,6,3,0,Unfurnished,Apartment,7.1,7.4,25122571
+Nagpur,1251,4,4,8,14,2,Furnished,Apartment,7.3,0.5,4492584
+Hyderabad,2528,5,6,32,12,2,Unfurnished,Villa,2.4,7.5,17177004
+Nagpur,768,2,2,31,7,0,Unfurnished,Villa,4.1,4.0,2923358
+Pune,624,1,2,28,1,3,Unfurnished,Apartment,2.0,20.4,3937241
+Pune,1683,4,4,38,10,0,Semi-furnished,Independent House,5.0,4.8,11566439
+Nashik,2131,5,6,3,23,1,Semi-furnished,Independent House,9.0,17.8,10955012
+Ahmedabad,2458,3,3,27,17,0,Semi-furnished,Apartment,5.3,4.2,11979489
+Nagpur,1913,6,5,5,1,2,Semi-furnished,Apartment,5.1,21.3,9141509
+Nashik,2401,6,5,43,23,0,Unfurnished,Independent House,2.9,8.9,8605851
+Bengaluru,1391,3,2,28,10,0,Semi-furnished,Independent House,3.8,9.6,12955489
+Ahmedabad,437,3,4,34,14,1,Unfurnished,Apartment,9.4,19.4,1960753
+Kolhapur,658,1,1,25,0,3,Furnished,Apartment,3.7,28.2,2432389
+Pune,453,1,2,17,7,1,Unfurnished,Independent House,7.6,29.8,3728237
+Pune,1222,2,3,30,19,1,Unfurnished,Apartment,1.4,11.0,7579713
+Nagpur,1663,5,5,37,8,1,Semi-furnished,Independent House,2.2,28.4,5699409
+Bengaluru,1294,3,4,8,4,2,Unfurnished,Independent House,3.8,18.6,12569943
+Nashik,1836,4,5,39,2,1,Semi-furnished,Apartment,9.1,27.2,7835900
+Pune,1624,5,6,32,23,1,Semi-furnished,Apartment,3.0,1.3,10425654
+Bengaluru,2147,5,5,3,20,3,Furnished,Apartment,7.5,1.5,20868905
+Bengaluru,2117,5,5,42,1,1,Unfurnished,Apartment,2.5,2.7,15592636
+Bengaluru,1193,4,3,8,23,1,Semi-furnished,Independent House,6.5,24.2,11743312
+Kolhapur,1267,5,6,27,20,2,Semi-furnished,Independent House,6.3,4.6,4322629
+Ahmedabad,1901,4,5,5,8,1,Unfurnished,Independent House,6.6,5.7,10824918
+Ahmedabad,1931,4,4,8,16,1,Semi-furnished,Apartment,3.6,17.8,8385752
+Nashik,1184,3,2,28,6,1,Furnished,Independent House,2.5,28.7,4925845
+Bengaluru,1225,4,5,30,6,2,Semi-furnished,Apartment,9.0,17.2,10419511
+Ahmedabad,2189,4,4,30,17,2,Furnished,Independent House,6.1,22.1,11516357
+Chennai,2066,4,4,15,5,1,Semi-furnished,Apartment,2.9,6.0,12467761
+Chennai,708,1,1,36,8,1,Semi-furnished,Apartment,4.7,27.5,4832442
+Nashik,1519,2,1,2,8,1,Furnished,Apartment,1.6,2.1,6499714
+Nashik,2716,6,5,38,3,0,Unfurnished,Apartment,5.3,8.8,11015947
+Ahmedabad,446,1,1,13,20,0,Semi-furnished,Villa,4.8,13.9,3064957
+Chennai,2616,6,6,27,16,0,Semi-furnished,Apartment,2.2,7.2,15470277
+Kolhapur,782,2,3,40,21,0,Furnished,Apartment,5.0,20.1,2968804
+Nashik,1694,3,3,11,13,1,Furnished,Independent House,6.8,20.5,7729199
+Bengaluru,1474,3,3,18,4,0,Unfurnished,Apartment,9.4,6.7,14685408
+Hyderabad,377,2,2,37,6,0,Semi-furnished,Apartment,7.3,0.8,2467985
+Kolhapur,2776,6,6,38,8,1,Unfurnished,Apartment,5.5,2.7,8822116
+Mumbai,1556,3,3,10,23,1,Semi-furnished,Apartment,7.9,0.5,22442739
+Hyderabad,2879,6,6,22,5,0,Semi-furnished,Independent House,3.5,27.2,20152339
+Nashik,1110,3,3,14,17,0,Unfurnished,Apartment,7.0,18.8,4065087
+Ahmedabad,2646,5,5,23,3,1,Furnished,Apartment,1.0,4.6,11022537
+Chennai,2794,6,6,17,23,1,Semi-furnished,Apartment,1.7,3.2,17991695
+Hyderabad,1826,6,6,0,16,2,Semi-furnished,Villa,6.6,24.6,15122825
+Delhi,887,2,1,41,10,2,Furnished,Independent House,2.7,24.4,6933539
+Kolhapur,2166,4,3,28,8,2,Semi-furnished,Apartment,7.2,27.9,7589083
+Chennai,1805,4,4,20,8,1,Semi-furnished,Independent House,6.7,5.2,13364880
+Mumbai,2853,6,5,4,5,2,Unfurnished,Apartment,1.6,15.9,31686689
+Chennai,1514,2,1,3,14,1,Unfurnished,Apartment,4.5,4.1,10441726
+Delhi,1062,3,4,21,21,1,Unfurnished,Independent House,6.5,24.0,10648181
+Nashik,716,2,2,29,6,1,Unfurnished,Independent House,7.4,12.7,2886760
+Nagpur,2201,5,5,11,18,1,Unfurnished,Apartment,8.3,21.0,8389180
+Ahmedabad,2931,6,6,33,14,1,Semi-furnished,Independent House,4.0,1.4,15528782
+Kolhapur,425,1,1,17,19,0,Semi-furnished,Independent House,8.5,23.4,1642420
+Hyderabad,2312,5,5,0,19,2,Unfurnished,Independent House,4.2,7.3,16169863
+Delhi,2806,6,5,24,0,0,Semi-furnished,Independent House,1.1,25.4,20139328
+Pune,548,1,1,8,0,1,Furnished,Apartment,6.5,6.0,4712229
+Ahmedabad,642,3,2,0,22,2,Unfurnished,Villa,3.2,23.8,3590041
+Nagpur,2184,5,6,5,3,1,Semi-furnished,Apartment,2.1,4.5,6527774
+Nagpur,2067,5,5,12,14,0,Unfurnished,Apartment,3.3,20.1,6221291
+Hyderabad,532,2,1,23,18,1,Semi-furnished,Apartment,8.5,23.5,3433406
+Hyderabad,2561,6,5,44,12,1,Semi-furnished,Independent House,9.2,11.9,20330405
+Nagpur,1737,4,3,9,0,3,Unfurnished,Apartment,9.7,7.7,6323826
+Chennai,2754,6,5,2,0,1,Unfurnished,Apartment,3.7,10.7,17559954
+Nashik,2677,6,5,8,16,2,Furnished,Independent House,5.1,9.2,13434320
+Delhi,2503,6,6,14,22,1,Unfurnished,Apartment,8.2,19.2,24817825
+Delhi,1717,4,5,9,8,2,Semi-furnished,Apartment,3.9,1.8,15743537
+Kolhapur,1017,2,3,14,13,2,Semi-furnished,Apartment,4.5,1.7,3732150
+Nagpur,1691,3,4,43,23,0,Unfurnished,Independent House,3.1,9.0,6047844
+Hyderabad,617,1,2,17,20,1,Semi-furnished,Apartment,6.2,8.7,4294889
+Nagpur,2096,4,4,28,13,0,Semi-furnished,Apartment,6.9,5.7,6509977
+Bengaluru,705,1,1,30,16,1,Unfurnished,Apartment,3.9,21.6,5614752
+Delhi,1705,4,4,5,24,2,Furnished,Villa,1.2,1.2,19028146
+Ahmedabad,494,2,2,11,19,1,Semi-furnished,Independent House,7.6,27.8,2789283
+Ahmedabad,1144,5,5,18,10,1,Semi-furnished,Apartment,6.5,22.8,4883908
+Ahmedabad,965,2,3,20,17,2,Unfurnished,Independent House,3.0,12.4,4385182
+Hyderabad,1993,4,3,0,8,0,Unfurnished,Independent House,3.8,25.8,12610674
+Nagpur,2435,5,6,29,23,0,Semi-furnished,Independent House,9.6,18.7,9489245
+Ahmedabad,502,1,2,13,2,2,Semi-furnished,Apartment,6.7,17.3,2583131
+Ahmedabad,2603,6,6,14,5,2,Unfurnished,Apartment,6.4,9.7,12331437
+Mumbai,2631,5,5,27,8,1,Semi-furnished,Independent House,6.8,20.1,33276928
+Nashik,1257,3,3,42,5,1,Semi-furnished,Apartment,9.6,4.6,5804981
+Ahmedabad,2096,3,2,38,14,3,Unfurnished,Apartment,4.1,16.0,8971290
+Nashik,1417,4,4,44,17,2,Semi-furnished,Apartment,3.5,3.9,4903306
+Bengaluru,759,1,1,18,22,1,Semi-furnished,Apartment,4.4,13.6,5851228
+Nashik,1751,4,4,5,12,1,Semi-furnished,Independent House,8.2,18.7,8277939
+Pune,579,1,1,9,15,1,Semi-furnished,Apartment,2.1,5.1,4079633
+Delhi,2678,5,5,15,14,2,Semi-furnished,Independent House,2.9,7.1,26895395
+Kolhapur,2799,6,6,13,0,2,Furnished,Independent House,3.1,24.5,9528984
+Delhi,2527,6,5,9,17,1,Furnished,Apartment,6.7,8.0,29843073
+Kolhapur,1841,4,3,6,0,1,Semi-furnished,Apartment,6.8,3.3,7457817
+Bengaluru,1828,5,6,8,13,1,Semi-furnished,Apartment,4.3,10.3,12052374
+Kolhapur,2959,6,6,29,24,1,Furnished,Apartment,3.5,28.1,9787638
+Kolhapur,1007,3,3,22,19,1,Furnished,Independent House,7.8,21.0,4467120
+Kolhapur,551,2,3,1,12,0,Unfurnished,Independent House,1.3,17.5,1907483
+Bengaluru,1839,5,5,25,7,0,Unfurnished,Independent House,7.6,25.3,15592823
+Hyderabad,1221,3,3,37,20,2,Semi-furnished,Villa,2.9,20.0,8376580
+Bengaluru,1204,3,2,19,21,0,Furnished,Apartment,9.1,24.4,11722669
+Delhi,369,2,3,14,9,0,Furnished,Independent House,4.7,19.9,4102868
+Chennai,1930,5,6,12,2,2,Furnished,Apartment,6.8,26.0,12679183
+Hyderabad,1050,1,1,17,14,2,Unfurnished,Apartment,2.1,18.9,5666173
+Delhi,848,1,1,12,15,0,Furnished,Apartment,3.3,8.3,9115238
+Bengaluru,457,1,1,41,23,1,Unfurnished,Apartment,7.3,1.7,3675594
+Bengaluru,1316,4,3,44,22,2,Semi-furnished,Independent House,6.0,3.6,12869732
+Kolhapur,2679,6,5,15,5,1,Semi-furnished,Independent House,7.9,15.6,13268625
+Nagpur,1242,4,4,41,6,1,Semi-furnished,Apartment,6.1,29.2,4112307
+Bengaluru,2150,6,6,38,24,1,Semi-furnished,Apartment,6.1,22.9,15280750
+Nagpur,2355,6,6,3,8,0,Unfurnished,Apartment,8.7,23.4,9347877
+Chennai,1219,4,4,22,11,2,Unfurnished,Independent House,4.8,20.1,8843547
+Pune,2527,5,6,29,7,0,Furnished,Apartment,9.1,27.2,23100033
+Hyderabad,2183,5,5,18,9,1,Unfurnished,Apartment,4.3,22.2,16325316
+Mumbai,1832,4,3,20,14,0,Semi-furnished,Apartment,4.0,8.1,21468346
+Mumbai,353,1,1,22,7,0,Unfurnished,Independent House,8.0,15.2,4868550
+Hyderabad,443,1,2,30,10,0,Unfurnished,Independent House,1.1,12.4,2365550
+Delhi,2976,6,6,13,8,2,Unfurnished,Apartment,2.5,5.4,19234793
+Nashik,2423,6,6,26,2,0,Semi-furnished,Apartment,1.6,7.1,8610513
+Pune,2835,6,5,10,19,1,Semi-furnished,Apartment,5.6,8.9,20418493
+Nagpur,2741,6,5,40,22,0,Unfurnished,Independent House,6.7,5.6,10731080
+Bengaluru,404,3,2,3,12,2,Furnished,Apartment,1.1,6.9,2966144
+Pune,2448,6,5,3,5,1,Unfurnished,Independent House,2.5,27.5,16746877
+Kolhapur,1546,3,3,1,16,2,Semi-furnished,Villa,3.7,10.6,6508697
+Nashik,2442,4,3,15,13,1,Unfurnished,Apartment,3.6,24.9,9198265
+Kolhapur,368,2,1,27,13,1,Furnished,Apartment,1.9,2.4,1235963
+Pune,1114,2,2,44,14,1,Unfurnished,Apartment,2.6,29.5,7701653
+Pune,2341,5,5,20,17,0,Semi-furnished,Apartment,8.6,23.1,21451182
+Hyderabad,2452,6,6,8,1,3,Semi-furnished,Villa,7.3,27.2,19687386
+Delhi,1992,5,4,16,2,3,Semi-furnished,Villa,3.7,16.0,23541651
+Ahmedabad,1148,3,3,5,2,1,Furnished,Apartment,3.4,19.2,6676285
+Bengaluru,1172,2,2,21,3,1,Unfurnished,Villa,1.7,11.1,9647083
+Pune,2912,6,5,32,24,0,Semi-furnished,Apartment,4.1,13.2,20280204
+Ahmedabad,1514,3,3,1,18,1,Furnished,Apartment,4.6,22.6,7947724
+Pune,1535,4,5,34,16,2,Furnished,Independent House,9.1,2.0,13491736
+Mumbai,1814,5,5,10,17,2,Semi-furnished,Apartment,7.7,1.6,24178431
+Delhi,1435,3,2,30,0,1,Semi-furnished,Apartment,5.3,26.3,14120057
+Delhi,1815,6,6,36,5,1,Semi-furnished,Independent House,2.2,3.7,16613399
+Kolhapur,1496,4,4,34,19,2,Semi-furnished,Apartment,6.9,21.8,4955298
+Nagpur,2541,5,6,30,11,1,Furnished,Villa,9.4,6.4,11613086
+Ahmedabad,2759,6,6,31,12,1,Furnished,Apartment,1.7,11.3,11385759
+Bengaluru,2820,6,6,8,18,1,Semi-furnished,Apartment,8.6,9.2,26814026
+Ahmedabad,1845,6,6,6,1,2,Semi-furnished,Villa,2.6,15.0,10934920
+Kolhapur,1522,4,4,17,19,3,Semi-furnished,Apartment,7.3,24.9,5283535
+Mumbai,2219,5,5,27,17,0,Unfurnished,Apartment,2.7,26.3,24242070
+Ahmedabad,2572,6,6,27,10,0,Furnished,Apartment,6.4,7.1,13613852
+Pune,1842,5,5,34,12,0,Semi-furnished,Apartment,3.1,10.5,12558841
+Chennai,2205,6,6,13,1,0,Unfurnished,Apartment,5.9,25.2,15429155
+Nashik,2337,6,5,38,5,1,Semi-furnished,Apartment,6.4,3.1,10131426
+Bengaluru,2142,5,6,20,6,2,Unfurnished,Apartment,6.6,3.9,15980064
+Bengaluru,2327,5,4,11,21,1,Unfurnished,Apartment,7.1,14.6,18322184
+Delhi,903,2,2,33,2,1,Semi-furnished,Independent House,1.6,23.8,7367706
+Nagpur,1671,4,4,5,7,1,Semi-furnished,Villa,7.3,10.4,8119680
+Bengaluru,1909,4,5,18,3,1,Semi-furnished,Apartment,2.4,2.5,16876169
+Kolhapur,357,2,1,35,7,2,Unfurnished,Villa,7.1,29.1,1389607
+Delhi,2618,6,6,34,0,1,Semi-furnished,Independent House,2.1,28.2,25517757
+Pune,1967,4,4,11,6,1,Unfurnished,Villa,5.3,19.7,15804851
+Nashik,692,1,1,7,18,2,Furnished,Independent House,4.5,20.6,3055121
+Nagpur,2513,6,5,1,19,1,Unfurnished,Apartment,9.7,28.0,10262356
+Chennai,2250,6,6,4,9,0,Furnished,Apartment,6.7,19.5,15881551
+Pune,2359,6,6,37,17,1,Unfurnished,Villa,1.8,23.8,18270733
+Pune,1389,3,3,35,15,1,Unfurnished,Apartment,7.3,14.2,7545364
+Delhi,2614,6,6,22,22,1,Semi-furnished,Independent House,2.7,7.2,23206197
+Chennai,1447,3,3,25,20,2,Semi-furnished,Independent House,3.6,25.1,10412353
+Chennai,1862,5,6,14,5,1,Furnished,Apartment,4.4,20.7,12471609
+Bengaluru,352,1,2,8,14,1,Semi-furnished,Apartment,8.0,9.0,3617711
+Chennai,2059,5,5,0,19,2,Semi-furnished,Villa,9.5,18.9,21005718
+Bengaluru,2253,5,5,30,7,1,Unfurnished,Apartment,9.3,24.6,19316448
+Kolhapur,1853,4,3,1,14,1,Semi-furnished,Independent House,2.5,8.5,7504526
+Nashik,1666,3,3,4,10,0,Semi-furnished,Villa,1.5,23.2,8676696
+Kolhapur,2496,5,4,35,7,1,Furnished,Apartment,8.5,2.6,9996138
+Mumbai,2156,6,6,26,4,1,Semi-furnished,Apartment,3.6,18.9,24208486
+Ahmedabad,1087,5,5,22,0,0,Semi-furnished,Apartment,6.2,30.0,5741895
+Mumbai,2892,5,6,9,18,1,Furnished,Independent House,9.8,26.1,48446052
+Ahmedabad,2224,4,4,6,20,0,Unfurnished,Apartment,2.7,26.3,9598289
+Mumbai,2968,6,6,20,16,1,Semi-furnished,Apartment,4.4,20.6,33274634
+Chennai,2924,6,6,16,6,1,Furnished,Apartment,8.8,14.1,25537521
+Pune,2785,6,6,24,0,1,Semi-furnished,Apartment,6.8,20.5,21016313
+Mumbai,2352,6,6,7,15,1,Semi-furnished,Apartment,9.4,10.0,36800989
+Kolhapur,1965,5,5,10,4,1,Furnished,Apartment,6.7,16.8,7869950
+Nashik,806,2,2,5,13,1,Unfurnished,Independent House,3.7,16.4,3860062
+Pune,1790,3,3,19,24,0,Furnished,Apartment,8.2,16.5,14288156
+Ahmedabad,2378,5,4,12,0,1,Semi-furnished,Independent House,7.8,12.7,12789957
+Hyderabad,1730,4,4,10,14,0,Semi-furnished,Villa,9.4,10.9,16166986
+Hyderabad,2651,5,5,24,24,1,Unfurnished,Independent House,5.3,10.2,16276151
+Bengaluru,641,1,1,22,8,2,Semi-furnished,Independent House,5.5,7.1,5867205
+Delhi,1359,2,2,9,20,1,Unfurnished,Apartment,3.9,13.4,13576348
+Pune,1691,4,3,31,20,1,Unfurnished,Apartment,3.4,4.0,9190569
+Delhi,1496,4,4,15,12,2,Semi-furnished,Apartment,10.0,27.1,16423899
+Bengaluru,638,2,2,15,7,0,Unfurnished,Apartment,9.8,2.6,6541181
+Mumbai,757,1,2,21,17,2,Semi-furnished,Apartment,5.8,25.2,9151968
+Hyderabad,2570,5,5,6,15,2,Unfurnished,Apartment,9.6,7.6,18415964
+Kolhapur,1634,4,4,18,11,1,Unfurnished,Apartment,4.2,25.7,5025394
+Nashik,479,1,1,26,4,0,Unfurnished,Independent House,8.6,21.7,1958323
+Hyderabad,394,2,2,5,18,0,Semi-furnished,Apartment,6.7,27.7,2895739
+Hyderabad,1605,2,2,25,5,2,Unfurnished,Apartment,7.5,26.2,10303484
+Nashik,786,2,3,1,3,1,Unfurnished,Apartment,7.5,21.2,3278917
+Kolhapur,2219,4,5,27,1,2,Semi-furnished,Apartment,6.7,5.0,8350359
+Nagpur,2458,6,5,1,11,1,Semi-furnished,Apartment,8.7,16.7,11889085
+Ahmedabad,955,5,5,7,3,1,Semi-furnished,Apartment,4.5,10.5,5022178
+Nagpur,1919,2,2,15,8,1,Unfurnished,Apartment,8.6,26.6,8228291
+Ahmedabad,759,2,2,27,6,0,Furnished,Independent House,2.7,26.2,4180089
+Delhi,1154,1,1,32,11,1,Semi-furnished,Villa,2.8,9.8,10586587
+Hyderabad,2705,6,5,21,19,2,Semi-furnished,Apartment,7.5,20.3,19729915
+Hyderabad,1792,4,4,5,11,1,Unfurnished,Apartment,7.8,10.5,12614655
+Bengaluru,2698,6,6,17,13,2,Unfurnished,Independent House,9.1,20.5,22840352
+Nashik,947,1,1,35,3,3,Semi-furnished,Independent House,3.5,18.6,3819400
+Nashik,1225,3,3,4,2,0,Unfurnished,Villa,1.5,15.6,4715790
+Nagpur,1598,2,3,32,24,1,Semi-furnished,Apartment,5.6,26.4,5831910
+Pune,1622,5,5,17,15,0,Unfurnished,Apartment,8.9,7.8,11558168
+Delhi,2994,6,6,0,0,1,Unfurnished,Apartment,9.7,24.0,31954185
+Bengaluru,653,1,1,31,14,3,Unfurnished,Independent House,8.7,20.8,5165705
+Nagpur,2608,6,5,1,0,2,Unfurnished,Apartment,5.4,8.8,10595013
+Bengaluru,2639,6,6,16,1,2,Semi-furnished,Villa,8.8,12.9,27587958
+Pune,1816,6,5,8,9,0,Unfurnished,Apartment,2.9,2.5,12308992
+Chennai,1262,4,3,26,16,1,Semi-furnished,Independent House,9.3,18.1,10580905
+Nagpur,1726,3,2,2,15,1,Unfurnished,Apartment,6.1,26.7,6307046
+Ahmedabad,1125,2,3,4,19,2,Semi-furnished,Apartment,4.5,4.0,5835402
+Mumbai,2468,6,6,23,4,0,Furnished,Apartment,6.2,4.4,32056043
+Hyderabad,1670,5,5,44,4,0,Furnished,Independent House,8.1,14.5,13092125
+Pune,2803,6,6,1,13,0,Semi-furnished,Apartment,3.2,8.8,23147232
+Hyderabad,2000,5,5,20,21,0,Semi-furnished,Apartment,1.9,8.7,13146476
+Chennai,1713,4,3,36,18,0,Semi-furnished,Independent House,7.6,19.3,11670688
+Bengaluru,2234,5,6,13,16,0,Furnished,Villa,9.6,12.6,27289993
+Mumbai,1685,5,6,22,2,2,Semi-furnished,Independent House,6.7,25.4,20964155
+Chennai,2747,6,6,37,21,2,Unfurnished,Independent House,2.3,13.2,14794112
+Mumbai,839,2,2,32,24,1,Semi-furnished,Apartment,6.8,18.7,10101461
+Bengaluru,2929,6,6,13,14,2,Unfurnished,Villa,2.0,12.2,27675495
+Mumbai,2502,5,5,33,8,1,Semi-furnished,Apartment,3.7,8.1,24943710
+Mumbai,2631,5,5,30,16,2,Unfurnished,Villa,1.3,14.4,33053812
+Delhi,1630,3,3,22,16,1,Unfurnished,Independent House,5.4,21.8,15052123
+Nagpur,2569,6,6,19,23,1,Semi-furnished,Apartment,3.9,28.6,8601602
+Nashik,1163,2,2,41,2,1,Semi-furnished,Apartment,1.9,1.7,4435908
+Mumbai,2369,6,5,39,12,0,Semi-furnished,Independent House,3.8,16.2,25470504
+Mumbai,722,1,1,44,17,1,Furnished,Independent House,6.8,19.3,11160070
+Hyderabad,1164,3,3,30,8,2,Furnished,Independent House,3.6,3.0,8229426
+Kolhapur,1531,3,3,16,21,2,Semi-furnished,Villa,2.3,25.0,5754142
+Nashik,1204,2,2,4,1,1,Furnished,Apartment,5.9,8.6,6189985
+Nagpur,1376,3,3,5,2,1,Semi-furnished,Apartment,7.8,26.3,5735968
+Hyderabad,2523,5,5,42,19,2,Unfurnished,Apartment,8.5,16.8,18227828
+Pune,1030,1,2,16,3,0,Furnished,Apartment,5.2,5.0,6977456
+Mumbai,2325,6,6,4,10,0,Semi-furnished,Apartment,7.4,22.3,30143560
+Pune,545,1,1,10,7,1,Furnished,Villa,8.5,5.1,5701916
+Mumbai,2379,5,5,0,17,1,Unfurnished,Apartment,7.1,21.8,33382941
+Nagpur,2449,5,6,23,0,1,Unfurnished,Independent House,5.7,24.3,9731030
+Bengaluru,1415,2,1,26,8,0,Unfurnished,Independent House,1.5,17.5,10940234
+Nagpur,2265,5,5,17,24,1,Semi-furnished,Apartment,3.6,8.5,8937742
+Chennai,2775,6,5,33,9,1,Furnished,Independent House,3.9,13.4,19767733
+Chennai,2472,6,6,21,14,2,Semi-furnished,Independent House,4.6,16.1,14152037
+Delhi,1385,2,2,43,24,1,Unfurnished,Apartment,9.6,20.1,14249132
+Nagpur,1633,4,4,34,15,1,Semi-furnished,Apartment,2.9,19.2,4860976
+Mumbai,2415,5,4,3,18,2,Unfurnished,Apartment,5.9,12.3,31263019
+Mumbai,1125,3,4,12,23,2,Semi-furnished,Independent House,9.9,22.9,17115553
+Delhi,2480,6,6,33,15,1,Semi-furnished,Apartment,6.6,23.3,22686927
+Hyderabad,1219,1,1,24,20,0,Unfurnished,Apartment,2.9,21.0,6071054
+Chennai,2486,6,6,33,12,1,Semi-furnished,Villa,9.6,8.5,17880551
+Nashik,580,1,1,15,20,1,Semi-furnished,Independent House,4.0,14.3,2261000
+Chennai,468,1,1,1,16,1,Unfurnished,Independent House,1.4,13.3,3220499
+Bengaluru,2994,6,5,35,8,2,Semi-furnished,Villa,4.9,24.6,23907743
+Hyderabad,2654,6,5,35,13,2,Semi-furnished,Apartment,3.2,24.3,14287687
+Nashik,2690,5,4,28,8,2,Semi-furnished,Apartment,8.4,26.0,11877191
+Bengaluru,2871,6,5,18,9,1,Unfurnished,Independent House,3.0,7.3,21076834
+Chennai,1512,4,5,0,7,3,Unfurnished,Apartment,8.4,22.6,10677805
+Chennai,1110,3,3,32,12,2,Semi-furnished,Apartment,1.3,26.2,6148858
+Nashik,695,1,2,29,8,0,Unfurnished,Independent House,9.4,5.4,3212449
+Nashik,1678,3,3,30,15,1,Furnished,Apartment,1.4,1.7,5652850
+Delhi,933,3,4,7,9,0,Semi-furnished,Apartment,9.4,3.6,10414018
+Hyderabad,2829,5,4,32,12,1,Semi-furnished,Apartment,1.7,18.4,16662060
+Hyderabad,361,2,1,32,3,1,Semi-furnished,Independent House,8.9,12.9,2556504
+Delhi,729,1,1,38,9,1,Semi-furnished,Apartment,8.5,6.3,7189805
+Bengaluru,1003,2,3,25,8,0,Unfurnished,Apartment,6.3,16.1,7469788
+Kolhapur,877,1,1,32,24,1,Unfurnished,Independent House,1.3,23.7,2579704
+Bengaluru,948,2,2,18,11,0,Semi-furnished,Villa,6.6,25.7,9803966
+Kolhapur,2089,5,6,31,0,1,Semi-furnished,Apartment,6.6,22.7,7080407
+Nashik,1218,2,2,31,7,2,Furnished,Apartment,6.0,26.6,5429996
+Ahmedabad,1980,5,5,35,18,3,Semi-furnished,Apartment,6.7,18.3,10316555
+Pune,2709,6,6,38,4,1,Semi-furnished,Apartment,9.7,25.2,23138770
+Nashik,1947,4,4,0,4,1,Unfurnished,Apartment,10.0,12.8,9456599
+Mumbai,2191,6,6,35,9,2,Unfurnished,Apartment,5.7,25.6,26586178
+Hyderabad,1319,1,1,35,8,0,Furnished,Apartment,1.8,26.9,7915195
+Pune,773,2,1,24,12,3,Unfurnished,Apartment,2.2,20.7,4108407
+Pune,1200,4,3,23,0,2,Furnished,Apartment,7.5,13.2,9570119
+Pune,2905,6,6,32,18,1,Unfurnished,Independent House,9.8,8.8,24209202
+Mumbai,1998,5,5,20,5,0,Semi-furnished,Apartment,4.9,10.1,23988847
+Nagpur,1085,2,2,18,17,0,Unfurnished,Apartment,1.9,4.4,3595581
+Mumbai,1545,3,3,36,14,1,Semi-furnished,Apartment,4.2,1.9,16243026
+Hyderabad,2564,5,4,35,5,1,Unfurnished,Independent House,4.5,12.7,19262651
+Kolhapur,2121,5,5,9,11,2,Semi-furnished,Apartment,10.0,1.8,8870170
+Ahmedabad,1836,3,3,37,0,1,Furnished,Apartment,7.2,26.5,9181126
+Nagpur,2696,6,6,14,17,1,Semi-furnished,Independent House,2.1,19.7,9278636
+Pune,2132,6,6,6,7,1,Unfurnished,Independent House,4.0,25.4,14919234
+Ahmedabad,2053,5,5,39,9,1,Semi-furnished,Independent House,1.4,13.6,8811683
+Kolhapur,853,1,1,10,3,0,Semi-furnished,Apartment,6.9,7.1,3220846
+Pune,632,1,1,9,9,1,Unfurnished,Apartment,7.1,9.1,4949130
+Delhi,2908,6,6,12,9,1,Semi-furnished,Apartment,1.5,25.7,28002970
+Ahmedabad,1937,4,4,22,5,2,Furnished,Apartment,4.0,4.1,9635458
+Hyderabad,1452,4,5,7,24,1,Semi-furnished,Apartment,9.1,21.1,11206135
+Pune,1911,4,4,7,6,1,Semi-furnished,Apartment,8.4,7.2,17631152
+Nagpur,514,2,2,17,4,2,Semi-furnished,Apartment,6.2,10.9,2000178
+Ahmedabad,2529,5,4,9,13,1,Semi-furnished,Villa,5.4,0.6,15595214
+Ahmedabad,924,1,1,8,7,2,Unfurnished,Apartment,9.9,14.6,4591901
+Ahmedabad,2482,5,4,41,11,1,Semi-furnished,Apartment,7.5,4.3,10913517
+Nagpur,1766,3,3,26,18,2,Semi-furnished,Villa,9.6,25.9,8257289
+Delhi,1083,4,4,0,1,1,Unfurnished,Independent House,1.6,3.4,9921746
+Pune,430,1,1,4,12,1,Unfurnished,Apartment,2.9,7.9,2839044
+Kolhapur,2512,6,6,36,0,2,Furnished,Independent House,1.3,0.9,8637916
+Bengaluru,818,1,1,12,1,0,Unfurnished,Apartment,8.8,29.8,7253067
+Delhi,487,1,1,6,2,2,Unfurnished,Independent House,7.2,19.4,4800945
+Kolhapur,2353,5,5,29,4,1,Unfurnished,Apartment,2.6,19.5,6417402
+Ahmedabad,1278,4,4,37,8,0,Unfurnished,Villa,9.8,15.8,7455371
+Bengaluru,1382,3,3,17,23,0,Furnished,Apartment,9.6,26.1,12449136
+Bengaluru,1005,2,3,33,22,2,Semi-furnished,Independent House,3.0,4.8,7784187
+Nashik,2627,6,6,18,2,2,Semi-furnished,Apartment,6.8,23.9,11646628
+Mumbai,1138,3,2,4,24,1,Semi-furnished,Apartment,7.0,24.3,15145813
+Chennai,907,3,4,35,15,0,Semi-furnished,Apartment,1.0,1.6,4817697
+Nashik,1170,3,3,41,13,1,Semi-furnished,Independent House,7.2,4.4,4739322
+Chennai,888,2,2,44,19,0,Furnished,Apartment,3.0,16.6,4718106
+Hyderabad,1192,3,4,4,12,2,Semi-furnished,Villa,9.1,3.2,10782124
+Nagpur,570,1,1,25,6,0,Semi-furnished,Apartment,8.5,8.8,2659550
+Hyderabad,770,1,1,28,13,0,Semi-furnished,Independent House,9.1,12.4,6209165
+Nashik,1455,2,1,3,18,0,Furnished,Independent House,7.8,5.1,6768257
+Delhi,2681,5,6,42,17,1,Unfurnished,Apartment,2.5,21.3,20805460
+Mumbai,502,2,1,4,4,1,Semi-furnished,Independent House,4.2,15.1,6358670
+Chennai,914,2,2,12,23,1,Semi-furnished,Independent House,7.4,19.4,6963335
+Mumbai,2757,6,6,43,7,1,Semi-furnished,Independent House,3.9,14.5,30175566
+Ahmedabad,2709,4,3,25,20,3,Furnished,Apartment,7.4,12.7,16968985
+Kolhapur,2151,6,6,30,7,1,Semi-furnished,Independent House,4.0,15.0,6761089
+Hyderabad,987,1,2,22,1,2,Unfurnished,Apartment,2.6,27.0,5749674
+Delhi,1462,5,4,33,24,1,Semi-furnished,Apartment,5.7,12.2,12499313
+Kolhapur,910,1,1,3,14,0,Furnished,Apartment,7.2,19.4,3830032
+Bengaluru,691,1,1,30,5,2,Semi-furnished,Independent House,5.7,25.1,6092807
+Bengaluru,1357,1,1,2,0,1,Furnished,Villa,6.8,18.8,15934493
+Delhi,1876,4,3,8,3,1,Furnished,Apartment,4.9,7.2,20163512
+Bengaluru,1304,2,2,22,4,0,Furnished,Apartment,8.0,4.1,11706851
+Nashik,1969,4,5,20,23,1,Unfurnished,Apartment,6.8,17.9,9922036
+Pune,1135,1,1,6,4,2,Semi-furnished,Apartment,6.2,22.0,9492451
+Nagpur,1267,3,4,35,4,0,Furnished,Independent House,4.9,23.2,4661193
+Hyderabad,2445,6,6,13,20,0,Furnished,Independent House,5.8,21.0,19144432
+Chennai,2678,6,6,38,21,1,Unfurnished,Independent House,1.5,0.6,16285366
+Pune,1203,2,3,0,5,1,Unfurnished,Independent House,7.0,23.3,10626229
+Hyderabad,1865,4,3,10,16,2,Unfurnished,Apartment,2.8,18.3,11957955
+Nashik,1087,1,1,13,13,1,Semi-furnished,Apartment,8.7,29.7,5199428
+Bengaluru,491,1,1,26,14,2,Furnished,Apartment,8.3,23.1,4878180
+Pune,2305,5,6,18,7,1,Semi-furnished,Villa,5.8,13.2,19230345
+Chennai,803,2,1,7,18,1,Unfurnished,Independent House,8.6,20.4,7102213
+Pune,1478,4,3,25,22,1,Unfurnished,Apartment,7.0,18.7,12830172
+Hyderabad,1641,4,4,43,18,0,Furnished,Apartment,2.3,10.5,10528471
+Delhi,839,1,1,6,22,2,Unfurnished,Apartment,7.7,16.2,8331404
+Chennai,601,2,1,11,2,0,Unfurnished,Villa,10.0,6.5,5151675
+Kolhapur,1272,3,3,21,16,1,Unfurnished,Apartment,1.4,3.1,3633661
+Kolhapur,2874,6,6,32,24,2,Furnished,Apartment,3.2,22.1,9252822
+Nagpur,1980,4,4,6,13,1,Semi-furnished,Apartment,6.4,11.8,6596460
+Mumbai,1361,3,4,10,23,0,Unfurnished,Independent House,4.7,22.8,19018649
+Hyderabad,453,2,2,10,8,2,Unfurnished,Independent House,6.7,14.9,3717991
+Mumbai,1941,5,5,27,22,1,Furnished,Apartment,6.3,24.4,21274777
+Mumbai,594,1,1,3,23,2,Semi-furnished,Independent House,8.1,22.3,9262235
+Bengaluru,1788,4,5,29,15,1,Semi-furnished,Apartment,1.6,23.0,12620973
+Chennai,2343,6,5,19,17,0,Unfurnished,Independent House,5.0,13.2,15385682
+Nagpur,1473,4,3,14,13,0,Unfurnished,Apartment,8.7,28.9,5954294
+Nashik,1143,2,1,38,7,1,Furnished,Apartment,4.3,12.5,3760788
+Kolhapur,476,1,1,36,13,2,Semi-furnished,Apartment,5.5,23.9,1561632
+Nashik,416,1,1,36,24,1,Semi-furnished,Independent House,1.2,14.9,1518740
+Pune,1490,3,4,39,0,2,Furnished,Apartment,3.0,7.4,10604077
+Nagpur,2691,5,5,10,5,1,Semi-furnished,Apartment,5.2,19.1,9033673
+Nagpur,997,3,3,38,12,1,Furnished,Apartment,4.6,14.3,3754339
+Mumbai,1871,5,4,7,8,0,Unfurnished,Apartment,7.4,8.3,26381875
+Delhi,2163,4,4,14,15,0,Unfurnished,Independent House,6.5,11.8,22213149
+Nagpur,511,1,1,24,9,1,Furnished,Apartment,8.9,5.2,2169239
+Delhi,756,1,2,33,16,1,Furnished,Apartment,8.7,29.6,9196003
+Nagpur,1228,2,2,25,2,2,Semi-furnished,Independent House,3.2,19.5,4120611
+Ahmedabad,2126,6,6,25,8,1,Semi-furnished,Apartment,1.2,5.6,9797474
+Delhi,1513,4,5,16,17,1,Furnished,Independent House,8.7,23.1,17520842
+Mumbai,2296,6,6,26,11,0,Semi-furnished,Apartment,4.0,18.3,30865459
+Hyderabad,2649,6,6,21,17,2,Unfurnished,Villa,4.1,21.8,19504914
+Bengaluru,2360,5,5,21,15,0,Semi-furnished,Independent House,2.4,17.7,20092604
+Delhi,2979,5,5,26,8,1,Semi-furnished,Apartment,7.2,2.3,30426999
+Chennai,2349,6,5,27,10,0,Semi-furnished,Apartment,3.5,6.5,13079273
+Delhi,2608,6,6,14,24,0,Furnished,Independent House,2.6,23.2,23364238
+Pune,2556,6,5,6,24,1,Semi-furnished,Independent House,5.5,22.8,20988034
+Hyderabad,2285,5,5,13,0,1,Unfurnished,Apartment,7.8,22.7,17164572
+Kolhapur,2475,5,4,18,17,1,Unfurnished,Apartment,3.4,0.9,8119217
+Mumbai,2827,6,6,7,12,1,Furnished,Apartment,7.5,24.3,38892629
+Bengaluru,1609,4,5,7,0,3,Unfurnished,Independent House,5.2,13.5,16064894
+Nagpur,2041,3,3,42,15,1,Furnished,Independent House,4.6,21.0,6359941
+Mumbai,1715,4,4,12,0,1,Unfurnished,Apartment,4.2,8.5,17652271
+Delhi,2605,6,6,33,7,2,Semi-furnished,Apartment,2.3,23.2,15572105
+Bengaluru,1493,2,2,5,17,1,Furnished,Independent House,4.0,29.5,15053447
+Pune,2522,4,4,43,20,1,Semi-furnished,Villa,8.9,8.0,22540722
+Delhi,2468,5,4,9,10,1,Furnished,Apartment,1.9,23.6,24181495
+Chennai,2899,6,6,17,20,0,Unfurnished,Apartment,9.6,18.3,20453845
+Pune,1010,4,4,35,20,1,Semi-furnished,Apartment,2.0,8.6,7311771
+Mumbai,2230,5,6,9,11,1,Semi-furnished,Independent House,4.3,9.2,29220395
+Pune,2356,6,6,24,4,2,Furnished,Apartment,6.5,22.1,19650687
+Kolhapur,2831,6,5,35,16,2,Unfurnished,Apartment,8.5,8.9,10195423
+Nagpur,2753,6,6,1,0,0,Unfurnished,Independent House,2.3,1.9,10603367
+Pune,1870,4,4,1,22,0,Semi-furnished,Apartment,2.3,26.3,15418248
+Hyderabad,1885,4,4,35,9,1,Furnished,Apartment,6.7,17.9,11367311
+Hyderabad,793,1,1,11,19,1,Furnished,Apartment,3.6,22.9,5375389
+Hyderabad,2934,5,6,40,18,1,Furnished,Apartment,6.8,18.3,20469308
+Bengaluru,1026,3,3,41,11,1,Semi-furnished,Apartment,8.4,15.7,8822040
+Mumbai,2271,5,6,39,24,1,Semi-furnished,Apartment,1.7,23.2,21523189
+Chennai,2459,5,6,44,19,2,Furnished,Apartment,8.6,1.4,17112691
+Hyderabad,1519,2,3,37,22,1,Furnished,Apartment,1.3,9.7,10316505
+Hyderabad,910,2,1,17,2,0,Furnished,Independent House,9.1,19.0,7508588
+Bengaluru,851,3,3,44,12,1,Furnished,Independent House,9.8,28.3,9739932
+Ahmedabad,2620,6,5,15,23,1,Furnished,Apartment,7.0,12.1,14967323
+Kolhapur,1704,2,1,26,20,1,Unfurnished,Independent House,9.9,29.3,6394715
+Delhi,589,1,1,0,11,1,Unfurnished,Apartment,8.4,22.8,6244418
+Bengaluru,2250,4,4,43,1,1,Furnished,Independent House,1.4,14.8,17503804
+Nagpur,1013,3,2,26,7,2,Semi-furnished,Independent House,1.0,13.2,3954013
+Nagpur,2672,6,6,42,14,2,Unfurnished,Independent House,1.2,4.3,7371353
+Mumbai,1170,2,3,15,16,1,Semi-furnished,Independent House,5.1,18.6,13041889
+Ahmedabad,881,2,3,14,23,0,Semi-furnished,Apartment,6.6,2.0,4756740
